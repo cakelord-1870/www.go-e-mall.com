@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/pets-accessories.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2020-07-04T11:43:19-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412733517988</id>
+    <published>2020-07-04T11:43:19-04:00</published>
+    <updated>2020-07-04T11:43:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kawaii-cat-hoodies-10550"/>
+    <title>Kawaii Cat Hoodies</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/31f22ae5574a42ac06127282c2a8e680.jpg?v=1594423816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gender: UnisexItem Type: HoodiesSleeve Length(cm): FullThickness: FleeceClosure Type: BeltSleeve Style: REGULARCollar: HoodedStyle: CasualMaterial: PolyesterMaterial: COTTONClothing Length: REGULARPattern Type: SolidHooded: YesDetachable Part: NONEType: REGULAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Blue 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_BZDD3V1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Blue 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_W9BHBWV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Blue 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_HGEQ62J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Blue 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_E6B5BED</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>White 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_497FQ68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>White 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_KP3000C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>White 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_EYHY9NV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>White 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_JVANIYC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Dark Gray 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_CYQYMKG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Dark Gray 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_CJQBLKW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Dark Gray 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_TB3ZN6S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Dark Gray 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_ZPALVCF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Light Gray 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_WFJ0GSN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Light Gray 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_IG1YAXZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Light Gray 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_67646CK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Light Gray 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_I1JZNN1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Red 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_HI57XNC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Red 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_36MIP2S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Red 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_97XNCP1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Red 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_XLM0NKN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Pink 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_Z8HRGER</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Pink 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_SI3MAF5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Pink 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_DL16NGA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Pink 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_MRVZRU8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Purple 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_U4BL2Z3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Purple 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_VIXHW73</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Purple 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_A5R8UWZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Purple 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_0J9W9Y8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Orange 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_8MVY7HM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Orange 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_YTTR9UL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Orange 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_2ZB0YRX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Orange 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_HE99V4I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Yellow 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_ZXXONUY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Yellow 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_QU08X34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Yellow 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_5MBGGIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Yellow 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_ZIF1X20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Khaki 2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_9KJRX36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Khaki 2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_OP93Z8X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Khaki 2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_IJ3U6PT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Khaki 2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_ISMWAOI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Blue 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_JR9WFQ0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Blue 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_FNLG5X3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Blue 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_CL6K9MG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Blue 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_IPR6N66</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Navy Blue 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_X73YCY4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Navy Blue 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_KMNBCNM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Navy Blue 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_C1XNL48</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Navy Blue 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_RKOXE4V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Dark Gray 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_W75P4EH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Dark Gray 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_LOE7A40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Dark Gray 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_RJ92BST</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Dark Gray 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_M8SCNED</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Light Gray 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_DCA3F42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Light Gray 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_LDLSGRN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Light Gray 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_1DVU5P7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Light Gray 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_2RUYWDE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Black 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_6I2ITUC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Black 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_LRE5D89</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Black 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_V5M346N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Black 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_1LVD201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Red 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_SJAU2M5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Red 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_KDS43I5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Red 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_EXKSPEL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Red 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_FZBUE2S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Pink 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_JLIDOS8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Pink 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_XHJYO0W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Pink 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_HBW3922</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Pink 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_SNRZRPZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Purple 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_RRPD4ZH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Purple 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_ZE7574R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Purple 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_1LW0HNU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Purple 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>11961_N3SRD07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Orange 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>CFUWV2J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Orange 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>6F9YWL6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Orange 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>EDP14KY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Orange 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>HWSUSH9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Yellow 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>WA11G0M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Yellow 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>SZII2VB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Yellow 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>GEQI3SR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Yellow 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>00L2YXK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Khaki 1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>H0D4V7X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Khaki 1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>X0CWG3U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Khaki 1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>C1EEUOF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412733517988</id>
+      <title>Khaki 1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>ARY838C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412186161316</id>
+    <published>2020-07-04T07:17:07-04:00</published>
+    <updated>2020-07-04T07:17:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/handheld-vacuum-cordless-powerful-cyclone-suction-portable-rechargeable-vacuum-cleaner-quick-charge-for-car-home-pet-hair-02812"/>
+    <title>Handheld Vacuum Cordless Powerful Cyclone Suction Portable Rechargeable Vacuum Cleaner Quick Charge for Car Home Pet Hair</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/983fef0de75b0bc9ec16e90621567e0c.jpg?v=1594429518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>STRONG SUCTION &amp; THOROUGH CLEANING --120W super power motor provides strong suction up to 6Kpa, can easily absorb hair, food residue, particles, and less than 0.1 micron debris hidden in the sofa, cushion, etc. A wise choice for daily quick pick-up, car cleaning and home cleaning.VERSATILE, SUPPORT ALL-ROUND DRY &amp; WET CLEANING--This hand vacuum cleaner is versatile with more than one attachments; extended hose widens cleaning scope and makes cleaning easier. Crevice tool allows you to pick up debris at narrow corner or space; dusting brush allows you to absorb hair or residue from the delicate surface and interior decoration. It helps you to easily clean dust, debris, bread crumbs, pet hair, dog hair, cat hair, and liquids (no more than 100 ml).CORDLESS , LIGHTWEIGHT , PORTABLE-- Cordless and accessible! This cordless vacuum dust cleaner is lightweight and easy to carry. It frees the machine and helps you to clean staircase, kitchen, floors,carpet,car and hard-to-reach places.You'll no longer be plagued by cumbersome and twisted cord. 1.6 pound weight and ergonomic handstick design help you keep away from fatigue caused by cleaning.FAST CHARGE, MULTIPLE PROTECTIONS -- handheld vacuum cleaner adopts 3500mAh li-ion batteries, the latest generation of charging technology and self-developed intelligent power management technology, which allows it to fast charge batteries within 3-4 hours and have 30-min long-lasting running time.Multiple protections provided by the intelligent power management technology better ensure the equipment safety throughout the charging process.Specifications:color:blackMaterial:ABSsize: 35*10cmPackage Contents: 1 x Handheld Car Vacuum 1 x Flat Crevice Nozzle 1 x EVA Lengthen Flexible Hose 1 x Dust Brush 1 x Hose connector 1 x English Manual
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412186161316</id>
+      <title>black</title>
+      <s:price currency="USD">29.57</s:price>
+      <s:sku>14233_CUJSQK0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5409942405284</id>
+    <published>2020-07-03T13:22:49-04:00</published>
+    <updated>2020-07-03T13:22:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/dog-winter-clothes-windproof-dog-jacket-fashion-pet-clothing-for-medium-large-dogs-labrador-reflective-dogs-clothes-ropa-perro-17169"/>
+    <title>Dog Winter Clothes Windproof Dog Jacket Fashion Pet Clothing for Medium Large Dogs Labrador Reflective Dogs Clothes Ropa Perro</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/39117893a8147d0fbe5447906e779e6a.jpg?v=1594415362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>Camouflage / 5XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_Y8SY6G0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>Camouflage / 4XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_PH6M63H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>Camouflage / 3XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_NAHKQDJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>Camouflage / XXL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_DZWQGBW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>Camouflage / XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_SOLFTG6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>Camouflage / L</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_KZFJBI0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>Camouflage / M</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_DVUZFQJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>Camouflage / S</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_LBSCKKZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>yellow / 5XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_S8XEM39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>yellow / 4XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_MRFVNI2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>yellow / 3XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_CRWMBAM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>yellow / XXL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_KWSHDW2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>yellow / XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_FIJICDU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>yellow / L</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_G70LRRP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>yellow / M</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_PEYASML</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>yellow / S</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_R6O6HJC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>red / 5XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_KKPDMXE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>red / 4XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_EWWYO9C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>red / 3XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_HXOVZ5O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>red / XXL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_0B31NAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>red / XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_3AWR7GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>red / L</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_7MHO93L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>red / M</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_SMG8RUQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>red / S</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_30WTCCC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>black / 5XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_F1OAGMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>black / 4XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_JNFJPYT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>black / 3XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_NC9VHB8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>black / XXL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_JPKRPBC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>black / XL</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_HZSDPMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>black / L</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_WLCJIOR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>black / M</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_OSRDEVK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5409942405284</id>
+      <title>black / S</title>
+      <s:price currency="USD">18.76</s:price>
+      <s:sku>14401_PVOKWBY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5405686726820</id>
+    <published>2020-07-02T14:04:01-04:00</published>
+    <updated>2020-07-02T14:04:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/window-mount-cat-hammock-50364"/>
+    <title>Window Mount Cat Hammock</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/5795fe50faea7ec26be45d6b316b1600.jpg?v=1594152983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Note:Due to the cold weather, the suction cup of the product will become hard. It is necessary to put the product in hot water for one minute before use and dry the product.Feature:Pretty plain looking designed.The seat is covered with a sturdy cloth cover.The cloth cover can be easily removed and washable.The bed is designed to attach directly to the window with four sucker cups (no hardware or tools needed.)The perch is designed to hold a maximum weight of 40 pounds.When you mounted the seat the first time, you should clean the wall or glass surface.Absolutely a favorite for your cat.Tip: coz sucker made of plastic, especially in winter; it is easy to send hard, If the suction cup claw force is not enough to belong to the normal phenomenon, it is recommended to use hot water to make it soften, which is helpful to the suction cup. Specifications:Material: PP, PVC, NylonSize: 55*35cmLoad: about 20kgColor: as the picture showWeight: 625gPackage Include:1 x Cat Hammock Note:1. If your pet is a puppy/kitty, we recommend you carefully select the size or maybe buy a larger size, as your pet may grow between ordering and receiving the goods.2. Due to the light and screen difference, the item's color may be slightly different from the pictures. Please understand. Make sure you don't mind before you bid.3. Please allow 1-5mm differences due to manual measurement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405686726820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>UM98C1T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5405684400292</id>
+    <published>2020-07-02T14:03:02-04:00</published>
+    <updated>2020-07-02T14:03:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/cat-hammock-bed-mount-set-99665"/>
+    <title>Cat Hammock Bed Mount Set</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/fdc4196605a0895192eff9a5b1349c57.jpg?v=1594461260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Give your cat the comfort he/she wanted. Hammock Style Cat Bed – A funny perch for your pet! This hammock style cat bed instantly suctions to any window, offering a comfy, secure, elevated perch for your cat to sleep beneath warming sunbeams, while staying off furniture.It is easily mounts to windows using industrial strength suction cups and braces. And it offers sanctuary for multiple cats, measures 68cmx 28cm and holds up to 15kg.Bring your cat with you wherever you go and offer him extra comfort with this Hammock Style Cat Bed! This is a perfect gift for your cat and friends and love ones with cats!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405684400292</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.51</s:price>
+      <s:sku>KZCRT2K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405684400292</id>
+      <title>Green</title>
+      <s:price currency="USD">27.51</s:price>
+      <s:sku>AIDRZK7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5405679517860</id>
+    <published>2020-07-02T14:00:58-04:00</published>
+    <updated>2020-07-02T14:00:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/dog-car-seat-rear-back-hammock-29636"/>
+    <title>Dog Car Seat Rear Back Hammock</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/5823914e963c8c0a07b670bdbf44c49c.jpg?v=1594434989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material: PVC Waterproof layer, oxfordColor: as shownSize: 145x120cmConversion: 1inch=2.54cmPackage Included:1 X Pet Dog Car Seat Mat</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405679517860</id>
+      <title>Blue</title>
+      <s:price currency="USD">20.82</s:price>
+      <s:sku>8WLUOGB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405679517860</id>
+      <title>Green</title>
+      <s:price currency="USD">20.82</s:price>
+      <s:sku>8PJAOUH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405679517860</id>
+      <title>pink</title>
+      <s:price currency="USD">20.82</s:price>
+      <s:sku>78GVY1Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405679517860</id>
+      <title>Red</title>
+      <s:price currency="USD">20.82</s:price>
+      <s:sku>VY8OFQ3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5405619650724</id>
+    <published>2020-07-02T13:38:11-04:00</published>
+    <updated>2020-07-02T13:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/pet-carrier-bag-31895"/>
+    <title>Pet Carrier Bag</title>
+    <s:type>Pet</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/ad4e35dd9df4f21b003097c299c1265f.jpg?v=1594348343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Pet<br>
+        <strong>Price: </strong>
+            19.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you intending to carry your little buddies while you are outside? This dog carrier chest or backpack will make it easier. You can hang it on your chest or on your back. Its ergonomic design makes you and your dogs feel comfortable.Applicable Dog Breed: UniversalMaterial: NylonFitable Weight: &lt;25 kgBrand Name: VenxuisType: Cat / Small DogStyle: classicalColor: Red ,Green , Blue , Rose , YellowSize: Small 30*34cm, Large 36*45cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Gold / Large</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>T6H5DB0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>7YP88PX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Red / Large</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>QPOQL3O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Green / Large</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>BTQL223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>N40BDWS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Gold / Small</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>9ZG5AVB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>XURK9Z8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Red / Small</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>UPPYYIH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Green / Small</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>YV1LXK6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405619650724</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">19.85</s:price>
+      <s:sku>BZGYDX2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5405609984164</id>
+    <published>2020-07-02T13:33:42-04:00</published>
+    <updated>2020-07-02T13:33:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/cat-hammock-91409"/>
+    <title>Cat hammock</title>
+    <s:type>Cat hammock</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/1e009c9dcadba8aa91b11443599de887.jpg?v=1594461617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Cat hammock<br>
+        <strong>Price: </strong>
+            11.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features:This ingenious space-saving Pet Hammock attaches under chairs or tables Use wasted space underneath your chair and eliminate clutter from bulky pet bedsSomewhere your cat can hideout and sleepProviding a sense of warmth, security and comfortAttaches securely by fully adjustable and removes easily for storage or travelComing with four anti-slip rubber rings and four buckles to add safety and steadinessSpecifications:Color: Available in Black, Dark Grey + BeigeMaterial:ClothSize:400*400mmTape Length:270mmWeight:91gPackage Dimensions:210*150*30mmPacking:PVC BagPackage Content:1 x Cat Hammock4 x Anti-slip Rubber Rings4 x Buckles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405609984164</id>
+      <title>Black</title>
+      <s:price currency="USD">11.05</s:price>
+      <s:sku>706FYF6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405609984164</id>
+      <title>Grey and Beige</title>
+      <s:price currency="USD">11.05</s:price>
+      <s:sku>WHA68V3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5405583278244</id>
+    <published>2020-07-02T13:22:23-04:00</published>
+    <updated>2020-07-02T13:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/hoopet-small-dog-raincoat-17498"/>
+    <title>HOOPET Small Dog Raincoat</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/0456f673ebf96184c038c243ed3a6d7b.jpg?v=1594446613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waterproof rain jacket help to keep pets dry and comfortable in wet weather. It can satisfy pets' needs to walk in the outside when it is rain.The hottest fashion style, the transparent material makes this raincoat looks more special, fresh and sweet.This designer pet outfit will bring both style and eye-catch to your little one in the crowd.Protect your pet with the pets packable rain poncho. Lightweight with a water resistant plastic, this coat easily tucks into a convenient carrying pouch so you can carry it on your leash or stow it in your car.Available in 3 colors. Size:S Neck Girth:12.6" Chest Girth:16.5" Back Length:11.4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>White / XL</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_FCRT1SW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>White / L</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_9Q3W2BO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>White / M</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_2TI15FM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>White / S</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_TPAP2V8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>White / XS</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_6BO9TBO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Orange / XL</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_PLVCVOW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Orange / L</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_K7K3TXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Orange / M</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_ZVGRQDC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Orange / S</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_RA3G3KS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Orange / XS</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_YB7TYQ2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Green / XL</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_J42EXVR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Green / L</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_HC1UHTC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Green / M</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_4SQA6AE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Green / S</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_UI28V2O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405583278244</id>
+      <title>Green / XS</title>
+      <s:price currency="USD">11.56</s:price>
+      <s:sku>4581_WPRPUCN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5405565386916</id>
+    <published>2020-07-02T13:14:19-04:00</published>
+    <updated>2020-07-02T13:14:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/cat-candy-treat-39642"/>
+    <title>Cat Candy Treat</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/0168b1c04c6cae27e8d38685581d45a8.jpg?v=1594462347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fish gum is mainly composed of high-grade collagen, vitamins, calcium, zinc, iron, selenium and other trace elements. Increase drinking water. Cats have good palatability. Cats feed for a long time, which can increase the demand of drinking water. Convenient and hygienic. There is adhesive tape on the back of cat sugar. It is easy to use with a tear and a sticker. It can be covered with a transparent lid. ﻿﻿﻿Specifications: Ingredients: Catnip + Fish Gelatin Weight: 12g Specification: 38*38*15mm/1.5*1.5*0.6in </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pets Accessories</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405565386916</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>4275_VJUCA8G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

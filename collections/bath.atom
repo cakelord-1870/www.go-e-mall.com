@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/bath.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2020-09-08T08:46:53-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5649749180580</id>
+    <published>2020-09-08T08:46:53-04:00</published>
+    <updated>2020-09-08T08:46:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/bath-sponge-lace-printed-scrub-shower-baby-bath-scrubber-exfoliating-beauty-skin-care-sponge-face-cleaning-spa-bath-ball-1pc-81904"/>
+    <title>Bath Sponge Lace Printed Scrub Shower Baby Bath Scrubber Exfoliating Beauty Skin Care Sponge Face Cleaning Spa Bath Ball 1pc</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/56e8d6009779a3d7d3bd132617531c3d.jpg?v=1599573629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton fabric, soft and skin-friendly, comfortable and breathableEasy to mud, delicate non-slipEasy to use, soft spongeDoes not hurt the skin, easy to dirtMaterial: EPEColor: blue, pink, green, yellowSize: 13*7*3cmSpecifications:Cotton fabric, soft and skin-friendly, comfortable and breathableEasy to mud, delicate non-slipEasy to use, soft spongeDoes not hurt the skin, easy to dirt Package Included:1*Bath sponge
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5649749180580</id>
+      <title>Roze</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13628_TGJQLIT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5649749180580</id>
+      <title>Geel</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13628_4RQ2NQV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5649749180580</id>
+      <title>Blauw</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13628_7MRLN4V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5649749180580</id>
+      <title>green</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13628_I2191O3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548952813732</id>
+    <published>2020-08-11T19:15:45-04:00</published>
+    <updated>2020-08-11T19:15:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kitchen-sink-multifunctional-storage-rack-multi-purpose-washing-bowl-sponge-drain-rack-high-quality-plastic-kitchen-organizer-26575"/>
+    <title>Kitchen Sink Multifunctional Storage Rack Multi Purpose Washing Bowl Sponge Drain Rack High Quality Plastic Kitchen Organizer</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/47d3a957e882cc231e283f1fe120dc50.jpg?v=1597188652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548952813732</id>
+      <title>Gray</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>13125_RZ76ORX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548952813732</id>
+      <title>Blue</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>13125_QYG9KPI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548952813732</id>
+      <title>Beige</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>13125_6TLT8VH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5513311027364</id>
+    <published>2020-08-02T16:19:29-04:00</published>
+    <updated>2020-08-02T16:19:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/towel-dress-wearable-towel-40736"/>
+    <title>Towel Dress - Wearable Towel</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/40df3d602f21afe9982a56d31906caf1.jpg?v=1596430270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features:Brand newItem: women's towel dressMaterial: microfiberSize: about 140 * 70cmColor: pink / blue / purple / white Noted: Please allow some measurement error due to manual measurement. Thank you Sexy shoulder strap design, soft and comfortable material and super absorbent.Four colors available Suitable for bath, beach or spa.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513311027364</id>
+      <title>Purple</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>9CNZTL4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513311027364</id>
+      <title>Pink</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>EFXKU6I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513311027364</id>
+      <title>Blue</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>O9JOCF4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5488660086948</id>
+    <published>2020-07-27T08:50:04-04:00</published>
+    <updated>2020-07-27T08:50:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/foldable-mini-washing-machine-rotating-ultrasonic-turbines-washer-usb-charging-18186"/>
+    <title>Foldable Mini Washing Machine Rotating Ultrasonic Turbines Washer USB Charging</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/71faa6fed186e58dac1927caef5f9b2b.jpg?v=1595858315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99 - 23.99
+            <a href="https://www.go-e-mall.com/products/foldable-mini-washing-machine-rotating-ultrasonic-turbines-washer-usb-charging-18186">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ultrasonic Working Principle: High-frequency vibration cavitation accelerates the dispersion and emulsification of liquids and stains to achieve the purpose of cleaning and sterilization.Ultrasonic&amp;Turbines Intelligent Interaction: Turbines working for 5 minutes and ultrasonic working for 1 minute alternately cleaning.Washing-saving and Energy-saving, and Safety: The washing machine will automatically shut down after 30 minutes of operation.USB power supply, high-frequency vibration.Foldable bucket type, convenient to use, suitable for 1kg water personal laundry.Small, lightweight, portable, suitable for home and traveling.Perfect for limited space such as dorms, apartments, condos, motor homes, RV's, etc.The mini washer is perfect for baby clothes, underwear, socks, towels and more.Washing Machine only, other accessories demo in the picture is not included.Specifications:Material: PlasticExpanded Height: app.24cm/9.45inFolded Height: app.5.5cm/2.17inWidth: app.32cm/12.60inColor: White + BluePower Suppy: USB ChargingOptional Style: 2 in 1 basic version, 3 in 1 enhanced versionQuantity: 1 Set
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488660086948</id>
+      <title>2</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>21064_CRABZDH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488660086948</id>
+      <title>1</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>21064_68LKJVL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5463838851236</id>
+    <published>2020-07-17T10:38:17-04:00</published>
+    <updated>2020-07-17T10:38:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/silicone-toilet-brush-20232"/>
+    <title>Silicone Toilet Brush</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/02d65e9da1c364438985246941545cb5.jpg?v=1596394695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.65 - 15.68
+            <a href="https://www.go-e-mall.com/products/silicone-toilet-brush-20232">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feature:1.100% New and High Quality. 2. User-friendly handle, fit the hand, comfortable to hold, easy to use.3. The corners are round and integrated, and the surface of the matte plastic is thick.4. According to personal needs, there are two styles of floor type and wall hanging type.5. The interior is hollowed out and the water steam can be evaporated from the top to the bottom.6. The soft hair of TPR material is clean, soft and wear-resistant, decontaminating and non-sticking, and does not hurt the glaze. Specifications:Pattern: solidMaterial: PP + TPRColor: white + blackType: floor standing type, wall mounted typeSize(approx.): as shown belowtotal height * base height 41 * 14cm, brush head height * width 39.5 * 7.5cm Package Included:1PC * Toilet Brush (with base)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5463838851236</id>
+      <title>Gray / Wall Mounted</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>Z9KXURW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5463838851236</id>
+      <title>Black / Wall Mounted</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>JRSGNBH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5463838851236</id>
+      <title>Gray / Floor Standing</title>
+      <s:price currency="USD">14.65</s:price>
+      <s:sku>6DVMIDQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5463838851236</id>
+      <title>Black / Floor Standing</title>
+      <s:price currency="USD">14.65</s:price>
+      <s:sku>NBRMNO8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5455519056036</id>
+    <published>2020-07-14T19:28:41-04:00</published>
+    <updated>2020-07-14T19:28:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/3-in-1-ultraviolet-toothbrush-disinfection-sterilizer-80840"/>
+    <title>3 In 1 Ultraviolet Toothbrush Disinfection Sterilizer</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e40e6244b7478234fa42a2b354c10899.jpg?v=1596392538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features:【3-in-1 function】Including toothbrush Holder , toothpaste Dispenser, toothbrush sterilizer.---Toothbrush HolderCan storage up to 5 pcs toothbrushes included electric toothbrush head, each toothbrush head is protected Interval plate, more safe and health, keep wash basin .---toothpaste dispenserquantitative design saves toothpaste, protect toothbrush from cross infection.---Ultraviolet-ray sterilizationPlug in the power, the switch to turn on the automatic disinfection state automatically stop the sterilization rate of 99.9% in 4-6 minutes.【higher Quality】High quality leading ABS material, no toxic, environment friendly, durcan and broken-resistant, easy to clean.【Sticker Design】Built-in a sticker, good for smooth surface, such as glass, ceramic, marble, must clean the surface before you stick. You should hang toothbrush disinfection after squeeze air and glue dryPlease check if you have chooes sterilizerSpecifications:Type: Toothbrush SterilizerMaterial: ABSQuantity: 1pccolor: whiteUltraviolet : 1000 uW/cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5455519056036</id>
+      <title>UK Plug</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>JYYOHDO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5455519056036</id>
+      <title>US Plug</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>W9PQOAL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5455519056036</id>
+      <title>AU Plug</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>OPZ0WHN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5455519056036</id>
+      <title>EU Plug</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>6X65X49</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425908416676</id>
+    <published>2020-07-08T14:34:06-04:00</published>
+    <updated>2020-07-08T14:34:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/bathroom-high-pressure-air-drain-blaster-gun-powerful-toilet-plunger-auger-cleaner-powerful-plumbing-tools-63895"/>
+    <title>bathroom High Pressure Air Drain Blaster Gun Powerful Toilet Plunger Auger Cleaner Powerful plumbing tools</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/65d846a678a645371386d05ea3b19150.jpg?v=1594242490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425908416676</id>
+      <title>White / One Size</title>
+      <s:price currency="USD">31.11</s:price>
+      <s:sku>20912_NQ8TD7W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425697620132</id>
+    <published>2020-07-08T12:59:36-04:00</published>
+    <updated>2020-07-08T12:59:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/anti-slip-bathroom-handle-for-elderly-21587"/>
+    <title>Anti Slip Bathroom Handle for Elderly</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e634b17b56dc690c1d6ca56b5f121b42.jpg?v=1594269731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications:Size: 29.4 X 9.6 X 8cm/11.57 X 3.78 X 3.15inNet weight: 206gMaterial: Environmental ABS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425697620132</id>
+      <title>White and Gray</title>
+      <s:price currency="USD">10.02</s:price>
+      <s:sku>WJYRP80</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425657249956</id>
+    <published>2020-07-08T12:42:00-04:00</published>
+    <updated>2020-07-08T12:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/toilet-roll-holder-waterproof-paper-towel-41020"/>
+    <title>Toilet Roll Holder Waterproof Paper Towel</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/212e15050143e8fc72547063be656176.jpg?v=1594255455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Description:Size: 22*20.5*12.5CMColour: whiteMaterial: ABSFeatures:1.Wall-mounted, need no drilling, easy to install. Strong bearing capacity; Comes with a self-adhesive sticker.2.HIGH QUALITY GUARANTEE, great practical value &amp; well made with nice surface finish. Handy and Stylish.3.Multiple ways of use, multi-scenario use4.Flat top design, perfect for holding soap, mobile phone or other items.5. Not easy to fade, corrosion resistant, rust-free and easy to clean.Packing listPackage List:1 x Toilet Tissue Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425657249956</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>10895_V1447G4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412520755364</id>
+    <published>2020-07-04T10:10:42-04:00</published>
+    <updated>2020-07-04T10:10:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/automatic-soap-dispenser-96698"/>
+    <title>Automatic Soap Dispenser</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/c48717761ebf824c28a6b1ff2fd88cbe.jpg?v=1594503610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412520755364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>4162_0IH1I3F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412352917668</id>
+    <published>2020-07-04T09:05:51-04:00</published>
+    <updated>2020-07-04T09:05:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/support-dropshipping-2-in-1-uv-light-ultraviolet-toothbrush-sterilizer-automatic-toothpaste-dispenser-toothbrush-holder-home-39811"/>
+    <title>Support Dropshipping 2 in 1 UV Light Ultraviolet Toothbrush Sterilizer  Automatic Toothpaste Dispenser Toothbrush Holder Home</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/ddaaee7ed200564afe8cdedbbb05b71f.jpg?v=1596394768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Support Dropshipping customer's welfare link. customer's welfare link. The more you buy, the cheaper the price！！！If you need to buy UK or AU plugs, please contact customer service, we can provide such plugs.
+Please note! ! ! Our products are boxed, others are bubble column packaging
+Other people's products
+Service and quality are our beliefs, your needs are our direction! ! ! If you have any problems in the purchase, please contact us in time, we will deal with you as soon as possible! ! ! thank you for your trust! ! !</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412352917668</id>
+      <title>AU Plug</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>15217_3KLIAIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412352917668</id>
+      <title>UK Plug</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>15217_JLE8LFB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412352917668</id>
+      <title>US Plug</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>15217_GQ1TXAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412352917668</id>
+      <title>EU Plug</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>15217_L3S3IUI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412337877156</id>
+    <published>2020-07-04T09:00:27-04:00</published>
+    <updated>2020-07-04T09:00:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/bath-shower-silicone-body-brush-bath-belt-exfoliating-back-brush-belt-wash-clean-28-bath-scrub-belt-50534"/>
+    <title>Bath Shower Silicone Body Brush Bath Belt Exfoliating Back Brush Belt Wash Clean 28&apos;&apos; Bath Scrub Belt</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/52604c59405129e0bc682ac426995dc0.jpg?v=1594496068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.08 - 12.09
+            <a href="https://www.go-e-mall.com/products/bath-shower-silicone-body-brush-bath-belt-exfoliating-back-brush-belt-wash-clean-28-bath-scrub-belt-50534">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features:1. Made of high quality grade silicone material, it is healthy and environmentally friendly, contains no harmful substances, is resistant to high temperature, is not easy to rot, and is safe and durable.2. Suitable for different groups of people, such as children, the elderly, men and women.3. Double-sided lines, with bump design, can effectively bring you a cleansing effect.4. The brush surface is designed with a 1cm thick brush head to deepen the pores to clean dirt.5. Silicone wipes are dry, greatly reducing the survival rate of bacteria.6. Gently rubbing can help you create a lot of foam.Specifications:Meterial: SiliconeSize: 27.5x4.7 inch/70x12cmColor: Blue,Pink,Green,PurpleGender: UnisexPackage include:1x Bath Scrub TowelNote:1. Please allow a bit error due to manual measurement. please make sure you do not mind before you bid.2. The color may have different as the difference display, pls understand.
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412337877156</id>
+      <title>Purple</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>13556_PHTAKKA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412337877156</id>
+      <title>Pink</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>13556_LKRNJNF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412337877156</id>
+      <title>Blue</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>13556_705IRQR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412337877156</id>
+      <title>Green</title>
+      <s:price currency="USD">12.09</s:price>
+      <s:sku>13556_H8H616T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412333944996</id>
+    <published>2020-07-04T08:58:40-04:00</published>
+    <updated>2020-07-04T08:58:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/25pcs-travel-soap-paper-portable-outdoor-washing-hand-bath-clean-scented-slice-sheets-mini-paper-soap-random-disposable-soap-62506"/>
+    <title>25pcs Travel Soap Paper Portable Outdoor Washing Hand Bath Clean Scented Slice Sheets Mini Paper Soap Random Disposable Soap</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/37b7dced4463ccd360ff460a05cc789c.jpg?v=1594603486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feature:Please note: Other accessories are not included.100% new qualityProduct Name: Instant Soap Paper Fresh and environmentally friendly paper soap tabletsScope of application: hand washing, cleansing, cleaningSpecifications: 4 styles random deliveryFragrance type: fragrance typeInstructions:1. First moisten the face with clean water and gently rub the pores out.2. Use a fingertip to draw the right amount of the product, put it in the palm of your hand and wet it with a little water.3. Apply evenly to the foam and apply the entire face, gently massage, then wash thoroughly with water.Note:1. Manual measurement allows an error of 1-2 cm. Please don't mind your bid.2. Due to the difference between different displays, the picture may not reflect the actual color of the item. thank you very much!This package includes:1 * Handmade soap tablets</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412333944996</id>
+      <title>25pcs random style</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13249_SAGWF5Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412330668196</id>
+    <published>2020-07-04T08:57:13-04:00</published>
+    <updated>2020-07-04T08:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/portable-tissue-box-for-bathroom-97074"/>
+    <title>Portable Tissue Box For Bathroom</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/56bd1884480e1ae4266d63a435ec8e62.jpg?v=1594306107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.53 - 12.08
+            <a href="https://www.go-e-mall.com/products/portable-tissue-box-for-bathroom-97074">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features1.360 degree surround waterproof, not wet paper2. Strong bearing capacity, bearing capacity 10KG3. Transparent window design, the amount of paper remaining is clearly visible4.Punch free installation, does not damage the wall SpecificationColor: Gray/Blue/Pink/GreenSize: Large 22.5x13x14cm / Small 15.2x13x12.5cmWeight: Large190g / Small130gMaterial: ABS</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412330668196</id>
+      <title>Green / Large</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>0WLKL2K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412330668196</id>
+      <title>Pink / Large</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>DQ5I6KL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412330668196</id>
+      <title>Blue / Large</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>SQ8UL6H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412330668196</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>ZT295JA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412330668196</id>
+      <title>Blue / Small</title>
+      <s:price currency="USD">10.53</s:price>
+      <s:sku>PQ48GI2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412330668196</id>
+      <title>Pink / Small</title>
+      <s:price currency="USD">10.53</s:price>
+      <s:sku>7VTHGRA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412330668196</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">10.53</s:price>
+      <s:sku>6Q0C98Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412213555364</id>
+    <published>2020-07-04T07:58:06-04:00</published>
+    <updated>2020-07-04T07:58:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/x-type-floor-mop-with-3pcs-reusable-microfiber-pads-360-degree-flat-mop-for-home-replace-hand-free-wash-household-cleaning-tools-92349"/>
+    <title>X-type Floor Mop with 3pcs Reusable Microfiber Pads 360 Degree Flat Mop for Home Replace Hand-free Wash Household Cleaning Tools</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/9045eeaacbc436a279df2074e5c51e46.jpg?v=1594682596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.47 - 42.94
+            <a href="https://www.go-e-mall.com/products/x-type-floor-mop-with-3pcs-reusable-microfiber-pads-360-degree-flat-mop-for-home-replace-hand-free-wash-household-cleaning-tools-92349">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Condition: 100% Brand NewMaterial:ABS+SteelColor: gray, blueSize:  as pictureWeight:1.1kg
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412213555364</id>
+      <title>1 mop pad</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>15066_BJ1YFO7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412213555364</id>
+      <title>blue 1 mop 1 cloth</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>15066_6ZCN5U0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412213555364</id>
+      <title>blue 1 mop 3 cloth</title>
+      <s:price currency="USD">42.94</s:price>
+      <s:sku>15066_OAACGEP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412213555364</id>
+      <title>gray 1 mop 3 cloth</title>
+      <s:price currency="USD">42.94</s:price>
+      <s:sku>15066_0M847DM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412213555364</id>
+      <title>gray 1 mop 1 cloth</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>15066_HMTHW3D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412196614308</id>
+    <published>2020-07-04T07:30:44-04:00</published>
+    <updated>2020-07-04T07:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/antibacteria-uv-light-disinfection-toothbrush-20988"/>
+    <title>Antibacteria UV Light Disinfection Toothbrush</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/1feda2829de4a76948f717ee209a36a1.jpg?v=1596392696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features:UV sterilizationThe sterilization box has double 2W UV lamp, rapidly killing the bacteria in 3 mins.Automatic power offWhen you open the lid of the box, it will automatically stop disinfection, smart and practical.MultifunctionalWith  enough space to holds your small gadgets in, this disinfection box can clean your phone, mask, toothbrush, jewelry, make up brushes and more.Portable designThe sterilization box has a simple but exquisite appearance, small size and lightweight, easy to storage or carry.Wide applicationsIt is perfectly ideal for home, office, hotel, traveling, business trip eSpecifications:Type: UV Sterilizer BoxColor：whiteMaterial: ABSSterilizing time: 3 minsInput voltage: 5V 1000mAPower：5WUV wavelength: 254nmOuter size: 210*116*41mm/8.25*4.56*1.61in </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412196614308</id>
+      <title>white</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>19771_3EVGA21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5405978951844</id>
+    <published>2020-07-02T15:59:14-04:00</published>
+    <updated>2020-07-02T15:59:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/shower-hanger-toothbrush-holder-bathroom-24846"/>
+    <title>Shower Hanger Toothbrush Holder Bathroom</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/1605c8f81d6780d13e9bbc90026e4067.jpg?v=1594207698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Installation styles :  Wall mounted styleMaterial :  siliconeType 1 :  Silicone Toothbrush Holdertype 2 :  Bathroom Organizersize :  21.3 * 14.7 * 4cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405978951844</id>
+      <title>Green</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>95D0867</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405978951844</id>
+      <title>Blue</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>3PFYMH1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405978951844</id>
+      <title>Red</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>NQW4H1G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5405978951844</id>
+      <title>Black</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>EE0VQDD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5384941076644</id>
+    <published>2020-06-28T22:01:04-04:00</published>
+    <updated>2020-06-28T22:01:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/towel-plug-holder-self-wall-mount-organizer-towel-rack-kitchen-towels-storage-wash-cloth-clip-organizer-bathroom-accessories-60893"/>
+    <title>Towel Plug Holder Self Wall Mount Organizer Towel Rack Kitchen Towels Storage Wash Cloth Clip Organizer Bathroom Accessories</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/5af7dabcafb5c6d742323d498dc59021.jpg?v=1594681678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>100% brand new and high quality!Made of high quality plastic material, durable and practical.Easy to install, which is convenient to use.Great tools for home kitchen or bathroom to hold towels.No drilling installation, self adhesive.Specifications:1PCS Towel Holder Sucker Wall Window Bathroom Tool Convenient Kitchen Storage Hooks Washing Cloth Hanger Rack NewSpecifications:Item type: Wash Cloth ClipMaterial: ABSColor: White, red, blue.Size: about 6.6*6.6*4.1cm</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5384941076644</id>
+      <title>1 PCS Red</title>
+      <s:price currency="USD">7.10</s:price>
+      <s:sku>19837_SFM3A0E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5384941076644</id>
+      <title>1 PCS White</title>
+      <s:price currency="USD">7.10</s:price>
+      <s:sku>19837_IKZ5I0W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5384941076644</id>
+      <title>1 PCS Blue</title>
+      <s:price currency="USD">7.10</s:price>
+      <s:sku>19837_MIVYPBL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

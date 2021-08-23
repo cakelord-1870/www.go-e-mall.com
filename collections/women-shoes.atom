@@ -1,0 +1,3830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/women-shoes.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2020-07-08T13:02:12-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425704534180</id>
+    <published>2020-07-08T13:02:12-04:00</published>
+    <updated>2020-07-08T13:02:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/winter-female-slip-on-flat-casual-shoes-waterproof-36515"/>
+    <title>Winter Female Slip On Flat Casual Shoes Waterproof</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/39ab7b4b9faebbba913855d560dd8eeb.jpg?v=1594252687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brand Name: MCCKLEUpper Material: PUBoot Height: AnkleFit: Fits smaller than usual. Please check this store's sizing infoToe Shape: Round ToeSeason: WinterClosure Type: Slip-Onis_handmade: YesPattern Type: SolidItem Type: BootsHeel Type: Square heelBoot Type: BasicInsole Material: PUShaft Material: PUOutsole Material: RubberFashion Element: PlatformLining Material: Short PlushHeel Height: Flat (≤1cm)With Platforms: YesPlatform Height: 0-3cmDepartment Name: AdultThe shoes are smaller than normal, we suggest you choose one size bigger. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boots</s:tag>
+    <s:tag>Women Shoes</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BJ / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_NZUX1ZJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BJ / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_P4I926S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BJ / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_QG6O35E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BJ / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_LGYFRU1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BJ / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_E7TKBHV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BJ / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_EMD8UVZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BJ / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_VSCEV1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BJ / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_RNK7QL6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple-BJ / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_FRXX2XB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple-BJ / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_VO4GBQE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple-BJ / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_2U9V8OX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple-BJ / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_603E1LI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple-BJ / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_IWGL0KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple-BJ / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_FX2C1ON</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple-BJ / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_4V1CS2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple-BJ / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_QF2NS8G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_3X3AWSQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_FPFPJRS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_5VQZOLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_F18AAPG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_KPWXYEY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_6G6UY8V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_LMUY13Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Purple / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_GMNTGP7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BN / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_FTNR9VV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BN / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_LIFQXC5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BN / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_0YES82M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BN / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_308IWBV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BN / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_P941OXW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BN / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_SOCA8CB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BN / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_FI354WN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Blue-BN / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_I3QTUHV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_ICVUECW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_NE9ED5W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_YT42ZB3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_CSFN9I2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_YKA08NV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_ILF32ZN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_ABP0EDO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_2KQWKL2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BN / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_41KCWT1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BN / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_E57OJ30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BN / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_TS420B5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BN / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_ABCLCWZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BN / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_R1YQCS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BN / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_71PZ1MS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BN / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_LEW7TP2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BN / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_GD3APJI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BJ / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_Z10LE9C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BJ / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_ABIBLHI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BJ / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_3NH4MI6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BJ / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_KMTYG2W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BJ / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_QG9RI64</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BJ / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_1U06JV8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BJ / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_13BJK2A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Red-BJ / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_BDPJOPH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BN / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_6VEVDQB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BN / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_DUU6YW6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BN / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_YIEOFFP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BN / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_KWJVWLZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BN / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_PIGOWN8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BN / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_9R8P1LF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BN / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_8ZNFVYE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BN / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_EC9BIAH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BJ / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_VEX62O3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BJ / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_4PBUYG4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BJ / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_4N3KUSN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BJ / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_7RAKW4N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BJ / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_3DA2127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BJ / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_2XIGOLQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BJ / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_R8R6H2S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black-BJ / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>11535_LB3F09C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black / 10.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>OLFPZXS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>MC3HTNV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>L88WSL2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>AKVXK27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>IUWC08N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>S593X78</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>HDBD0HN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425704534180</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>NNHRL2G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412680859812</id>
+    <published>2020-07-04T11:23:22-04:00</published>
+    <updated>2020-07-04T11:23:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/women-slipper-pineapple-pearl-flat-toe-bohemian-casual-beach-sandals-ladies-shoes-platform-2020-designer-black-slides-wholesale-10011"/>
+    <title>Women Slipper Pineapple Pearl Flat Toe Bohemian Casual Beach Sandals Ladies Shoes Platform 2020 Designer Black Slides Wholesale</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/eeea37e167fa533e1a501ec22d841511.jpg?v=1594149391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿Gender: Women,GirlUpper Material:PUSole Material: RubberScenes: Indoor&amp;Outdoor,Fashion,LeisureStyle: Princess,Casual,Simple,Toe Style:Round ToeHeel High Style:FlatClosing Method:Slip OnShoes Heel High: 1.5cm/0.6"Platform Heigh: 1cm/0.4"Package:1 Pair Women Shoes (Not Including Shoebox)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flats</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 10.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_KFJZO2C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 10</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_ZQECGLT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 9.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_MABI6OQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 9</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_8AUJK4I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 8.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_B2LMQBN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 7.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_IPTPOT8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 6.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_MDUADOV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 6</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_SS5VAQT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Yellow / 5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_1EOHSWP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 10.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_0B7SZ1P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_IDS5SH4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_VCMZRV2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_9MHQR4S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_UR4HYVV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_TS9SIAH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_RJOEDVF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_5LYOFOX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Black / 5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_VI59XFA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 10.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_T8J0SW4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 10</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_ZNWMW2B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 9.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_SUN7OG5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 9</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_WJ8VPQY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 8.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_IDMW20M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 7.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_QFUPHEQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 6.5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_GWINRLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 6</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_UHULIF9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412680859812</id>
+      <title>Beige / 5</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>18182_HKNHEX9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406666195108</id>
+    <published>2020-07-02T20:45:09-04:00</published>
+    <updated>2020-07-02T20:45:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/electric-heated-shoes-25339"/>
+    <title>Electric Heated Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/2ad0b4f0924db165292e213e2385de7e.jpg?v=1594455375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Electric heating shoes, the principle is similar to electric blanket, plug and play, unplug the power, stop heating, the shoes themselves are relatively warm, so after heating to the foot warmer, unplug the power can also keep warm for a long time!Parameter：No. 26：the sole is about 26cmNo. 27：the sole is about 27cmNo. 29：the sole is about 29cmNo. 30：the sole is about 30cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boots</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406666195108</id>
+      <title>Pink / No. 30</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>3991_U09HQAA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406666195108</id>
+      <title>Pink / No. 29</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>3991_MHLV1Q0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406666195108</id>
+      <title>Pink / No. 27</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>3991_5TKBRPL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406666195108</id>
+      <title>Pink / No. 26</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>3991_NZEYCI0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406666195108</id>
+      <title>Black / No. 30</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>3991_PEO6P9B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406666195108</id>
+      <title>Black / No. 29</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>3991_AD7VTPI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406666195108</id>
+      <title>Black / No. 27</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>3991_IEJV7VF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406666195108</id>
+      <title>Black / No. 26</title>
+      <s:price currency="USD">20.31</s:price>
+      <s:sku>3991_99Y66VY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406135648420</id>
+    <published>2020-07-02T16:56:11-04:00</published>
+    <updated>2020-07-02T16:56:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/monmoira-wood-heel-slipper-womens-sandals-vintage-square-toe-narrow-band-high-heel-sandals-women-summer-shoes-women-swc0713-12683"/>
+    <title>MONMOIRA Wood Heel Slipper Women&apos;s Sandals Vintage Square Toe Narrow Band High Heel Sandals Women Summer Shoes Women SWC0713</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/81c484b6242a313f30750d666f02fa93.jpg?v=1594326500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heels</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>brown / 8</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_QQ1MVEX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>black / 8</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_OMUBZBD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>white / 8</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_ZB7F6FJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>brown / 7</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_WJSGWDB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>black / 7</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_AMP0ILZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>white / 7</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_GAYUVJB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>brown / 6</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_RUYWXWA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>black / 6</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_WU6QUSD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>white / 6</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_MZJQOMY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>brown / 5</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_XKCFPTN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>black / 5</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_IWAUJMZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>white / 5</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_PEV5K9D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>brown / 4</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_GS5GMJY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>black / 4</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_OHXPMW5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406135648420</id>
+      <title>white / 4</title>
+      <s:price currency="USD">30.59</s:price>
+      <s:sku>13585_645BUOR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406113923236</id>
+    <published>2020-07-02T16:45:43-04:00</published>
+    <updated>2020-07-02T16:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/roman-platform-shoes-for-women-66336"/>
+    <title>Roman Platform Shoes For Women</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/f26f285cb851a53ec222a1e7fa31ae98.jpg?v=1594210457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Department Name: AdultItem Type: SandalsWith Platforms: YesUpper Material: FlockHeel Height: Low (1cm-3cm)Outsole Material: RubberPlatform Height: 3-5cmClosure Type: Slip-OnInsole Material: PUBack Counter Type: Cover HeelSide Vamp Type: OpenSandal Type: GladiatorHeel Type: Flat withFashion Element: Cross-tiedOccasion: CasualFit: Fits true to size, take your normal sizeStyle: FashionPattern Type: Solid</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedges</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 10.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_SUG86BE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 10</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_R560WV1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 9.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_875K4L1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 9</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_7SXB222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 8.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_GWSVWWP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 7.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_C1GNW1V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 6.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_4L3H9Z0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 6</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_3ENU7ZV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Khaki / 5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_YVOFERS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 10.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_3YIPPGT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 10</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_G3I8QKR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 9.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_J1W7QFA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 9</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_QO5Z552</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 8.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_K4FKFKL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 7.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_0YYHCFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_0BXRDD7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 6</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_8V2WLQJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Brown / 5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_NGSGUY5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 10.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_IOB80GT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_961LROP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_N74YD7K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_B50OXT7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_YR6GLT8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_G1UVN2R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_49AE8XT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_PKV9FTC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113923236</id>
+      <title>Black / 5</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4778_AT99QID</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406113235108</id>
+    <published>2020-07-02T16:45:25-04:00</published>
+    <updated>2020-07-02T16:45:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/womens-string-bead-flat-shoes-05796"/>
+    <title>Women&apos;s String Bead Flat Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e973a372541e9ff49aac4e38df13ef73.jpg?v=1594132607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Item Type: SandalsSandal Type: BasicOccasion: CasualClosure Type: Slip-OnOutsole Material: RubberPattern Type: GeometricStyle: FashionHeel Height: Low (1cm-3cm)Fashion Element: String BeadBack Counter Type: Front &amp; Rear StrapSide Vamp Type: OpenHeel Type: Flat withWith Platforms: YesPlatform Height: 0-3cmLining Material: PUFit: Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flats</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113235108</id>
+      <title>Pearl</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>KC684HY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406113235108</id>
+      <title>Ruffles</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>HD7PAIX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406107402404</id>
+    <published>2020-07-02T16:42:41-04:00</published>
+    <updated>2020-07-02T16:42:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/led-fiber-optic-shoes-55638"/>
+    <title>Led Fiber Optic Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/ee66eca776f56db4161798c1d4f91e49.jpg?v=1594433307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NOTE: As Different Computers Display Colors Differently, the Color Of the Actual Item May Vary Slightly From The Above Images.This is a pair of very magical shoes that shines. It has a switch button on the back heel, and the shoes will emit green, purple, yellow, blue, white, orange and light green light. The charging time can be determined according to the length of time used, and it is recommended to charge for 3-4 hours. The upper part of shoes is made of waterproof fiber, so you don't have to worry about the damage of the lighting function. However, it should be noted that the light-emitting battery is located under the insole, so be careful not to clean the inside of the shoe, and it is recommended not to wear it on rainy days. When cleaning, it is best to wipe the upper part with a damp cloth and then dry it in a well ventilated place.Gender : UnisexUpper Material : Mesh(Air Mesh)Sole Material : EVALining Material :MeshInsole Material :EVAToe Style : RoundClosing Method : Lace-UpPackage : 1 Pair Shoes( Not Including Shoebox)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sneakers</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 46</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>2R0NDG9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 45</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>RELBNRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 44</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>ZW6ZETX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 43</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>LWGKPJK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 42</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>IP172CP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 41</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>WDV2M3T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 40</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>8IQ6RKV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 39</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>X3UN7U2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 38</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>RVLUQBC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 37</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>F46THN4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 36</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>1KTDY70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>Pink / 35</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>AGJKBIN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 46</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>8T12JZR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 45</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>VMN5TDE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 44</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>EDJ2YNZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 43</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>MTTBRFL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 42</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>LSQ9O7X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 41</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>B58JBDO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 40</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>UQ3OGPE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 39</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>I8XN6TK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 38</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>FA1UMRF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 37</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>A742Z61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 36</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>6946ZLE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406107402404</id>
+      <title>White / 35</title>
+      <s:price currency="USD">33.17</s:price>
+      <s:sku>JXJJCFL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406094426276</id>
+    <published>2020-07-02T16:38:06-04:00</published>
+    <updated>2020-07-02T16:38:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/2020-women-flat-shoes-thick-sole-platform-shoes-fringe-spring-tassels-fashion-summer-female-shoes-gift-for-girls-01451"/>
+    <title>2020 Women Flat Shoes Thick Sole Platform Shoes Fringe Spring Tassels Fashion Summer female shoes gift for girls</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/37ca892648c7c07c4cd23f6251def797_ca964f66-0459-4a26-9fce-e12f707e5da5.jpg?v=1594559904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flats</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 43</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_JJDNOFZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 42</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_TSUTNQE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 41</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_QGWQDYA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 40</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_UQALHND</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 39</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_BG3WGZU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 38</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_NEQAACA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 37</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_IW4OVY1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 36</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_BY0WRJE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>white / 35</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_A226NTF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 43</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_W5D0CVW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 42</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_ZIBUTEO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 41</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_GMBC9FL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 40</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_EUPF02P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 39</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_0UZFUMD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 38</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_YVUCRWE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 37</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_8LOLLPY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 36</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_NYZXZTY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>red / 35</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_CYJEXDC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 43</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_UJ1V6Z8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 42</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_05GWH33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 41</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_ZVTURIC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 40</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_URZUQDR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 39</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_GHBWXGN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 38</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_XUNHSZI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 37</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_GSCQIZG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 36</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_ZTATOQB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>pink / 35</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_GO22XMH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 43</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_UADYJKT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 42</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_YBOWWDO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 41</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_9YIPMMK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 40</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_NIJGVSI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 39</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_XGGILAE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 38</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_LXNRA0P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 37</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_TH2A3VU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 36</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_BYO4KFD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>gray / 35</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_CDUGOPU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 43</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_GMQWNML</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 42</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_WEIXUUW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 41</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_PDJ2ZQO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 40</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_VLZ6GWI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 39</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_S597BDD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 38</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_1YMHZ11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 37</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_VDPKNXS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 36</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_C9QXDMZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>brown / 35</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_Z07Z7W1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 43</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_AAQ4PAL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 42</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_D5SQJE3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 41</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_4S20N0D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 40</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_GPBRCYY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 39</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_MSEBMYI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 38</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_1DGOFCK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 37</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_HOVR9H2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 36</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_FJLI484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>blue / 35</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_YYMYQOB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 43</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_ZI3MEOB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 42</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_AVGIOIX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 41</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_PKJQ3RJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 40</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_PXADCSP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 39</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_GIWKRD5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 38</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_DIVBEPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 37</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_EBLDW2E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 36</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_FSENPUF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>black / 35</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_HL0FCNY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 43</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_DW9SH4M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 42</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_RWU5TQD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 41</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_ACVPR8D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 40</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_9AQN8DG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 39</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_9DO5YJM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 38</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_W3JGJGU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 37</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_QWRYDE2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 36</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_JHPDY8F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406094426276</id>
+      <title>leopard / 35</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>15728_5C8XDOF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406076469412</id>
+    <published>2020-07-02T16:34:50-04:00</published>
+    <updated>2020-07-02T16:34:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/woman-pumps-high-heels-shoes-05963"/>
+    <title>Woman Pumps High Heels Shoes</title>
+    <s:type>Woman&apos;s Wear</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e986065e4b774d3070da6f0e2d6a50dc.jpg?v=1594133786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Woman&#39;s Wear<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heel Height: Super High (8cm-up)Heel Type: Square heelToe Shape: Round ToeClosure Type: Buckle StrapOutsole Material: RubberInsole Material: RubberPlatform Height: 0-3cmLining Material: PVCFit: Fits true to size, take your normal size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heels</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 43</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_YB45U6V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 42</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_4L0VLU6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 41</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_ZXIJ8VJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 40</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_755GCC7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 39</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_NN399H5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 38</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_TS88T4U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 37</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_HFI73W5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 36</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_YYTLX4D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 35</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_MUNSDQ9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Snake / 34</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_1LUI7A3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 43</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_YMNM637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 42</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_RNAHGAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 41</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_AA2ED88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 40</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_IKC77XA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 39</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_WWS6SRM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 38</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_44VMTNH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 37</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_4J9R2E9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 36</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_82WC8ET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 35</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_2L99EPE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Wine Red / 34</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_79L27NR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 43</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_BWE5WFZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 42</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_D1DIEU9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 41</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_I07N2MW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 40</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_AP5S60Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 39</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_41ILCY7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 38</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_IQZ9FV0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 37</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_V10AUYT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 36</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_D2ZTUV6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 35</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_ZLXV7VO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Blue / 34</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_BROG7M6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 43</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_GU2V8E8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 42</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_OG32T2Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 41</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_BH6675Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 40</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_78I2TY4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 39</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_5ITAZ8E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 38</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_5XKRIIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 37</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_UEZYCCI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 36</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_FMEMD15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 35</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>7689_GJZ15ET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406076469412</id>
+      <title>Black / 34</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>M11E83D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406075158692</id>
+    <published>2020-07-02T16:34:14-04:00</published>
+    <updated>2020-07-02T16:34:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/spring-gladiator-sandals-50484"/>
+    <title>Spring Gladiator Sandals</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/00115f10bec36b89846d086b91fdcd79.jpg?v=1594176020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406075158692</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.13</s:price>
+      <s:sku>6436_1MRNQDC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406072111268</id>
+    <published>2020-07-02T16:33:28-04:00</published>
+    <updated>2020-07-02T16:33:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/baby-girl-platform-sandals-61207"/>
+    <title>Baby Girl Platform Sandals</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/6edd3cc9fe099a57676b82b6f2271478.jpg?v=1594503254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406072111268</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>6211_COD7IVL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406068244644</id>
+    <published>2020-07-02T16:32:48-04:00</published>
+    <updated>2020-07-02T16:32:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/cairo-queen-sandals-51743"/>
+    <title>Cairo Queen Sandals</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/f5605c676e80e2ee994daf0e072eb6b1.jpg?v=1594474934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406068244644</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>6439_O4HJMJ3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406066639012</id>
+    <published>2020-07-02T16:32:07-04:00</published>
+    <updated>2020-07-02T16:32:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/cross-strap-round-head-sandals-79996"/>
+    <title>Cross Strap Round Head Sandals</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/20a4d7e0acefbd5f5a2970b134ea0088.jpg?v=1594437745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406066639012</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.20</s:price>
+      <s:sku>6454_WSZ9GY9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5406064017572</id>
+    <published>2020-07-02T16:30:45-04:00</published>
+    <updated>2020-07-02T16:30:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/peep-toe-wedge-sandals-63989"/>
+    <title>Peep Toe Wedge Sandals</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/b74e99759f838e9cc331f8aa575ad8bd.jpg?v=1594330568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedges</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5406064017572</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.22</s:price>
+      <s:sku>6425_TJO5MB5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5396766687396</id>
+    <published>2020-06-30T19:55:19-04:00</published>
+    <updated>2020-06-30T19:55:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/unicorn-slippers-licorne-led-98840"/>
+    <title>Unicorn Slippers Licorne Led</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/99a42dc81059084013be13356353928e.jpg?v=1594681802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="ql-align-justify">Has only one size: 	For Men: up to 28 cm	For Women: up to 26 cmUpper Material: FurInsole Material: FabricPattern Type: Animal PrintsOutsole Material: EVASeason: Spring/AutumnApplicable Place: IndoorLining Material: Cotton FabricHeel Height: Flat (≤1cm)Shoes Type: BasicDepartment Name: AdultItem Type: Slippersstyle: Home,Unicorn witth LED light slippersfeatures: Shock absorption, warmthpattern: Cartoonapplicable gender: Neutral / male and femalewearing style: Sleeve/sleevethickness: Thickenupper material: Short plushheel shape: flatpopular elements: unicornapplicable scene: Home interior</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flats</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Old Rose with Gray Horn / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_A6L8829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Old Rose with Gray Horn / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_PNZI0ST</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Gray Horn / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_5DCC488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Gray Horn / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_LBY5R98</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Blue with Yellow horn / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_72QER7Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Pink horn / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_Q8YFFVP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Pink horn / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_JU60R9X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Blue Horn / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_X79K7CV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Blue Horn / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_BOADSKS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Blue / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_ZZQVOVZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Blue / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_LC21MYZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with wings / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_5FS0U77</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with wings / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_1YEEQZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Blue horn / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_2RVIOCQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Blue horn / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_SSCDHUS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Rainbow Tail / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_P47MT5H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Rainbow Tail / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_A8CDDFF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Black / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_IZC340T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Purple with Tail / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_1NN8EW4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Purple with Tail / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_R1TVIPS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Blue Tail / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_XQ70WAE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Blue Tail / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_34VCM70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Rainbow Tail / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_N4FI1IZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Rainbow Tail / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_KURMARS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink + Silver / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_GMOGUGV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink + Silver / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_JFWUHFL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Purple / Without light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_B0A5267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Purple / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_RZS3RIY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White + Rainbow / No light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_JOSQHUS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White / With light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_3VJ48EF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White / No light for Women</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_PRBO7FW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Old Rose with Gray Horn / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_4OQGCGW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Old Rose with Gray Horn / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_LSQBQI5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Gray Horn / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_7WJRJM3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Gray Horn / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_ZW7MSSZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Blue with Yellow horn / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_SE75TUD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Pink horn / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_LJDZXOL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Pink horn / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_G34A2RD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Blue Horn / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_IB9K2AX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Blue Horn / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_8Z1FS4K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Blue / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_9A1L67L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Blue / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_KL51C9V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with wings / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_NKZH0A9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with wings / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_T74354H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Blue horn / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_GBD4WNH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Blue horn / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_RMD93KW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Rainbow Tail / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_0C9F5FO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink with Rainbow Tail / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_RBJDFHW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Black / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_W0KYRM3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Purple with Tail / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_Y5ULG54</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Purple with Tail / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_2WQTUQ6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Blue Tail / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_2E9ZHH7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Blue Tail / With  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_I96I4H1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Rainbow Tail / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_ANBVEWK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White with Rainbow Tail / With Light for  Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_B6YCNJ5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink + Silver / Without Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_GQNWA5J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Pink + Silver / With Light  for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_04UE37D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Purple / Without  Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_PNAZ9BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>Purple / With Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_W3HLASV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White + Rainbow / No Light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_I7NEZX0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White / With light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>10475_39HWOGI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5396766687396</id>
+      <title>White / No light for Men</title>
+      <s:price currency="USD">16.74</s:price>
+      <s:sku>5A5YXXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5395716931748</id>
+    <published>2020-06-30T13:54:42-04:00</published>
+    <updated>2020-06-30T13:54:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/anti-slip-home-slippers-90607"/>
+    <title>Anti Slip Home Slippers</title>
+    <s:type>Slippers</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d15d2fe3811e0b2906a875480308e114.jpg?v=1594127299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Slippers<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="ql-align-justify">Item Type: SlippersUpper Material: RubberInsole Material: RubberHeel Height: Low (1cm-3cm)Women slipper: Summer Floor Skid Proof Home FloorLady Summer Shoes: Skid Proof Home Floor SlippersFit: Fits true to size, take your normal size		Anti Slip sole: concave-convex design increase friction		Multi-Function: for an indoor bedroom, bathroom, living room, and etc.		Quick Drying design: with ventilation and drainage design		Soft and very comfortable </h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5395716931748</id>
+      <title>Gray</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>4316_U1377B5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5395716931748</id>
+      <title>Pink</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>4316_9U0QNOA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5395716931748</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>4316_JQF6JLG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5395716931748</id>
+      <title>Navy Blue</title>
+      <s:price currency="USD">4.90</s:price>
+      <s:sku>4316_5TDYDO4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5388755533988</id>
+    <published>2020-06-29T10:28:09-04:00</published>
+    <updated>2020-06-29T10:28:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/boho-tribe-sandals-10239"/>
+    <title>Boho Tribe Sandals</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/0f710106990962233d2eb692e05a7868.png?v=1594488984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="ql-align-justify">Heel Height : Flat (≤1cm)With Platform : NotOccasion : CasualClosure Type : ElasticFit : Fits true to size, take your normal sizeHeel Type : Front and Rear TrackFashion Element : String of BeadsStyle : retroPattern Type : GeometricInsole Material : Plutonium</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sandals</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Brown / 39</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_07J1XY9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Brown / 38</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_OFTIEGU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Brown / 37</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_0H7M1OI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Brown / 36</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_359ZI9A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Brown / 35</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_EC1CKTG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Brown / 34</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_TKM8K60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Brown / 33</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_X74J0LF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Black / 39</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_UPWHANV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Black / 38</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_DK9PNV6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Black / 37</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_F8RFLRA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Black / 36</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_WPYAN7C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Black / 35</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_7BK7T9T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Black / 34</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_4QK5CW7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>Black / 33</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_UZXAKYC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>White / 39</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_RZ34ELM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>White / 38</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_3KOBEI9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>White / 37</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_A94E4E9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>White / 36</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_RJSC2WW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>White / 35</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_DF9Z9MO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>White / 34</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_BZ58BPM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388755533988</id>
+      <title>White / 33</title>
+      <s:price currency="USD">11.59</s:price>
+      <s:sku>4959_7OI32JY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5388709986468</id>
+    <published>2020-06-29T10:18:48-04:00</published>
+    <updated>2020-06-29T10:18:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/2019-flop-chaussures-femme-platform-sandals-49633"/>
+    <title>2019 Flop Chaussures Femme Platform Sandals</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/5c20fb2feca7b8e3226743958d54a426.jpg?v=1594605754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="ql-align-justify">Gender : Women/GrilUpper Material : PuSole Material : RubberLining Material :PUInsole Material : RubberSeason : Spring/Autumn/SummerStyle : Casual,Fashion,CollegeToe Style : RoundClosing Method : Belt BuckleHeel High Style : FlatShoes Heel High : 5cm1.97''Platform Heigh : 5cm/1.97''Package : 1 Pair Shoes(Not Including Shoebox)</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wedges</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_CK8UTLC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_OPQLIAP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_7ZBSLBZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_BZMN0FG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_KGH3W3R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_PDD471S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_YN0O0DQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_RN6ERPF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / Leopard / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_7WV5NH8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_K1AEBL7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_XZX34XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_J6Y9H1N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_0W699UJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_I3MJ22O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_UBK2R34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_MCGKN89</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_QH80M49</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Zebra / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_KTJXN6V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_EG38BN4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_Y64AT1A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_W1IPR0S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_L6A2WDM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_E0681U4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_PPZ54P0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_QA4PDBI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_1ES6SUS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Dark Gray / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_CV8EKP4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_JNR1DHE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_KU6KF4U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_7915RRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_XHRD8IV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_SUVC513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_L2EDKBV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_OOZ92WO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_SZ74RHC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Gray / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_AXUZTIZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_YRVPSGX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_83MARCU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_NUUJR0I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_W7RDKBX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_XTRHYJI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_LJ7OKP3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_XXUUYW1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_GNO4GKS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Black / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_8OKL2TL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_LRS3KOX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_HSOMHR5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_E707VOL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_YL7L21J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_75CM3MT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_QBPG8QY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_368IX9T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_FI51FOV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Leopard / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_SPK26M0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_ATV0A7P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_IS7ZMC3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_S19LA9N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_KUYTCC9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_CYOSEZ4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_VUAQWVT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_IUT1OSS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_SEP956F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Snake Skin / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_0SNGRAD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_WFQ0FNG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_I6S7JUR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_TN791NK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_HQJ7K6N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_RFX9MKP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_91YIZAC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_9GB7EXN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_L5PRTCE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>Brown / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_1ADVXIE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 11</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_EQWWZSB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 10.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_RE102NC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 10</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_4D1FMIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 9.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_1FEORAE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 8.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_GDHH58S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 7.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_FMBGQ1S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 6.5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_GY48KKA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 6</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_RF2CLKU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5388709986468</id>
+      <title>White / 5</title>
+      <s:price currency="USD">15.71</s:price>
+      <s:sku>4777_I5YLRL3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

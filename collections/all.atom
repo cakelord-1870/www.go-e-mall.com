@@ -1,0 +1,2942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/all.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2021-08-01T09:18:34-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5551638413476</id>
+    <published>2021-08-01T09:18:34-04:00</published>
+    <updated>2021-08-01T09:18:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/beautyden-travel-cosmetic-organizer-98818"/>
+    <title>BeautyDen? Travel Cosmetic Organizer</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/568fb49f5f43c0b58ee1817bbfe90ae5.jpg?v=1597238568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5551638413476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>4421_Y989OX3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/6675943456932</id>
+    <published>2021-04-28T09:05:10-04:00</published>
+    <updated>2021-04-28T09:05:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/char-broil-charcoal-tabletop-grill-37241"/>
+    <title>Char-Broil Charcoal Tabletop Grill</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e3b99657e24c229a2124a60f55606220.jpg?v=1619615213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the high quality only Char-Broil can deliver in a tabletop grill. </p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/6675943456932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>272074_MOX2513106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/6675939524772</id>
+    <published>2021-04-28T09:03:04-04:00</published>
+    <updated>2021-04-28T09:03:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/rabbit-pocket-crop-tee-sleeveless-shirt-junior-tank-top-for-easter-20976"/>
+    <title>Rabbit Pocket Crop Tee Sleeveless Shirt Junior Tank Top For Easter</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/6fea13b747a7efda0e0f014d5b748938.jpg?v=1619615387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies, does a plain, solid, and stripe tank top seem too dull and boring to wear?  Our crop top offers an exciting, casual, humorous, and laughter apparels.  It is perfect for the young ladies and women who wants an eye catching crop top.  It would also be a perfect ideal gift for birthdays and anniversaries as well.  We offer numerous cute pictures to laughable quotes.  Our 100% ring spun cotton tank tops, can ensure not only your daily and comfort needs, but a smile in everyone faces as well.  </p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T-shirts</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/6675939524772</id>
+      <title>S</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>173782_3PJCR028_WS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/6675939524772</id>
+      <title>M</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>173782_3PJCR028_WM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/6675939524772</id>
+      <title>L</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>173782_3PJCR028_WL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5434370490532</id>
+    <published>2021-03-19T08:11:38-04:00</published>
+    <updated>2021-03-19T08:11:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/dual-usb-solar-panel-charger-03916"/>
+    <title>Dual USB Solar Panel Charger</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/a4096576bed4a96bd31a031b38ca650a.jpg?v=1594386501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            58.90 - 70.21
+            <a href="https://www.go-e-mall.com/products/dual-usb-solar-panel-charger-03916">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This product is a foldable solar charger for easy transport and storage. It has a mini voltage regulator that works for many devices that require 5V power. It is the best option for outdoor adventure, hiking, camping, backpacking, etc.Features:It uses 21 watts high performance solar panels for fast charging.It connects directly to your devices through a USB 3.0 port.Constant current and stable voltage design, reliable and safety.It comes with a pocket to hold your device for secure storage during charging and protect the Dual USB output interfaceIt comes with several ropes to hang anywhere that can receive sunlight, and you can use additional suction cups to suck the solar panel on the windshield of the car. Operation Method:1 Open the solar panel and fix it in places where you can receive maximum sun, such as backpacks, windows, car windscreens, etc.2. Connect it with your device by the power cord (not included). Fits for mobile phones MP3 / MP4 digital GPS cameras PSP, etc.3. The product will charge your device as soon as the sun is enough.Specs:1 Solar Panel: 21 W2. High efficiency:&gt; 23% solar energy cells3. Output voltage / current: 5V a4. Output interface: Dual USB Solar Panel Charger5. Weight: 580g6. Folding size: 290 * 175 * 34MM7. Unfolded size: 700 * 175 * 3MM8. Color: black9. Material: laminated PET + fabric (waterproof): PVC1 Solar Panel: 28 W2. High efficiency:&gt; 24% solar energy cells3. Output voltage / current: 5V a4. Output interface: Dual USB Solar Panel Charger5. Weight: 800g6. Folding size: 890 * 290 MM7. Folding size: 290 * 170 * 33MM8. Color: black9. Material: laminated PET + fabric (waterproof): PVCImportant information:1 the sun does not always hit directly and we cannot rely on getting the maximum watts all day Solar panels in the morning and late at night have a much lower output with a maximum output near noon! A good rule is that you can get the equivalent of about 42% of the maximum output for 12 hours of no sunlight on cloudy days.2 Some devices may not charge directly from this panel due to weather conditions or limitations of your device. If you have problems, make sure the panel is under the sunlight directly illuminated in the sun.3 It is recommended to use this solar panel together with a rechargeable battery, so that the energy generated by the solar panel can be saved and saved.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>General Tech</s:tag>
+    <s:tag>Technology</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5434370490532</id>
+      <title>28w</title>
+      <s:price currency="USD">70.21</s:price>
+      <s:sku>FGRSETN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5434370490532</id>
+      <title>21w</title>
+      <s:price currency="USD">58.90</s:price>
+      <s:sku>8YBJH8T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5818491076772</id>
+    <published>2021-03-18T09:20:06-04:00</published>
+    <updated>2021-03-18T09:20:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/wooden-embossing-rolling-pin-05189"/>
+    <title>Wooden Embossing Rolling Pin</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/657abc450ee7b8befc92b3246ab142bb.jpg?v=1603896381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 28.39
+            <a href="https://www.go-e-mall.com/products/wooden-embossing-rolling-pin-05189">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Certification: FDACertification: EECCertification: CE / EUCertification: CIQCertification: LFGBFeature: Eco-FriendlyDiameter (cm): 35cmType: Rolling Pins &amp; Pastry BoardsMaterial: WoodProduct Type: Rolling Pins
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35368_5JCX2YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>K</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_FQACP6C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>D</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_V7STKYJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>C</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_V3SNCNG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>B</title>
+      <s:price currency="USD">28.39</s:price>
+      <s:sku>35368_UIZNQTW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>A</title>
+      <s:price currency="USD">28.39</s:price>
+      <s:sku>35368_HSADPEV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5843014254756</id>
+    <published>2020-11-06T09:38:47-04:00</published>
+    <updated>2020-11-06T09:38:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/family-christmas-pajamas-family-matchig-clothes-xmas-pjs-family-look-sleepwear-mother-daughter-father-kids-nightwear-outfits-32988"/>
+    <title>Family Christmas Pajamas Family Matchig Clothes xmas Pjs Family Look Sleepwear Mother Daughter Father Kids Nightwear Outfits</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/22d62eca8dbba847fee25cc9cbce4f02.jpg?v=1604694042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>    FOLLOW US!You will get an extra funs discount(extra5% off)!Thank you! Dear Friends, Welcome to our store !Good News: New arrivals will be prepared for our followers with extra 1%-2% exclusive discounts.Any freebie or fan zone activity, we will inform our fans and followers at first time in our fan club or email.Promise our follower will get the best price and service.Action, being our followers, top seller store, discount continue, surprise never stop! Our items are 100% new and in high quality!Color:as the picture shows.Purchase Notes:Please check the detail size information before purchasing.Due to the different monitor and light effect,the actual color of the item might be slightlydifferent from the color showed on the pictures.Thanks for your understanding.It is Fashion Accessory that make you beautiful and charm.Please allow 1-2cm measuring deviation due to manual measurement.Chat with us should you need any assistance.(1cm=0.39inch) InformationMaterial:Cotton blend/fleece.  Soft and comfortable fabric crafted.Durable enough for  daily wearingSize:as shown in the following figureQuantity: 1 PCAdvantages:Stylish and fashion design make your baby more attractiveGreat for casual, Daily, party or photoshoot, also a great idea for a baby show giftsIt is made of high quality materials,Soft hand feeling, no any harm to your baby's skin               Show Time!!!                   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Children 12T</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_PPGXPE4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Children 10T</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_C9V6IBY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Children 8T</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_BXMSBHC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Children 6T</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_Q6JRYFP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Children 5T</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_QYIHGNP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Children 4T</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_UYVP9N3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Children 3T</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_DTZRNRV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Children 2T</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_XU88D6G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Mom XXXL</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_DXG8YF0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Mom XXL</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_HCYSRF9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Mom XL</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_GBCDDTO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Mom L</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_NBBLV9W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Mom M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_BWY2FZX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Mom S</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_RL4SUWR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Dad XXXL</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_K8IECPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Dad XXL</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_ASFSSRQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Dad XL</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_P0KKDTL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Dad L</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_KWFIGJJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Dad M</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_UMSLE8V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843014254756</id>
+      <title>Family outfits / Dad S</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>37747_KIUEVDR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5843006161060</id>
+    <published>2020-11-06T09:35:36-04:00</published>
+    <updated>2020-11-06T09:35:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/matching-christmas-pjs-fashion-round-neck-prints-family-pajama-sets-mother-father-kid-baby-red-striped-christmas-clothes-28784"/>
+    <title>Matching Christmas PJS Fashion Round Neck Prints Family Pajama Sets Mother/Father /Kid /Baby Red Striped Christmas Clothes</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/035b00357cbfa72d44a3de97b498980d.jpg?v=1604693853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	Friendly Reminder
+	 
+	Price is for ONE Piece/Person, NOT for WHOLE Family!
+	It is Asia Size, please check below "Size Chart" for measurement   (unit: cm)   !
+	It is manual measurement, maybe +/- 1-4cm tolerance! 
+	For any confusion or question, please feel free contact us before buying!
+	​
+	
+	 
+	
+	
+	
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>kid 150cm</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_OELJJ2T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>kid 140cm</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_MI8MUIJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>kid 130cm</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_OKY8WU0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>kid 120cm</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_NZAZOO5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>kid 110cm</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_R4QRZE3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>kid 100cm</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_MXQQE8Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>kid 90cm</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_5AZJ3IK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>mom XXL</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_SV2KGE5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>mom XL</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_KPIKKUG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>mom L</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_HFWVALU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>mom M</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_HDMRYFK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>mom S</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_J7ZECFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>dad XXL</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_J8DZS6W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>dad XL</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_NXSWOPT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>dad L</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_H1DSECF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>dad M</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_JOTSNWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5843006161060</id>
+      <title>dad S</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>37745_KLC7AN8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5842998427812</id>
+    <published>2020-11-06T09:32:05-04:00</published>
+    <updated>2020-11-06T09:32:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/newest-christmas-pjs-family-matching-outfits-xmas-pajamas-new-year-red-elk-print-cartoon-xmas-pajamas-family-home-wear-suit-35016"/>
+    <title>Newest Christmas Pjs Family Matching Outfits Xmas Pajamas New Year Red Elk Print Cartoon Xmas Pajamas Family Home Wear Suit</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/9e85fddfe178bfaa521ce6255d5e34fb.jpg?v=1604672696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Kid-9T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_Y46HDCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Kid-7T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_Y2UPSU5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Kid-5T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_GIMVGGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Kid-4T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_IBLHD5G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Kid-3T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_2JRAOHK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Kid-2T</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_UYLHEV6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Mom-XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_0XKBWOS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Mom-XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_ISRU8U6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Mom-L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_EGWHDJZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Mom-M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_4G8CVQK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Mom-S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_8FNM7HN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Dad-XXL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_5VXB6YO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Dad-XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_W7QCIMW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Dad-L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_Z0ILKQY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Dad-M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_OVZACTL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842998427812</id>
+      <title>Red / Dad-S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37744_LBASTXW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5842992300196</id>
+    <published>2020-11-06T09:28:41-04:00</published>
+    <updated>2020-11-06T09:28:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/2019-new-style-christmas-pjs-family-matching-clothes-matching-christmas-pajamas-sets-casual-christmas-clothes-full-family-look-05464"/>
+    <title>2019 New Style christmas pjs family matching clothes matching christmas pajamas Sets Casual christmas clothes Full family look</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/3ce12ec63666d5409e5c91d661e17f73.jpg?v=1604693923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+Hello! Welcome to our store!
+Quality is the first with best service. customers all are our friends.
+Fashion design,100% Brand New,high quality!
+Color: As picture show
+Style: Fashion christmas pajamas family Sets 
+Size:S M L XL XL XXL
+Kids Size: 80-120
+There is 2-3% difference according to manual measurement.
+please check the measurement chart carefully before you buy the item.
+1 inch = 2.54 cm
+Please note that slight color difference should be acceptable due to the light and screen.
+What You Get:
+1 x Fashion christmas pajamas family Sets 
+ 
+ 
+ 
+ 
+ 
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / Kids 120</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_EIMDGQ3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / Kids 110</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_MFP4ANV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / Kids 100</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_QFEBLAM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / Kids 90</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_CBBLBNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / Kids 80</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_FXNUNEX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / men 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_1BADYUK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / men XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_QWQTSWL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / men L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_8PYQH0F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / men M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_DI9XWBC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / men S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_QFYNK3U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / women  XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_SEUGBFK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / women  L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_4JQWK92</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / women  M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_D1TTOGY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5842992300196</id>
+      <title>Red / women  S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37743_WLBLAA5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5836709494948</id>
+    <published>2020-11-04T08:33:24-04:00</published>
+    <updated>2020-11-04T08:33:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/christmas-family-matching-pajamas-pjs-sets-dad-and-mom-kids-boy-girl-long-sleeve-casual-elf-sleepwear-family-matching-nightwear-83160"/>
+    <title>Christmas Family Matching Pajamas Pjs Sets Dad And Mom Kids Boy Girl Long Sleeve Casual Elf Sleepwear Family Matching Nightwear</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/164967ae97fe603d374b1b74fbb52b6c.jpg?v=1604693944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	
+		
+			
+				
+					
+						
+						
+						
+							
+								
+								
+							
+							
+								
+								
+								
+									
+										
+											
+												  
+											
+											
+												
+													Christmas Family Matching Pajamas Pjs Sets Dad And Mom Kids Boy Girl Long Sleeve Casual Elf Sleepwear Family Matching Nightwear!
+												
+												
+													
+ 
+												
+												
+													Cute Family Matching Christmas Pajamas Set Women Baby Kids Sleepwear Nightwear!
+ 
+												
+												
+													Hello! Welcome to our store! 
+												
+Quality is the first with best service. customers all are our friends. 
+Fashion design,100% Brand New,high quality! 
+											
+											
+												Material: Cotton Blend 
+Color: As picture show 
+Style: Fashion Christmas Family Pajamas 
+Size:S M L XL  
+											
+											
+												Kids Size: 2-6 Years 
+There is 2-3% difference according to manual measurement. 
+please check the measurement chart carefully before you buy the item. 
+1 inch = 2.54 cm 
+Please note that slight color difference should be acceptable due to the light and screen. 
+											
+											
+												What You Get: 
+1 x Fashion Christmas Family Pajamasot include hat? 
+											
+										
+									
+								
+							
+							
+								
+								
+								
+								
+								
+									
+										 
+									
+									
+										 
+									
+								
+							
+							
+								
+								
+							
+						
+					
+				
+			
+		
+	
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5836709494948</id>
+      <title>As Photo Show / Mama S</title>
+      <s:price currency="USD">20.54</s:price>
+      <s:sku>37303_61XENVR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825317175460</id>
+    <published>2020-10-30T10:23:08-04:00</published>
+    <updated>2020-10-30T10:23:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/macrame-tapestry-wall-hanging-decorative-mirror-bohemia-creative-home-art-wall-decorations-boho-decor-home-51805"/>
+    <title>Macrame Tapestry Wall Hanging  Decorative Mirror  Bohemia Creative Home Art Wall Decorations Boho Decor Home</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/4fadb18b6928a3475e3cd2b85d0431cf.jpg?v=1604067997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features:
+The overall version looks like a sunflower, adding fun without losing personality. Appearance uses a weaving workmanship to exude a retro atmosphere. At the same time, the texture is fresh and beautiful, and the surface is smooth and not rough, giving you a good feel and not easy to wear skin. With a round mirror, it is simple and atmospheric, and the reflection is high, giving you a better experience.
+Scenes to be used:
+1. Can be placed in the living room, clearly illuminating the large space environment, and can also play a decorative role.
+2. Put it in the bathroom and use the bedroom as a daily makeup mirror, which is more practical.
+Product: Handmade Tapestry
+Material:100%Natural cotton rope
+Size: Without Mirror : outer diameter 28cm, inner diameter 20cm.
+         Have Mirror : outer diameter 35cm, inner diameter 20cm.
+Color:Color like picture (Manual staining maybe have chromatic aberration)
+Note:
+1.Because of the size measurements are handmade, so there may be 3-5CM error.
+2.Please understand because of the light irradiation or computer display difference, so I  can't guarantee photos and real color is 100% the same.
+3.National style tapestry, suitable for home decoration, wedding set,  etc... If you have other pictures, dimensions or requests please contact me!
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>D</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_DEEYOQL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>A 35cm have mirror</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_HHMEIUD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>B 35cm have mirror</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_AQN0RSM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>C</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_EGOHQEX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>28cm No mirror</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_CFTLV32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825311965348</id>
+    <published>2020-10-30T10:19:52-04:00</published>
+    <updated>2020-10-30T10:19:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/hand-woven-lampshade-chandelier-moroccan-bedroom-decorative-lamp-tapestry-wall-hanging-macrame-boho-decor-home-88483"/>
+    <title>Hand-woven Lampshade Chandelier Moroccan Bedroom Decorative Lamp Tapestry Wall Hanging  Macrame  Boho Decor Home</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/9b9e27390fa9d5117075a39a32efaeba.jpg?v=1604067710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            115.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size:30*75cm
+ 
+ 
+ 
+ 
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825311965348</id>
+      <title>White</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36785_KDX1K4M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825301414052</id>
+    <published>2020-10-30T10:13:42-04:00</published>
+    <updated>2020-10-30T10:13:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/christmas-bedding-sets-colorful-balloon-print-christmas-bed-decoration-santa-claus-wishes-76014"/>
+    <title>Christmas Bedding Sets Colorful Balloon Print Christmas Bed Decoration Santa Claus Wishes</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d2d19ff34cb60f9b01f189ba8b9c2754.jpg?v=1604068604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.99 - 46.99
+            <a href="https://www.go-e-mall.com/products/christmas-bedding-sets-colorful-balloon-print-christmas-bed-decoration-santa-claus-wishes-76014">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	
+	Item Name: Bedding Set
+	Fabric: Microfiber
+	Season  : Spring, Summer, Autumn, Winter
+	Reminder:
+	1) If you need extra sheet to match, please contact us.  
+	2) Duvet Cover is used to cover our comforter or quilt, it without filling inside.
+	3) Due to the light and screen difference, the item's color may be slightly different from the  pictures.
+	4) Due to hand made tailor, please allow 3-5cm size differ.  
+	 
+	
+	 
+	
+	 
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 2 / US Full 3pcs</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>36783_GFF7EXZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 2 / US Twin 2pcs</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>36783_XUVGDA8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / a pair of pillowcase</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>36783_GB9ESQY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / EU Super king 3pcs</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>36783_9ND1OJV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / EU king 3pcs</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>36783_4OCOVH1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / EU Double 3pcs</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>36783_NUBOEHJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / EU Single 2pcs</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>36783_2LVBHXK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / AU king 3pcs</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>36783_BG9BI4K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / AU Queen 3pcs</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>36783_IAA95NB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / AU Double 3pcs</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>36783_VCMDZW0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / AU Single 2pcs</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>36783_4OVNX4Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / California King 3pcs</title>
+      <s:price currency="USD">46.99</s:price>
+      <s:sku>36783_LYJKR9C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / US King 3pcs</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>36783_08JUN1O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / US Queen 3pcs</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>36783_LXEK61G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / US Full 3pcs</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>36783_0KCDNE8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825301414052</id>
+      <title>style 1 / US Twin 2pcs</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>36783_CNOQC31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825284898980</id>
+    <published>2020-10-30T10:07:23-04:00</published>
+    <updated>2020-10-30T10:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/fanaijia-3d-red-christmas-bedding-set-sinle-cartoon-christmas-tree-duvet-cover-set-kids-new-years-gift-58717"/>
+    <title>Fanaijia 3D Red Christmas Bedding Set sinle Cartoon Christmas tree Duvet Cover Set Kids New Year&apos;s Gift</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/073cd3ee22b4d7b8a4d0adde9b6cc854.jpg?v=1604070048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            115.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ 
+ 
+ Fanaijia king Duvet Cover set with pillowcase Bohemian skull Print 3pcs Bedding Set King size AU Queen Bed best gift bedline
+ 
+Item Name: Bedding Set
+ 
+Fabric: Microfiber
+Season  : Spring, Summer, Autumn, Winter
+Features:     Turtle symbolizes auspicious and longevity, it is the sacred thing in the minds of people. Our gloden design on the black background, with Lotus, adds the elegance and luxury to your bedroom
+Reminder:
+1) If you need extra sheet to match, please contact us.  
+2) Duvet Cover is used to cover our comforter or quilt, it without filling inside.
+3) Due to the light and screen difference, the item's color may be slightly different from the  pictures.
+4) Due to hand made tailor, please allow 3-5cm size differ.  
+US size :
+US Twin :1xduvet cover 178*218cm (68"x86") 1xpillowcase :19"x29"(50x75cm).
+US Full:       1xDuvet Cover 203cmx228cm(80"x90") , 2xPillow Case 19"x29"(50x75cm).
+US Queen:  1xDuvet Cover 228cmx228cm(90"x90") , 2xPillow Case 19"x29"(50x75cm).
+US King:      1xDuvet Cover264cmx228cm(104 "x90"), 2x Pillow Case  20"x36" ( 51cmx91cm) 
+Australia size
+ AU Single: 1 piece Duvet Cover 140x210cm,1 piece Pillowcase 19"x29"(50x75cm).
+AU Double: 1 piece Duvet Cover 180x210cm, 2 piece Pillowcase .19"x29"(50x75cm)
+AU Queen: 1 piece Duvet Cover 210x210cm, 2 piece Pillowcase 19"x29"(50x75cm).
+AU King: 1 piece Duvet Cover 245x210cm, 2 piece Pillowcase 19"x29"(50x75cm).
+Europe size
+EU Single:   1 Duvet Cover 53"x79"(135x200cm) ,1 Pillowcase    19"x29"(50x75cm).
+EU Double: 1 Duvet Cover 79"x79"(200x200cm) , 2 Pillowcase    19"x29"(50x75cm).
+EU King:     1 Duvet Cover 94"x86"(240x220cm) , 2 Pillowcase    19"x29"(50x75cm).
+EU Super King: 1 Duvet Cover 102"x86"(260x220cm) , 2 Pillowcase    19"x29"(50x75cm)
+ 
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / EUking</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_ZUIMPZV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / EUDouble</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_TUSJSFH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / EUSingle</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_HUNQRAF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / AUSingle</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_DAUVUQD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / AUKing</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_QTRM1C4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / AUqueen</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_XMDKOO6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / AUdouble</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_OBPUGD6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / EUsuperking</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_IHLQPL9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / USTwin</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_IY9TBGE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / USQueen</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_TX8GNPH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / USKing</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_U4YHFXW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>A / USFull</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_LLB9GGP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / EUking</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_PNLVWJS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / EUDouble</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_YONLE2C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / EUSingle</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_3EGA025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / AUSingle</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_9U0HN90</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / AUKing</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_MG7A509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / AUqueen</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_DVCP59G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / AUdouble</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_LGJLG0J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / EUsuperking</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_LWPRWAF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / USTwin</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_9FTEIMP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / USQueen</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_VLM6XDF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / USKing</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_F1LUFVB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>B / USFull</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_B5VVIMX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / EUking</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_22BXRTW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / EUDouble</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_GJODFY4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / EUSingle</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_Q8SX7NV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / AUSingle</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_KQAXEDW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / AUKing</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_XGAYIGS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / AUqueen</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_KS1PEDR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / AUdouble</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_ERMVFSJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / EUsuperking</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_B4DEGCR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / USTwin</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_ZJXAKSJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / USQueen</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_Z1VH6ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / USKing</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_6ABGUH6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825284898980</id>
+      <title>C / USFull</title>
+      <s:price currency="USD">115.99</s:price>
+      <s:sku>36782_EYBKLUO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825277132964</id>
+    <published>2020-10-30T10:03:29-04:00</published>
+    <updated>2020-10-30T10:03:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/homesky-3d-merry-christmas-bedding-set-duvet-cover-red-elk-comforter-bed-set-gifts-queen-king-size-94112"/>
+    <title>Homesky 3D Merry Christmas Bedding Set Duvet Cover Red Elk Comforter Bed Set Gifts Queen King Size</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/8f4b14669d3b516b6ca225273357d1f7.jpg?v=1604071013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+Item Name: Bedding Set
+Packing List: 1* Duvet Cover + 1/2* Pillow Cases
+Fabric: Polyester
+Season: Spring, Summer, Autumn, Winter
+Homesky Reminder:
+1) If you need extra sheet to match, please contact us. 
+2) Duvet Cover is used to cover our comforter or quilt, it without filling inside.
+3) Due to the light and screen difference, the item's color may be slightly different from the  pictures.
+4) Manual measurement 1-5cm error is allowable
+5) Different country size is different ,please check it before you buy
+Note: product does not include any quilt or blanket
+Shipment1.We will send the product within 3 working days once your payment is completed. 
+2.Please make sure that you leave the correct full name/complete address/correct zip code and phone number. If you need to change shipping information, please contact us as soon as possible.
+3.Priority use AliExpress Standard, EPacket,China Post Registered Air Mail Shipping.If the package is heavy, we will choose other logistics methods according to the actual situation.
+Refund &amp; Returns &amp; Resend 1.If you did not receive the package within the delivery time, please contact us.After confirming the problem, we will resend or partial/full refund. 
+2.If there are any problem with our products, please send us the package or product photos immediately, After confirming the problem, we will resend or partial/full refund.
+Feedback1.Your feedback is extremely important to us. if you are satisfied with our items and services,Please leave positive feedback and 5 star rating.
+2.If you are not satisfied with the goods or services,Please contact us before submitting your dispute or negative comments. We can solve any problems together.
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-2 / US King 264x228cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_S0CRQ5I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-2 / US Queen 228x228cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_TXSDXYV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-2 / US Full 203x228cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_GZNPD8S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-2 / AU Double 180x210cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_B5UDHUC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-2 / US Twin 173x218cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_TCE44MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / UK Single 135x200cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_Y9CNA8M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / AU Single 140x210cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_FRW2B13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / UK King 220x230cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_K4WG8RA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / AU King 220x240cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_TGQY1HN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / EU King 220x240cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_Y3HWQPH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / UK Double 200x200cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_VTEKCN5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / AU Queen 210x210cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_D0II16K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / EU Double 210x210cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_GGVZQLJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / UK SupKing 220x260cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_B1AEHUU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / US King 264x228cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_2ODZWLD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / US Queen 228x228cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_6Y2MCAP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / US Full 203x228cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_HUMT55I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / AU Double 180x210cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_SQRZWNR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825277132964</id>
+      <title>CD009-1 / US Twin 173x218cm</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku>36781_E1ZLHFR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825273036964</id>
+    <published>2020-10-30T10:00:10-04:00</published>
+    <updated>2020-10-30T10:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/christmas-pillow-case-home-decoration-cushion-cover-christmas-decorative-pillows-cover-sofa-living-room-pillowcase-88853"/>
+    <title>Christmas Pillow Case Home Decoration Cushion Cover Christmas Decorative Pillows Cover Sofa Living Room Pillowcase</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/0bb1ab1b64844d7092bf2505d048b0eb.jpg?v=1604071260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ Specifications:
+ It can be a good decoration for office, home, car, cafe, shop, library, etc.
+ Durable material, high quality print technology and fine workmanship.
+ Suitable for square pillow, washable, easy to change the pillow core.
+ Type: Pillow Case
+ Shape: Square
+ Material: Cotton Linen
+ Size(approx.):18"x18" /45cm×45cm
+ Package including:
+ 1 x Pillow cover
+ 
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825273036964</id>
+      <title>E</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>36779_LF2IAQX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825273036964</id>
+      <title>D</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>36779_6TKOCO1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825273036964</id>
+      <title>C</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>36779_1DPEWFH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825273036964</id>
+      <title>B</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>36779_57LQI1F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825273036964</id>
+      <title>A</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>36779_6AXBSGT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825266647204</id>
+    <published>2020-10-30T09:55:56-04:00</published>
+    <updated>2020-10-30T09:55:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/4pcs-farmhouse-christmas-pillow-covers-45x45cm-christmas-decorations-throw-pillows-cushion-case-73208"/>
+    <title>4pcs Farmhouse Christmas Pillow Covers 45x45cm Christmas Decorations Throw Pillows Cushion Case</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/1582499d6e827bedd4055c09d3fabbc5.jpg?v=1604066225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	Red black buffalo plaids christmas tree sign, christmas pillow covers 18x18 inch set of 4 for christmas decor
+	
+	Christmas is coming soon, after the busy day, you need a soft pillow cushions to lean on the sofa. Let its softness bring you some comfort and decorate your home life.
+	
+	Why choose us?
+	
+	We control quality from the source, select fabrics,zipper &amp;sewing thread.Strictly control each process, Color fastness, air permeability, material durability. 4 pillow cases with different patterns can easily match your home style perfectly.we also have Perfect after-sales logistics service, so you have no worries.
+	
+	The smooth invisible zipper at the bottom, easy to cram pillow insert or filler, it will not get stuck, we have tested and can guarantee the quality.
+	
+	The unique waterprintings,looks lovely and colorful,it is also a great gift for your family and friends.
+	
+	The pillow cases are made of 100% cotton linen materials,breathable and dry.
+	
+	Package Include:
+	Brand new 4 PCS christmas pillow covers 18x18 inch, No Insert or Filler. This keeps costs low for our customers and allows them to reuse existing inserts in their home. It fits 18x18 inch insert or smaller insert.
+	
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825266647204</id>
+      <title>White / 450mm*450mm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36778_FWJGZJG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825262256292</id>
+    <published>2020-10-30T09:52:36-04:00</published>
+    <updated>2020-10-30T09:52:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/green-linen-christmas-pillowcase-home-christmas-sofa-pillowcase-christmas-christmas-pillow-55873"/>
+    <title>Green Linen Christmas Pillowcase Home Christmas Sofa Pillowcase Christmas  christmas pillow</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/7f29f74063417343fd7c13988e1d5952.jpg?v=1604072813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only pillow cover will be shipped. No pillow included.
+Specifications:
+	
+	It can be a good decoration for office, home, car, cafe, shop, library, etc.
+	
+	
+	Durable material, high quality print technology and fine workmanship.
+	
+	
+	Suitable for square pillow, washable, easy to change the pillow core.
+	
+	
+	Type: Pillow Case
+	
+	
+	Shape: Square
+	
+	
+	Material: Linen
+	
+	
+	Size: 45cm x 45cm/17.72" x 17.72" (Approx.)
+	
+Package including:
+	
+	1 x Pillow cover
+	
+Notes:
+	
+	Due to the light and screen setting difference, the item's color may be slightly different from the pictures.
+	
+	   Please allow slight dimension difference due to different manual measurement. 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+.............................................................................................
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 24 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_EVDX2HU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 23 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_MLWXIBA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 22 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_QGYQMNT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 21 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_A7E0CTB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 20 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_M4LDC1Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 34 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_R6T3CQS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 14 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_6HKBBWY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 13 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_WF2O9AS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 12 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_CLNWPQX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 10 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_1EKAWSD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 09 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_JSFPUQP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 08 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_SHDF6EL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 07 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_GUISSI1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 06 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_URJM0S7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 05 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_TLSOIO5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 04 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_7VPQRCG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 03 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_HKFYVLT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825262256292</id>
+      <title>style 02 / 45x45cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>36777_2BVCBWI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5824739868836</id>
+    <published>2020-10-30T05:58:01-04:00</published>
+    <updated>2020-10-30T05:58:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/natal-christmas-lantern-led-luminous-creative-decoration-portable-lantern-boze-narodzenie-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%B5-%D1%83%D0%BA%D1%80%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B3%D0%BE%D0%B4-2021-21054"/>
+    <title>natal Christmas Lantern Led Luminous Creative Decoration Portable Lantern boże narodzenie новогодние украшения новый год 2021</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/907b884e6294405fd1073b69ad968379.jpg?v=1604052154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Christmas Lantern Led Luminous Creative Decoration Portable Lantern 
+ Description:  
+  Very suitable for Christmas decoration, most suitable for house decoration. 
+  The best gift: This product can also be given to your friends. Record your friendship and make your life more enjoyable. 
+  Even if it is not a gift, this product is also a good home decoration. 
+  You can put it in your room, dining table, living room, study... Whether in school or at home, this is a beautiful scenery. 
+  Small, exquisite, beautiful, will make every Christmas full of joy 
+  Theme: Christmas 
+  Occasion: Suitable for home decorations, table decorations, etc. 
+ 
+ Note:  
+  Due to different lighting and screen settings, the color of this item may be slightly different from the picture. 
+  Due to different manual measurement methods, please allow slightly different sizes. 
+ 
+ Package Contents:  
+  1xled decoration lamp                             
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5824739868836</id>
+      <title>Olive</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>36761_WH6UJ04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5824739868836</id>
+      <title>Fluorescence Yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>36761_LABJX2Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5824739868836</id>
+      <title>Deep Sapphire</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>36761_RIGIHVM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5824734298276</id>
+    <published>2020-10-30T05:55:13-04:00</published>
+    <updated>2020-10-30T05:55:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/christmas-tree-hanging-decoration-oct-5th-74521"/>
+    <title>Christmas tree hanging decoration Oct 5th</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e571596ec0dae57d5a1ead131a316b43.jpg?v=1604052505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+description:
+Size: Sphere: 9*1*11cm/Tree shape: 10*1*11cm
+        RV: 11*1*10cm/Five-pointed star: 11*1*11cm
+     Weight: about 33grams
+     Theme: Christmas
+     Product name: Christmas decorations.
+     Material: wood
+     Features: exquisite design, decoration
+feature:
+    The Christmas decorations are exquisite and wear-resistant.
+    Lovely decoration, made of high-quality materials, can be used for a long time.
+    Bring a strong Christmas holiday atmosphere to your family, very suitable for Christmas decoration.
+    The cute decorations in homes, offices, cafes, restaurants and other places make each place unique and beautiful.
+    Give children, friends and family birthday, wedding, housewarming and other exquisite gifts.
+    We specialize in exquisite Christmas ornaments and seasonal decorations, specially designed to meet your needs.
+Package Included:
+    1 x Christmas decoration
+note:
+      The actual color of the item may be slightly different from the 
+picture displayed on the website, which is caused by many factors, such 
+as the brightness of the display and the brightness of the light.
+      Please allow a slight manual measurement deviation of the data</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Christmas</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5824734298276</id>
+      <title>D</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>36760_JLLS5GG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5824734298276</id>
+      <title>C</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>36760_IPCSHMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5824734298276</id>
+      <title>B</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>36760_X8F8XSV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5824734298276</id>
+      <title>A</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>36760_R0DEGZV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5823060344996</id>
+    <published>2020-10-29T14:05:15-04:00</published>
+    <updated>2020-10-29T14:05:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/soft-green-pink-tassels-cushion-cover-45x45cm-30x50cm-blue-yellow-decorative-pillow-cover-home-decor-sofa-throw-pillowcase-35432"/>
+    <title>Soft Green Pink Tassels Cushion Cover 45x45cm/30x50cm Blue Yellow Decorative Pillow Cover Home Decor Sofa Throw PillowCase</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/BaQGXocvHFKZLSL.jpg?v=1603994838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 
+	
+		
+			
+				
+					:
+				
+				
+					
+						
+					
+					
+						
+					
+					
+						
+					
+					
+						
+					
+					
+						 
+					
+					
+						      
+					
+					
+						 
+					
+					
+						   
+					
+					
+						   
+					
+					
+						 
+					
+					
+						 
+					
+					
+						 
+					
+					
+						 
+					
+					
+						
+					
+					
+						 
+					
+					
+						Soft Pink Green Tassels Cushion  Cover   Pillow Cover
+					
+					
+						 
+					
+					
+						 
+					
+					
+						
+							[Material] 100% polyester
+						
+						
+							[Description] Not including Filling, containing only the cushions cover
+						
+						
+							[Pillow Specification] Cushions size 45CM×45CM (Approximately 18in×18in) ,30x50cm
+						
+						
+							Cushions size because the manual sewing reason may have errors of 2 to 3 cm(About 0.8in~1.2in)
+						
+						
+							[Products Printing] Pillow cover front side with tassels ,back side is solid
+						
+						
+							[Zipper Location] Invisible zipper on the bottom side of the Pillow cover
+						
+						
+							[Care Instruction]  Hand Wash or Spot clean, Do not Bleach,Warm Iron if needed
+						
+						
+							[Keywords] Cushion &amp; Pillow &amp; Sofa Cover &amp; Cushion Cover &amp; Pillow Cover &amp; Pillows Decorate &amp; Custom Cushions 
+						
+						
+							 
+						
+						
+							Please note:
+						
+						
+							1. All cushions are handmade, there may be 1-2cm deviation exist.
+						
+						
+							2. Actural color will be  slight difference between the picture because of the  light brightness.
+						
+						
+							3. In order to keep the color fresh,It is  better to add salt to the water for your first washing
+						
+					
+				
+			
+		
+	
+	 
+	 
+	The price is only for pillow cover ,if you want pillow inner ,please click below:
+	 
+	
+	 
+	 
+	
+	 
+	 
+	 
+	 
+	 
+	
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	      
+	
+	 
+	 
+	 
+	 
+	
+	 
+	 
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>dark yellow / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_ZJUSDXF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>mat yellow / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_FBCUNT4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>mat yellow / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_W6QL99A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>navy / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_SV1NGV4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>navy / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_DHF0EGD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>grey blue / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_E1XD1HB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>grey blue / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_HUBIWZS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>light blue / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_NWENJ35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>light blue / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_DDJLWJB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>mat green / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_JOXSEA3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>mat green / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_LRQYBRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>teal / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_FDWTRR9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>teal / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_XESOLWU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>soft green / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_J1PBOUP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>soft green / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_VUAUVXY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>grey / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_DQT8AHW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>grey / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_XOPCTUC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>grey pink / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_DYPXQAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>grey pink / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_MF9YPND</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>champagne / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_SK5XIEZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>champagne / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_ISXU8Y9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>beige / 1 piece 30x50cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_FJ9KVNR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823060344996</id>
+      <title>beige / 1 piece 45x45cm</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>36646_OR2EUDT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5823057395876</id>
+    <published>2020-10-29T14:01:19-04:00</published>
+    <updated>2020-10-29T14:01:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/high-quality-soft-emerald-green-velvet-pillow-case-cushion-cover-dark-green-pillow-cover-no-balling-up-without-stuffing-20146"/>
+    <title>High Quality Soft Emerald Green Velvet Pillow Case Cushion Cover Dark Green Pillow Cover No Balling-up Without Stuffing</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/612442e885839c336f222e5883a11bf3.jpg?v=1604017578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	
+	Attention:
+	As different computers display colors differently, the color of the actual item may vary slightly from the above images.
+	We recommend that you use the mobile phone to browse the product photos, mobile phone screen resolution is high,closer to the actual color of the product.thanks for your understanding.
+	This Velvet Fabric Soft, Fadeless,No Balling-up And No Smell Environmental Products.
+	Note:There may be a slight error in the measured data(1cm~2cm)
+	          Because this pillowcase color reflective,So when the camera taking pictures will be a little bit of error.
+	SIZE 1: 30cmx50cm
+	SIZE 2: 45cmx45cm
+	SIZE 3: 50cmx50cm
+	
+	The following is the product pictures:
+	
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823057395876</id>
+      <title>45cmx45cm</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>36645_W4K4YZL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823057395876</id>
+      <title>60cmx60cm</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>36645_O5BSNLQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823057395876</id>
+      <title>50cmx50cm</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>36645_LMWJBDX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823057395876</id>
+      <title>30cmx50cm</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>36645_XAEXPSH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5823053103268</id>
+    <published>2020-10-29T13:53:19-04:00</published>
+    <updated>2020-10-29T13:53:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/hot-sale-pu-leather-pillow-canvas-stripe-stitching-pillow-sofa-cushion-new-modern-minimalist-style-living-room-pillow-cushion-45580"/>
+    <title>Hot Sale PU Leather Pillow Canvas Stripe Stitching Pillow Sofa Cushion New Modern Minimalist Style Living Room Pillow Cushion</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/dbfa7d17b0e48d714a6309c72e6b8c9d.jpg?v=1603994426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>20339
+                            Hot Selling
+                             
+                                
+                                              
+                                
+                            
+                            
+100% Brand NewMaterial:  PU leatherColor: as picturePackage: 1pcSize: length*width 45*45cmConversion: 1inch=2.54cm,  1cm=0.393inchesWarm Tip :  Please be reminded that due lighting effects, monitor's brightness/contrast settings etc, there could be some slight differences in the colour tone of the website's photo and the actual item. Item Measure by hand, it could be 1cm different,your kind understanding will be much appreciated.   
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823053103268</id>
+      <title>4 / 45x45cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>36644_EU0BIZM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823053103268</id>
+      <title>3 / 45x45cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>36644_SKD9RSK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823053103268</id>
+      <title>2 / 45x45cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>36644_97QIMNY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823053103268</id>
+      <title>1 / 45x45cm</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>36644_GXGMEET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5823049400484</id>
+    <published>2020-10-29T13:50:18-04:00</published>
+    <updated>2020-10-29T13:50:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/2020-new-arrivals-luxury-pu-leather-pillow-cover-printed-moroccan-style-cotton-cushion-cover-for-automobile-and-sofa-76380"/>
+    <title>2020 New Arrivals Luxury PU Leather Pillow Cover, Printed Moroccan Style Cotton Cushion Cover for Automobile and Sofa</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/154dd491ace391102c06dced866520f8.jpg?v=1603996978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	
+		
+			
+				Luxury PU Leather Pillow Cover, Printed Cotton Cushion Cover- Protect your cushion and enhace the beauty of your home!
+Note:
+There may be 1-2 cm deviation in different sizes, locations and stretch of fabrics. 
+Size is for reference only; there may be a little difference with what you get. 
+Color may be lighter or darker due to the different PC display.
+Specifications:
+Product Name: Luxury PU Leather Pillow Cover, Printed Cotton Cushion Cover
+Material: PU leather, polyester, canvas.
+Product Size: 45 cm* 45 cm / 17.72 inch* 17.72 inch 
+Weight (kg) 0.3 kg / 0.66 lb
+Shape: Square
+Attention:
+First, the pillow cover should not be in contact with sharp objects, 
+otherwise it will be damaged or scratched, so as not to affect the 
+beauty or use effect.
+Second, the product should be kept away from the fire source, because 
+the material is inflammable and easy to burn down, even cause fire and 
+cause safety accidents.
+Third, product cleaning: use mild detergent for washing, do not use strong oxidizing detergent to avoid damage.
+Fourth, machine wash in cold water only, gently cycle, do not bleach, dry at low temperature, do not iron
+Package Contents:
+1 x Luxury PU Leather Pillow Cover/Printed Cotton Cushion Cover
+Promise:
+				
+					If the product has any quality problems, please feel free to contact 
+us, we will help you solve the problem as quickly as possible.
+				
+				
+					 
+				
+			
+		
+	
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823049400484</id>
+      <title>7</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>36642_NSPINSB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823049400484</id>
+      <title>6</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>36642_SQEC9SX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823049400484</id>
+      <title>5</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>36642_DH1BEVQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823049400484</id>
+      <title>4</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>36642_LRHUDYM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823049400484</id>
+      <title>3</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>36642_BI7HU3N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823049400484</id>
+      <title>2</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>36642_EXJXXPK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5823049400484</id>
+      <title>1</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>36642_DJHVBDU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5818283065508</id>
+    <published>2020-10-28T08:43:46-04:00</published>
+    <updated>2020-10-28T08:43:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/knit-throw-blanket-with-tassels-for-sofa-bed-chair-travel-photography-props-130x160cm-95003"/>
+    <title>Knit Throw Blanket with Tassels for Sofa Bed Chair Travel Photography Props 130x160cm</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/858e1c533c84e593da35ebe7db63de38.jpg?v=1603889200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ 
+  
+   
+    
+     
+      
+       
+        
+         
+          
+           
+             
+             
+               modname=ckeditor 
+              
+              
+                
+                
+              Features: 
+              Made of 100% high quality acrylic, very soft silky lightweight touch, cozy and warm thin throw, strong anti-sunlight and excellent light fastness 
+              Size: 130x160cm(not inlcuding the tassles) 50"x62", 
+              weight:1 kg 
+              Occasion:snuggling up on the couch, bed as decorative,movie theater, park,farmhouse or christmas gift, when camping for any occasion 
+              Beautiful knitting is what gives our throw blanket fancy touches.The woven pattern brings a decorative element to any sofa, couch, bed, recliner or sitting bench. 
+              EASY CARE - Machine wash colors separately wash in cold water, gentle cycle, tumble dry low, low iron 
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+              
+            
+           
+          
+         
+         
+       
+      
+     
+     
+   
+  
+ 
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Throws</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818283065508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>36341_PK7E6VX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

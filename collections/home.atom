@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/home.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2021-04-28T09:05:10-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/6675943456932</id>
+    <published>2021-04-28T09:05:10-04:00</published>
+    <updated>2021-04-28T09:05:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/char-broil-charcoal-tabletop-grill-37241"/>
+    <title>Char-Broil Charcoal Tabletop Grill</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e3b99657e24c229a2124a60f55606220.jpg?v=1619615213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the high quality only Char-Broil can deliver in a tabletop grill. </p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/6675943456932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>272074_MOX2513106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5818491076772</id>
+    <published>2021-03-18T09:20:06-04:00</published>
+    <updated>2021-03-18T09:20:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/wooden-embossing-rolling-pin-05189"/>
+    <title>Wooden Embossing Rolling Pin</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/657abc450ee7b8befc92b3246ab142bb.jpg?v=1603896381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 28.39
+            <a href="https://www.go-e-mall.com/products/wooden-embossing-rolling-pin-05189">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Certification: FDACertification: EECCertification: CE / EUCertification: CIQCertification: LFGBFeature: Eco-FriendlyDiameter (cm): 35cmType: Rolling Pins &amp; Pastry BoardsMaterial: WoodProduct Type: Rolling Pins
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35368_5JCX2YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>K</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_FQACP6C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>D</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_V7STKYJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>C</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_V3SNCNG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>B</title>
+      <s:price currency="USD">28.39</s:price>
+      <s:sku>35368_UIZNQTW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>A</title>
+      <s:price currency="USD">28.39</s:price>
+      <s:sku>35368_HSADPEV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5825317175460</id>
+    <published>2020-10-30T10:23:08-04:00</published>
+    <updated>2020-10-30T10:23:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/macrame-tapestry-wall-hanging-decorative-mirror-bohemia-creative-home-art-wall-decorations-boho-decor-home-51805"/>
+    <title>Macrame Tapestry Wall Hanging  Decorative Mirror  Bohemia Creative Home Art Wall Decorations Boho Decor Home</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/4fadb18b6928a3475e3cd2b85d0431cf.jpg?v=1604067997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features:
+The overall version looks like a sunflower, adding fun without losing personality. Appearance uses a weaving workmanship to exude a retro atmosphere. At the same time, the texture is fresh and beautiful, and the surface is smooth and not rough, giving you a good feel and not easy to wear skin. With a round mirror, it is simple and atmospheric, and the reflection is high, giving you a better experience.
+Scenes to be used:
+1. Can be placed in the living room, clearly illuminating the large space environment, and can also play a decorative role.
+2. Put it in the bathroom and use the bedroom as a daily makeup mirror, which is more practical.
+Product: Handmade Tapestry
+Material:100%Natural cotton rope
+Size: Without Mirror : outer diameter 28cm, inner diameter 20cm.
+         Have Mirror : outer diameter 35cm, inner diameter 20cm.
+Color:Color like picture (Manual staining maybe have chromatic aberration)
+Note:
+1.Because of the size measurements are handmade, so there may be 3-5CM error.
+2.Please understand because of the light irradiation or computer display difference, so I  can't guarantee photos and real color is 100% the same.
+3.National style tapestry, suitable for home decoration, wedding set,  etc... If you have other pictures, dimensions or requests please contact me!
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>D</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_DEEYOQL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>A 35cm have mirror</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_HHMEIUD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>B 35cm have mirror</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_AQN0RSM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>C</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_EGOHQEX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5825317175460</id>
+      <title>28cm No mirror</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>36786_CFTLV32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5802795466916</id>
+    <published>2020-10-22T09:19:25-04:00</published>
+    <updated>2020-10-22T09:19:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/crystal-glass-glitter-gift-box-set-with-writing-supplies-03312"/>
+    <title>Crystal Glass Glitter Gift Box Set with Writing Supplies</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/05894e7c0d3c5b68c382e2725c01cc02.jpg?v=1603373433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Design 1-6 :13Pcs/Set  Design 7-12 :7Pcs/Set  Size: Design 1-6: 21.5x4cm  Design 7-12: 19x11.5cmChoice: Design 1-6: 1*glass pen, 12*ink(7ML)  Design 7-12: 1*glass pen, 4*ink(7ML), 1*pen holder,1*wash cupMaterial: Soda Lime GlassPackage:Unicorn Gifts Box
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>12</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_NTNEYKM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>11</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_6QSYPFI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>10</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_0MQOHRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>9</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_NO9WYYH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>8</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_4CLOXRM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>7</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_GHMATRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>6</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_FMNQEQZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>5</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_VKSFYLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>4</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_VEYCEHH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>3</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_X122KOW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>2</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_LTODIKP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802795466916</id>
+      <title>1</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29783_EDXL7JN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5802791534756</id>
+    <published>2020-10-22T09:17:07-04:00</published>
+    <updated>2020-10-22T09:17:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/paper-towel-tissue-storage-rack-kitchen-film-cling-4-in-1-multifunctional-paper-dispenser-wall-mounted-paper-towl-roll-holder-34494"/>
+    <title>Paper Towel Tissue Storage Rack Kitchen Film Cling 4 In 1 Multifunctional Paper Dispenser Wall Mounted Paper Towl Roll Holder</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/9f50530cc4ccdf5fb535cc3a75d1d6f5.jpg?v=1603373803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Function: kitchen storageMaterial: ABSSize: 390 * 100 * 240mmWeight: 647gColor: white, khaki, gray bluePackaging: kraft paper box packagingGross weight: 7.8 / 9.8KG1. Function: this product can be stored cling film, tin foil, paper towels and more.2. Built-in 2 kinds of cutting knife: Triangle knife and circular rolling knife3. Installation: comes with 4 expansion screws and 4 plastic, according to personal preference, paste or nail.4. Space saver: it can be mounted on the wall,window,refrigerator,cabinet in kitchen room.5. Easy to install: screws and glue tape. This product with hanging holes, so you can hang it on the nails of wall.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802791534756</id>
+      <title>blue</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>28667_KBT9EF8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802791534756</id>
+      <title>khaki</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>28667_CXKITTM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802791534756</id>
+      <title>white</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>28667_XJUMG3X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5800931688612</id>
+    <published>2020-10-21T12:45:35-04:00</published>
+    <updated>2020-10-21T12:45:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/wine-bottle-opening-kit-25479"/>
+    <title>wine bottle opening kit</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/39c5f9c8e37b4feb09ff2c2448867867.jpg?v=1603299407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99 - 39.99
+            <a href="https://www.go-e-mall.com/products/wine-bottle-opening-kit-25479">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Luxury wine opener accessories gift tools set with waiters corkscrew opener 5 piece wine bottle opening kitProduct DescriptionThis 5-piece wine tool kit has all the wine tools you need to start a party! Includes corkscrew opener, leaf cutter, wine stopper, drip ring and wine pourer. This is a must have set to better enjoy your wine!Stay organized and easy to store-with all the tools needed to open any wine bottle, our 5-piece wine opener set is organized and easy to store. The bottle-shaped box of the novelty is equipped with magnets, so you can easily open and close the case effortlessly.Quality drip-ring construction, pourer and stopper are made with high quality stainless steel; the corkscrew opener is reinforced with aluminum alloy and our original handle for an ergonomic grip so you can easily open any wine bottle.The perfect gift-set of 5-piece wine opener comes in a beautiful and elegant bottle shape so it is a perfect gift item for family and friends, special occasions and events. Great for wine lovers, it will look great on any kitchen countertop or stored in a wine rack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5800931688612</id>
+      <title>5pcs</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28690_I434TOK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5800931688612</id>
+      <title>3pcs</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>28690_3T57JS9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5800929689764</id>
+    <published>2020-10-21T12:44:17-04:00</published>
+    <updated>2020-10-21T12:44:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/70ml-mini-coffee-machine-portable-coffee-maker-pressure-espresso-manual-handheld-espresso-coffee-maker-for-home-travel-hot-16477"/>
+    <title>70ml Mini Coffee Machine Portable Coffee Maker Pressure Espresso Manual Handheld Espresso Coffee Maker for Home Travel Hot</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/91d90a3f8168d493586d5ef3600122d7.jpg?v=1603299631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Name: Mini Portable Manual Coffee MachineProduct Size: 19.6 x 5.8 x 5.5cm/7.71 x 2.28 x 2.16inWhether electric or not: noMaterial: food grade plasticAmount of powder: 7gWater capacity: 70mlFeatures:Make pretty good espresso in a relatively short time if you only have ground coffee and hot water ready. Portable design, simple and fast to use, hand operated coffee machine, you can prepare amazing espresso anywhere. Instruction:Put a spoon of ground coffee in the container, squeeze the ground coffee with a spoon.Put it in the cup, close the lid, 90 degrees water at the bottom of the container.Tighten the lid, press several times, drip coffee slowly.According to personal preference,Press 13 times (medium purity coffee)Press 18 times (Italian espresso)Press 28 times (double Italian espresso)
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5800929689764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku>28579_TIXJ0MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5800927396004</id>
+    <published>2020-10-21T12:43:06-04:00</published>
+    <updated>2020-10-21T12:43:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/outdoor-camping-survival-tools-multitool-tactical-pliers-versatile-repair-folding-screwdriver-military-stainless-steel-edc-gear-05384"/>
+    <title>Outdoor Camping Survival Tools Multitool Tactical Pliers Versatile Repair Folding Screwdriver Military Stainless Steel EDC Gear</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/570b0f3c17a694b9455b60809b2cffd2.jpg?v=1603299889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Multifunction Tools-Pliers,Cutter,Semi-Saw,Sharp Scraper,Small One-Word Screwdriver,Bottle Opener,Large Screwdriver,Knife,Slotted Screwdriver,Sickle,Descaler,Key Ring-Ergonomic handle,lightweight and durable,comfortable to grasp,portable design,convenient to use-Use for outdoor,camping,hiking,fishing,picnic and so on.Specifications:Material:420 Stainless SteelOpen Size:11CMFolding Size:7CM*3.5CM*1.2CM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardening &amp; Outdoors</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5800927396004</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>28523_ULZLQCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5800927396004</id>
+      <title>Silver</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>28523_U4GC7BQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650502025380</id>
+    <published>2020-09-08T15:30:15-04:00</published>
+    <updated>2020-09-08T15:30:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/floral-tassels-pillow-case-79577"/>
+    <title>Floral Tassels Pillow Case</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/3f6c1a494fdfe52df962babd18144fab.jpg?v=1599593900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material: Cotton Pattern: Handmade Tassels, Dura side are same patternShape: SquareUse: Car, Chair, Decorative, SeatWeight:150g~190g/pieces Varies with the designsWashing Method: Cold Water Washed By HandPackage included: 1x pillow case ( not included pillow inner)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650502025380</id>
+      <title>Vintage Yellow / 300*300 MM</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>11908_6HHUZYG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650502025380</id>
+      <title>Light Beige / 300*300 MM</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>K90NL85</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650502025380</id>
+      <title>White / 300*300 MM</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>H1HNVYD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650502025380</id>
+      <title>Carbon Gray / 300*300 MM</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>839UG0L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650502025380</id>
+      <title>Vintage Yellow / 450*450 MM</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>WIOTMEC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650502025380</id>
+      <title>Light Beige / 450*450 MM</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>PT3NA1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650502025380</id>
+      <title>White / 450*450 MM</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>N98WJUD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650502025380</id>
+      <title>Carbon Gray / 450*450 MM</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>ZXUA70X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650494980260</id>
+    <published>2020-09-08T15:28:23-04:00</published>
+    <updated>2020-09-08T15:28:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/macrame-hand-woven-cotton-thread-pillow-covers-100-cotton-linen-geometry-bohemia-cushion-covers-20587"/>
+    <title>Macrame Hand-woven Cotton Thread Pillow Covers 100% Cotton Linen Geometry Bohemia Cushion Covers</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/bd5fda7841014736d88ec37094c3b2a9.jpg?v=1599594384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use: SeatUse: DecorativeUse: ChairUse: CarPattern: PrintedTechnics: KnittedPattern Type: SolidShape: SquareMaterial: 100% CottonStyle: Jacquard</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650494980260</id>
+      <title>D</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>I8YI8T1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650494980260</id>
+      <title>C</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>77A4G2V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650494980260</id>
+      <title>B</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>1VG0A5N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650494980260</id>
+      <title>A</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>0FBKYWE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650447859876</id>
+    <published>2020-09-08T15:17:03-04:00</published>
+    <updated>2020-09-08T15:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/3l-5l-8l-10l-15l-outdoor-collapsible-foldable-water-bags-container-camping-hiking-portable-survival-water-storage-carrier-bag-34125"/>
+    <title>3L 5L 8L 10L 15L Outdoor Collapsible Foldable Water Bags Container Camping Hiking Portable Survival Water Storage Carrier Bag</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/309135c53e6e7e27dc375b1a98175288.jpg?v=1599596800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99 - 10.99
+            <a href="https://www.go-e-mall.com/products/3l-5l-8l-10l-15l-outdoor-collapsible-foldable-water-bags-container-camping-hiking-portable-survival-water-storage-carrier-bag-34125">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lightweight and foldable design for easy carry.Ideal for outdoor water container or storage.Easy on / off to the water flow.Made of food grade pe plastic, this water bucket is lightweight, portable, non-toxic, anti-aging, safe and durableWhen not in use, you can easily compress and fold the water bucket to take up less space, which also makes it easy to carry alongDescription:The outlet design can help you adjust the water volume, making it convenient to use.A helper when you are going for an outing, driving, camping, fishing etc.Specifications:Material: PEColor: whiteSize: 165*210mm;220*240mm,235*270mm,250*280mm,310*280mmCapacity: 3L,5L,8L,10L,15L
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>15L</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>27718_J3XCLZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>10L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>27718_8TYQYST</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>8L</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>27718_QZ8NYIR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>5L</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>27718_JCQZVWW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>3L</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27718_WPXJIDY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650045927588</id>
+    <published>2020-09-08T11:29:10-04:00</published>
+    <updated>2020-09-08T11:29:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/self-cleaning-broom-and-dustpan-51530"/>
+    <title>Self Cleaning Broom and Dustpan</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/3fbe0c20b2a38c4190304e90bfc4a43c.jpg?v=1599579394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650045927588</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>4458_BSHQE9B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650045304996</id>
+    <published>2020-09-08T11:28:32-04:00</published>
+    <updated>2020-09-08T11:28:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/magic-cleaning-sponge-09632"/>
+    <title>Magic Cleaning Sponge</title>
+    <s:type>Kitchen/Bathroom Cleaner</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/a4a16415d6b1ce8c648755d07aab8705.jpg?v=1599579634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Kitchen/Bathroom Cleaner<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy to clean the Kitchen utensilsIdeal for brushed bowl, Stainless etcIt is a good helper for your life.Product: Nano Emery Sponge Kitchen Dish washing Brush Pot Rust Magic WipeMaterial: Alumina Diamond + SpongeSize: 10x7x2.5CM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650045304996</id>
+      <title>brown</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>5368_G4QFKCZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650042257572</id>
+    <published>2020-09-08T11:25:20-04:00</published>
+    <updated>2020-09-08T11:25:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/hazy-jute-table-runner-wedding-vintage-natural-burlap-lace-06141"/>
+    <title>HAZY Jute Table Runner Wedding Vintage Natural Burlap Lace</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/ebd36484eb481ae4758530350173d405.jpg?v=1599579981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99 - 10.99
+            <a href="https://www.go-e-mall.com/products/hazy-jute-table-runner-wedding-vintage-natural-burlap-lace-06141">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pattern Type: SolidUse: HotelUse: HomeMaterial: 100% LinenTechnics: WovenPattern: Printedis_customized: YesMaterial: BurlapPattern Type: SolidProduct Detail100% high quality natural hessian burlap Lace Table Runner, durable,no fade,great breath ability. Reusable and easy to clean and keep. Great for chair sashes, wedding decorations, table decorations, wrapping favors and gifts, inexpensive bows, a beautiful accessory for wedding.Package: 1x HAZY Table RunnerSize: 30x180cm, 30x245cm, 30x275cm, (approx)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650042257572</id>
+      <title>Brown / 30x275cm</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>11592_LXKO43Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650042257572</id>
+      <title>Brown / 30x245cm</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>11592_79OZUX3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650042257572</id>
+      <title>Brown / 30x180cm</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>BX09LKB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5649749180580</id>
+    <published>2020-09-08T08:46:53-04:00</published>
+    <updated>2020-09-08T08:46:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/bath-sponge-lace-printed-scrub-shower-baby-bath-scrubber-exfoliating-beauty-skin-care-sponge-face-cleaning-spa-bath-ball-1pc-81904"/>
+    <title>Bath Sponge Lace Printed Scrub Shower Baby Bath Scrubber Exfoliating Beauty Skin Care Sponge Face Cleaning Spa Bath Ball 1pc</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/56e8d6009779a3d7d3bd132617531c3d.jpg?v=1599573629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cotton fabric, soft and skin-friendly, comfortable and breathableEasy to mud, delicate non-slipEasy to use, soft spongeDoes not hurt the skin, easy to dirtMaterial: EPEColor: blue, pink, green, yellowSize: 13*7*3cmSpecifications:Cotton fabric, soft and skin-friendly, comfortable and breathableEasy to mud, delicate non-slipEasy to use, soft spongeDoes not hurt the skin, easy to dirt Package Included:1*Bath sponge
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5649749180580</id>
+      <title>Roze</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13628_TGJQLIT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5649749180580</id>
+      <title>Geel</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13628_4RQ2NQV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5649749180580</id>
+      <title>Blauw</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13628_7MRLN4V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5649749180580</id>
+      <title>green</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>13628_I2191O3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5646779973796</id>
+    <published>2020-09-07T14:42:58-04:00</published>
+    <updated>2020-09-07T14:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/wall-mount-paper-towel-holder-kitchen-organizer-preservative-film-dispenser-sauce-bottle-storage-rack-wall-roll-paper-storage-37151"/>
+    <title>Wall-Mount Paper Towel Holder Kitchen Organizer Preservative Film Dispenser Sauce Bottle Storage Rack Wall Roll Paper Storage</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/f30891173c71943b7b09d66f11b8a618.jpg?v=1599504860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your kitchen essentials organized and in one place. This wall mount paper towel holder with spice rack makes your kitchen efficient and convenient in unimaginable ways. The holder has two dispensers for your foil, plastic wrap, or wax paper!Each dispenser has a sliding cutter to dispense and trim your paper quickly and easily. The top of the holder is flat, so you can keep frequently-used spices close at hand. with blades and smooth handle to ensure clean cut for quick dispensing and food prep/storage. Ergonomic design, convenient for use.Features:Built in dispensers for plastic wrap and aluminum foil with space on top for spices.Easy one hand operation provides easy access to your kitchen necessities.The bottom of the bracket bar can be disassembled, suitable for 28cm length of the paper towel.Two kinds of cutter button; round cutter for tin paper or oil-absorbing paper, triangular cutter for plastic wrap.Removable paper towel support holder rod, very practical.Specifications:Condition: 100% Brand NewMaterial: ABSColor: White, Gray Blue, Khaki (Optional)Size: Approx. 39 x 10 x 24cm / 15.35 x 3.94 x 9.45inchPackage Weight: Approx. 792g
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646779973796</id>
+      <title>Khaki</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28448_MDYF82B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646779973796</id>
+      <title>Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28448_BQWQSME</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646779973796</id>
+      <title>White</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28448_N4A8K4L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5646779121828</id>
+    <published>2020-09-07T14:41:51-04:00</published>
+    <updated>2020-09-07T14:41:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kitchen-gadgets-vegetables-slicing-cutting-tools-multi-purpose-tomato-slicer-stainless-steel-serrated-chopper-accessories-81220"/>
+    <title>Kitchen Gadgets Vegetables Slicing Cutting Tools Multi-purpose Tomato Slicer Stainless Steel Serrated Chopper Accessories</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/fe165de22ba13cef81076b2d48fe744a.jpg?v=1599505105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cut Slices of A Veggie Quickly and Easily in Just One Glide!Make the most out of your vegetables with the incredible Multi-Purpose Vegetable Slicer!There's no hassle and no more mess! With our functional and helpful vegetable cutter, you have everything in one handy set! As simple as space-saving as it gets! Whether you're looking to make a stir-fry or a vegetable medley, it will only take you seconds to Julienne your veggies.Simply place the vegetables you want to be cut into the slicer and glide it -- simple and easy as ABC!SAVE YOU MORE TIME:Don't want to spend all day cooking? Save time during the early morning rush hour, or just make your life easier in the kitchen. This slicer is perfect for everybody, there is no better time to cook healthy. Skip takeaways and cook some healthy delicious greens in minutes!EAT HEALTHIER:Get perfect slier every single time that does not only tastes good and fresh but also looks appealing! Perfect to impress the family and friends when they come over!SAVE MONEY:Eating healthy and organic food out all the time and can end up costing a fortune, now you can make your own at home for half the price.RAZOR SHARP &amp; INTERCHANGEABLE BLADES:Comes up with 4 interchangeable blades that let you cut 8 slices in just one swiping action! Shred various fruits and vegetables smoothly!SPECIFICATIONS:Material: Stainless SteelType:Vegetable SlicerSize:35.5*8.5CM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646779121828</id>
+      <title>1</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>28442_OYMSBJK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5646771650724</id>
+    <published>2020-09-07T14:33:18-04:00</published>
+    <updated>2020-09-07T14:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/clothes-hanger-space-invisible-aluminum-hanger-folding-portable-drying-rack-retractable-space-aluminum-towel-drying-anti-rust-53704"/>
+    <title>Clothes Hanger Space Invisible Aluminum Hanger Folding Portable Drying Rack Retractable Space Aluminum Towel Drying Anti-rust</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/ba9fa0c5f23eb3805fd4b36fe54b42a1.jpg?v=1599507144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.95 - 28.99
+            <a href="https://www.go-e-mall.com/products/clothes-hanger-space-invisible-aluminum-hanger-folding-portable-drying-rack-retractable-space-aluminum-towel-drying-anti-rust-53704">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% brand new, high quality, convenient and flexible, easy to use, light, easy to clean, foldable,Stable, the base of the wall is not afraid to fall, and the wall is tightly attached to the wall.Arc corner design / caring for family safety, never worry about bruises and rowingDurable Space Aluminum - A sturdy wall-mounted drying rack made of high-quality aluminum alloy that is strong and non-corrosive. The hanger triangle also makes it a super sturdy hanger.Collapsible space savings - an excellent space saving hanger! This way you can put on a 10-inch space to hang clothes when you need it, and you can fold it when you don't need it! Dimensions: 40 x 33 x 30CM; stainless steel tube combination fitting length: 40CM.Easy to install, quick assembly instructions are printed on the box. Punch and non-punch, both installations are included, installed the way you like.Suitable for anywhere where you need to hang space. Suitable for bedrooms, bathrooms, living rooms, balconies, eaves, utility rooms, wardrobes, offices, hotels, etc. Hang clothes, coats, skirts, towels, umbrellas, etc.Open in one second, giving you an extra shelf to hang your guest's coat during the party, helping you sort the clothes as the season changes, or you sometimes need extra hanger space.Specifications:Name: Space aluminum invisible hangerMaterial: space aluminumStyle: single / two + 2 * 40cm rod / two + 3 * 40cm rodColor: silver, blackInstallation method: Punch-free installation and perforated installation are included (including strong upgraded glue and screws)Surface treatment: anodizingRod length: no rod / 80/120CMNet weight: 312g/714g/780gScope of application: balcony, bathroom, etc.Expanded size: 40 x 33 x 30CM
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646771650724</id>
+      <title>120 cm</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>28037_LKKIDXK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646771650724</id>
+      <title>120cm</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>28037_MVLFEB4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646771650724</id>
+      <title>80 cm 3</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28037_KZEUAJV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646771650724</id>
+      <title>80 cm</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>28037_IAMBLLT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646771650724</id>
+      <title>single black</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>28037_XTVKRCA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646771650724</id>
+      <title>single white</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>28037_XXT7XQD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5567571722404</id>
+    <published>2020-08-16T15:25:48-04:00</published>
+    <updated>2020-08-16T15:25:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/high-pressure-washer-rotary-surface-cleaner-for-karcher-with-free-gloves-k-series-k2-k3-k4-cleaning-appliances-29018"/>
+    <title>High Pressure Washer Rotary Surface Cleaner For Karcher With Free Gloves K Series K2 K3 K4 Cleaning Appliances</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/1f672fb3c052c6e51f3c13a10f8c4bf7.jpg?v=1597606093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feature:
+Surface cleaner design for cleaning various flat areas including path, patio, driveway and paving
+Rotating jet wash nozzle with brush, offers a more effective cleaning solution than using standard lance
+Comes with extension lance and adapter for cleaning vertical surface like wall and garage door
+Suitable for Karcher K1-K7 Series trigger guns handle with bayonet fitting socket
+Specifications:
+Name: Surface Cleaner
+Material: Engineering Plastic
+Color: Yellow
+Weight: 760g
+ 
+Note: Fit For Karcher K1-K7 Series Metal Wand
+It is only an accessory that needs to be used with Karcher high pressure washer and cleaning gun.
+Package include:
+1 x Extension lance
+1 x Adapter
+1 x Gloves (Washer+gloves)
+Only the above package content, other products are not included
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardening &amp; Outdoors</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5567571722404</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>23529_H8HLBFM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5567559860388</id>
+    <published>2020-08-16T15:18:51-04:00</published>
+    <updated>2020-08-16T15:18:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/folding-mini-football-soccer-ball-goal-post-net-set-pump-kids-sport-indoor-outdoor-games-toys-child-birthday-gift-plastic-58166"/>
+    <title>Folding Mini Football Soccer Ball Goal Post Net Set + Pump Kids Sport Indoor Outdoor Games Toys Child Birthday Gift Plastic</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/4b24ac579dfbfa10a8f2d0347eb74e24.jpg?v=1597609353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy to install, promotes your kids manipulative abilityLightweight and portable, you can use it indoors or outdoorsDurable material and bright color, make it attractive in price and qualityPerfect for young kids for Fun .Great for indoor and outdoor use.Recommended for Kids Ages 3 Years and Upwards.Great for Team Play or Practice scoring goals with friends.The goals require no screwing together, each piece just pops into the next.Specifications:Color: Blue &amp; yellowAge Range: &gt; 3 years oldMaterial: PlasticType: SoftballSize: 447x250x323mmNet weight: 188g
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardening &amp; Outdoors</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5567559860388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>23214_UPVDD7U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5567557828772</id>
+    <published>2020-08-16T15:17:35-04:00</published>
+    <updated>2020-08-16T15:17:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/retractable-artificial-garden-fence-expandable-faux-ivy-privacy-fence-wood-vines-climbing-frame-gardening-plant-home-decorations-56375"/>
+    <title>Retractable Artificial Garden Fence Expandable Faux Ivy Privacy Fence Wood Vines Climbing Frame Gardening Plant Home Decorations</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/76ece09efc21db19bf9bd4f08a98ec3b.jpg?v=1597609461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. High-quality materials: The fence is made of willow wood, and the artificial green leaves and vines are fixed with cable ties, firm and does not fall off. It is very realistic and makes your garden full of green and full of life.2. Simple installation: The fence make your garden look different. it can be stretched freely.3. Widely used: very suitable for wall decoration, fence screen, privacy screen, privacy hedge. Can block most ultraviolet rays, maintain privacy, and allow air to pass freely. It’s great whether used indoors or outdoors.4. Note: All wooden fences are measured manually. The free stretch range is about 2-5cm. Hope you can understand.Specification:Style: leafApplicable places: balconies, courtyards, windows, stairs, walls, home decoration, special restaurants, study decoration, shopping malls, KTV bars, restaurants, etc.Material: silk cloth + solid wood fenceSize(approx.): unstretched, height is 40cm, width is 20cm; when the width is 0.5m, the height is about 38cm; when the width is 1m, the height is about 36cm; when the width is 1.5m, the height is about 33cm; when the width is 2m , The height is about 28cm (manual measurement, error 2-5cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gardening &amp; Outdoors</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5567557828772</id>
+      <title>as shown / 20cm*40cm</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>23169_CWS1SDF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5551643590820</id>
+    <published>2020-08-12T09:10:50-04:00</published>
+    <updated>2020-08-12T09:10:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/new-3d-grenade-shape-ice-cube-mold-ice-cream-maker-party-drinks-silicone-trays-molds-kitchen-bar-tool-a-great-mens-gift-75024"/>
+    <title>New 3D Grenade Shape Ice Cube Mold Ice Cream Maker Party Drinks Silicone Trays Molds Kitchen Bar Tool, A Great Mens Gift</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/b9638ff3f7952063831e87f3c8705d0e.jpg?v=1597238096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5551643590820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5637_47E9IJK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548964282532</id>
+    <published>2020-08-11T19:17:15-04:00</published>
+    <updated>2020-08-11T19:17:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/stainless-steel-kitchen-storage-cutlery-rack-51616"/>
+    <title>Stainless steel kitchen storage cutlery rack</title>
+    <s:type>Kitchen Drawer</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/27d86f413341d74c9ddfee355a8342f9.jpg?v=1597188027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Kitchen Drawer<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Type: Storage Boxes &amp; BinsCapacity: 50LStyle: Traditional ChineseTechnics: GlossyFeature: Eco-Friendly,Shape: SquareProduct: storage holderLoad: 10KG</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548964282532</id>
+      <title>White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>ESCYWGE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548964282532</id>
+      <title>Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>038YALV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548957696164</id>
+    <published>2020-08-11T19:16:26-04:00</published>
+    <updated>2020-08-11T19:16:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/go-swing-topless-can-opener-cutters-bar-tool-safety-easy-manual-can-opener-openers-cutters-home-kitchen-tools-4pcs-set-cutters-43370"/>
+    <title>Go Swing Topless Can Opener  Cutters Bar Tool Safety Easy Manual Can Opener Openers Cutters Home Kitchen Tools 4pcs/set Cutters</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/3197414ede9864a7cda42a35ae7f978c.jpg?v=1597188417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. Function: Our bare can opener is a bar tool designed to remove the top of almost all cans, and our matching cutters can replace bottle opener accessories.
+2. Our corkscrew matching tools can match corresponding correlative can openers, and can also improve your hands-on ability.
+3. It is very easy to replace the can opener accessories, and the common tools at home can be completed.
+4. For you to buy a set of matching tools at the same time you buy the can opener, so that you can prepare for unexpected needs.
+5. Our can opener is very light and portable, which is convenient for you to carry with you. It can be used for camping, gathering, and the matching tools of the can opener can help you solve the trouble of using the can opener in the wild. 
+	
+Specifications:Specification:
+Type: Cutter for can openerPackage Included:A set of cutters for can opener (including 4 cutters)
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548957696164</id>
+      <title>1pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>21749_YS6P88I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548952813732</id>
+    <published>2020-08-11T19:15:45-04:00</published>
+    <updated>2020-08-11T19:15:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kitchen-sink-multifunctional-storage-rack-multi-purpose-washing-bowl-sponge-drain-rack-high-quality-plastic-kitchen-organizer-26575"/>
+    <title>Kitchen Sink Multifunctional Storage Rack Multi Purpose Washing Bowl Sponge Drain Rack High Quality Plastic Kitchen Organizer</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/47d3a957e882cc231e283f1fe120dc50.jpg?v=1597188652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548952813732</id>
+      <title>Gray</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>13125_RZ76ORX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548952813732</id>
+      <title>Blue</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>13125_QYG9KPI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548952813732</id>
+      <title>Beige</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>13125_6TLT8VH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

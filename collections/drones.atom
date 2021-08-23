@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/drones.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2020-07-04T09:22:45-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412401774756</id>
+    <published>2020-07-04T09:22:45-04:00</published>
+    <updated>2020-07-04T09:22:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/sharefunbay-k2-drone-4k-hd-wide-angle-camera-1080p-wifi-fpv-drone-dual-camera-quadcopter-height-keep-drone-camera-20-min-flight-21150"/>
+    <title>SHAREFUNBAY K2 Drone 4k HD Wide Angle Camera 1080P WiFi fpv Drone Dual Camera Quadcopter Height Keep Drone Camera 20 min flight</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/256abd54fe9b60afbce9acb50a8b4f36.jpg?v=1594680855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frequency: 2.4GChannel: 4CHGyroscope: 6 axes areMotor: 8 * 23mm brushed corelessFour-rotor battery: 3.7V 1800mAh lithium battery (included)Transmitter battery: 3 x 1.5 AAA batteries (not included)Flight time: 15-17 minutesCharging time: 120-150 minutesRemote control distance: 80-100mFlight weight: 180g (including battery)Color: as shownCamera optional: 720P / 2.4G WiFi 1080P / 2.4G WiFi 4K HDField of view: 120 ° wide anglePixel: 720P-picture / video: 1280 * 7201080P-picture: 1920 * 1088, video: 1280 * 7201080P-Picture: 1920 * 1088, Video: 1920 * 10804K-picture / video: 3840 * 2160 (support IOS 6 or higher version and Android high-end system)4K-picture / video: 2560 * 1440WiFi distance: 50-70mThe size of the quadrilateral: 22 * ​​22 * ​​7.5cm (the arm is not folded, with prop cover)15 * 11 * 7.5cm (with arms crossed) 15 * 11 * 7.5cmFeature:-With foldable arms, it is compact and easy to carry.-With the function of altitude hold mode, it can provide stable flight.-With wifi function, you can connect APP, APK system to take pictures, record videos, and transmit images in real time through the mobile phone camera.-There are 3 cameras to choose from. With the help of 720P, 1080P or 4K HD wide-angle cameras, you can provide a wide range of high-definition pictures and videos.-Using headless mode, there is no need to adjust the position of the aircraft before the flight.-With one-key return function, you can easily find your way home.-Ballistic flight. Draw a flight path on the screen, the drone will fly autonomously in the specified direction.-Using 3.7V 1800mAh battery, the flight time is up to 17 minutes.-Anti-jamming using 2.4GHz technology.-4 channels, can be up, down, forward, backward, fly on the left, fly on the right and roll 360 °.-6-a-xis gyroscope, flight is more stable and easy to control.-It has 3 levels of flight speed switching, which can make flying more interesting.-The four-rotor fuselage is made of high-strength and engineering-resistant plastic, which is lightweight and durable.-Please note: If you want to buy a 4k lens, due to the large amount of information, the memory card needs to use a high-speed card or brand card.Functions: up / down, forward / backward, left / right, side flight, three-level flight speed, 3D scrolling, LED lights, headless mode, one-key auto return, altitude hold mode, WiFi FPV Trajectory flight, camera / videoPlease know: If you want to buy a 4k lens, due to the large amount of information, the memory card needs to use a high-speed card or a brand card.E520 can use the remote control and applications to take off with one click.APackage Included:1 x RC quadcopter1 remote control1 x 3.7V 1800mAh lithium battery1 x USB charging cable4 protective covers2 spare blades1 x screwdriver1 x User Manual
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Drones</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412401774756</id>
+      <title>Blue / No camera</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>20530_UWKVZUY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412401774756</id>
+      <title>Black / No camera</title>
+      <s:price currency="USD">34.20</s:price>
+      <s:sku>20530_MBT5CTX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5410007613604</id>
+    <published>2020-07-03T13:42:19-04:00</published>
+    <updated>2020-07-03T13:42:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/drone-hd-4k-wifi-1080p-fpv-drone-flight-20-minutes-control-distance-150m-quadcopter-drone-with-camera-44882"/>
+    <title>Drone HD 4k WiFi 1080p fpv drone flight 20 minutes control distance 150m quadcopter drone with camera</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/cfa166e15dcdf0a5eb7061755ddf0f6d.jpg?v=1594413517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.58 - 68.67
+            <a href="https://www.go-e-mall.com/products/drone-hd-4k-wifi-1080p-fpv-drone-flight-20-minutes-control-distance-150m-quadcopter-drone-with-camera-44882">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product size: 42 * 34.5 * 15cm (protection ring)Battery capacity: 3.7V 2200mAhRemote battery: 4 * "AA"Charging time: 150 minutesLife time: 25 minutesRemote control signal: 2.4 GHzRemote control distance: 150 metersIndicator: 4 LED lightsMaximum image resolution: 4096 * 2160Maximum video resolution: 1920 * 1080Memory card: not supportedOrder containsBattery * 1Plane * 1Remote control * 1Charging cable * 1Screwdriver * 1Instruction manual * 1Spare Blade * 2Protective ring * 4Functions: up / down, forward / backward, left / right turn / left / right flight / high hover / 360 degree flip, headless mode / one-button return, speed adjustment / phone operation / voice / Flight operation track / Camera / Emergency stop / Electric adjustment camera
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Drones</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5410007613604</id>
+      <title>4k 7</title>
+      <s:price currency="USD">68.67</s:price>
+      <s:sku>19111_PU2EDMO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5410007613604</id>
+      <title>4k</title>
+      <s:price currency="USD">68.67</s:price>
+      <s:sku>19111_HQAUHNJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5410007613604</id>
+      <title>1080p 5</title>
+      <s:price currency="USD">64.04</s:price>
+      <s:sku>19111_ZCETHKP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5410007613604</id>
+      <title>1080p</title>
+      <s:price currency="USD">64.04</s:price>
+      <s:sku>19111_BIDKNFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5410007613604</id>
+      <title>720p 3</title>
+      <s:price currency="USD">59.92</s:price>
+      <s:sku>19111_S2LYYSF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5410007613604</id>
+      <title>720p</title>
+      <s:price currency="USD">59.92</s:price>
+      <s:sku>19111_TTBEHWD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5410007613604</id>
+      <title>No camera 1</title>
+      <s:price currency="USD">47.58</s:price>
+      <s:sku>19111_RQI3C0J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5410007613604</id>
+      <title>No camera</title>
+      <s:price currency="USD">47.58</s:price>
+      <s:sku>19111_51WEW9K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

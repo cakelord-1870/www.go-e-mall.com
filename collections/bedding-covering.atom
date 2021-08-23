@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/bedding-covering.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2020-10-28T08:43:46-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5818283065508</id>
+    <published>2020-10-28T08:43:46-04:00</published>
+    <updated>2020-10-28T08:43:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/knit-throw-blanket-with-tassels-for-sofa-bed-chair-travel-photography-props-130x160cm-95003"/>
+    <title>Knit Throw Blanket with Tassels for Sofa Bed Chair Travel Photography Props 130x160cm</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/858e1c533c84e593da35ebe7db63de38.jpg?v=1603889200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+ 
+  
+   
+    
+     
+      
+       
+        
+         
+          
+           
+             
+             
+               modname=ckeditor 
+              
+              
+                
+                
+              Features: 
+              Made of 100% high quality acrylic, very soft silky lightweight touch, cozy and warm thin throw, strong anti-sunlight and excellent light fastness 
+              Size: 130x160cm(not inlcuding the tassles) 50"x62", 
+              weight:1 kg 
+              Occasion:snuggling up on the couch, bed as decorative,movie theater, park,farmhouse or christmas gift, when camping for any occasion 
+              Beautiful knitting is what gives our throw blanket fancy touches.The woven pattern brings a decorative element to any sofa, couch, bed, recliner or sitting bench. 
+              EASY CARE - Machine wash colors separately wash in cold water, gentle cycle, tumble dry low, low iron 
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+                
+                
+               
+                
+              
+            
+           
+          
+         
+         
+       
+      
+     
+     
+   
+  
+ 
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Throws</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818283065508</id>
+      <title>Default Title</title>
+      <s:price currency="USD">89.95</s:price>
+      <s:sku>36341_PK7E6VX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5818264879268</id>
+    <published>2020-10-28T08:35:38-04:00</published>
+    <updated>2020-10-28T08:35:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/linen-and-cotton-blended-throw-11028"/>
+    <title>Linen and Cotton Blended Throw</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/00873032d0f61f1a6dbc1c71e6841b54.jpg?v=1603888715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fabric Composition85% Linen and 15% cotton 
+Enzyme Stone Wash after watered, our mixed linen throw are almost the softness in the market
+Customized ServiceWe are factory, we can supply different size and type customization for buyers
+FAQ 
+Q: Frequently Asked Question 
+A: Answer to the question above.
+Q: Frequently Asked Question 
+A: Answer to the question above.
+Q: Frequently Asked Question 
+A: Answer to the question above.
+Multiple Colors Available
+Linen FactoryWe are manufacturer of Linen and Hemp products, inlcudes yarn woven dying and sewing process, we sell the linen and hemp textile at a EXW price.
+20years experience We import Linen raw material from Europe, we have complete industrial chain for linen and hemp prodcuts, </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Throws</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818264879268</id>
+      <title>170x220cm</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>36336_QRXDKSU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818264879268</id>
+      <title>150x220cm</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>36336_XCWYVER</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5818257244324</id>
+    <published>2020-10-28T08:27:42-04:00</published>
+    <updated>2020-10-28T08:27:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/2017-100-cotton-quilted-comforter-for-summer-bedding-set-filling-cotton-velvet-duvet-cover-set-bedskirt-queen-king-size-3-4pcs-19176"/>
+    <title>2017 100%Cotton Quilted comforter for summer Bedding Set filling cotton velvet Duvet cover set Bedskirt Queen King size 3/4Pcs</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/b693e39b460ed9667e63f27fa35e59c8.jpg?v=1603888143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            207.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 
+  
+ 2017 100%Cotton Quilted comforter for summer Bedding Set filling cotton velvet Duvet cover set Bedskirt Queen King size 3/4Pcs 
+    
+ Material: 100%Cotton 
+ filling:Cotton velvet 
+ 1cm=0.3937008(inch) 
+ 200x230cm Size 3pcs (without Bed Skirt ): Suitable for 1.5m bed 
+ 1 piece Comforter:200*230cm 
+ 2 pieces Pillowcases:48*74cm 
+    
+ 220x240cm Size 3pcs (without Bed Skirt ): Suitable for 1.8m bed 
+ 1 piece Comforter:220*240cm 
+ 2 pieces Pillowcases:48*74cm 
+    
+ 230x250cm Size 3pcs (without Bed Skirt ): Suitable for 2.0m bed 
+ 1 piece Comforter:230*250cm 
+ 2 pieces Pillowcases:48*74cm 
+    
+ Queen Size A (with Bed Skirt ): Suitable for 1.5m bed 
+ Queen Size A 4Pcs 
+ 1 piece Comforter:200*230cm 
+ 1 piece Bed Skirt:150*200cm+45cm 
+ 2 pieces Pillowcases:48*74cm 
+    
+ Queen Size B (with Bed Skirt): Suitable for 1.8m bed 
+ Queen Size B 4Pcs 
+ 1 piece Comforter:220*240cm 
+ 1 piece Bed Skirt:180*200cm+45cm 
+ 2 pieces Pillowcases:48*74cm 
+    
+ King Size  (with Bed Skirt): Suitable for 2.0m bed 
+ King Size 4Pcs 
+ 1 piece Comforter:230*250cm 
+ 1 piece Bed Skirt:200*220cm+45cm 
+ 2 pieces Pillowcases:48*74cm 
+    
+    
+ Important Remarks: 
+    
+ 
+ 
+ Plz choose the size accroding to your bed and comforter size. 
+ 
+ 
+ These sets do not include any comforter/quilt/cushion/pillow/blanket. 
+ 
+ There will be 1-5cm size difference, plz make sure you do not mind before you order. 
+ 
+ The colors may have different as the difference display,plz kindly understand.thank you very much. 
+ 
+    
+  
+ color1 
+  
+    
+ 
+ 100%cotton  fabric , slender fiber toughness, with outstanding softness,  healthy breathable, the fabric can not ball, and not fade. 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ Filling Cotton velvet,full fluffy covered with no pressure constant temperature to keep warm 
+ 
+ 
+  
+ 
+ 
+ More used be, can be used as a Bed Spread in winter,more warm. 
+ 
+    
+ 
+ 
+  
+ 
+ 
+  
+  Environmentally friendly printing and dyeing process, without any harmful  
+  chemical composition, color beautiful natural. 
+  
+ 
+    
+ 
+ 
+  
+   
+   
+  
+  
+  Exquisite lace ,fine  workmanship,Sweet and elegance,to create a romantic atmosphere. 
+  
+ 
+     
+  
+ 
+    
+ 
+ 
+  
+ 
+ 
+ 100% cotton bed skirt 
+ ,fine  
+ workmanship, 
+ drape better. 
+ 
+ 
+  
+  
+ 
+    
+ 
+ 
+ Exquisite craft  
+ Pillowcase 
+ 
+ 
+ color2 
+ 
+    
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ color3 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ color4 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ color5 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ color6 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+    
+ 
+ 
+ FREE GIFT 
+    
+ 
+  
+    
+  
+  
+   Good news  
+      
+  
+  
+  Now buy the item, not only enjoy discounts but also you can get a beautiful gift, you may tell me which colour do you like.  
+  
+ 
+     
+  
+  
+  ​ 
+   
+  
+  
+     
+  
+  
+     
+     
+  
+ 
+ 
+  
+ 
+ 1) We accept Alipay, West Union, TT. All major credit cards are accepted through secure payment processor ESCROW. 
+ 2) Payment must be made within 3 days of order. 
+ 3) If you can't checkout immediately after auction close, please wait for a few minutes and retry Payments must be completed within 3 days.    
+  
+ 1. WORLDWIDE SHIPPING. (Except some countries and APO/FPO) 2. Orders processed timely after the payment verification. 3. We only ship to confirmed order addresses. Your order address MUST MATCH your Shipping address. 4. The images shown are not the actual item and are for your reference only. 5. SERVICE TRANSIT TIME is provided by the carrier and excludes weekends and holidays. Transit times may vary, particularly during the holiday season. 6. If you have not received your shipment within 30 days from payment, please contact us. We will track the shipment and get back to you as soon as possible with a reply. Our goal is customer satisfaction! 7. Due to stock status and time differences, we will choose to ship your item from our first available warehouse for fast delivery. 
+   
+ 1. You have 7 days to contact us and 30 days to return it from the date it was received. If this item is in your possession more than 7 days, it is considered used and WE WILL NOT ISSUE YOU A REFUND OR REPLACEMENT. There are NO EXCEPTIONS! Shipping cost is bear by both seller and buyer in half. 2. All returned items MUST BE in the original packaging and you MUST PROVIDE us with the shipping tracking number, specific reason for the return, and your po#. 3. We will refund YOUR FULL WINNING BID AMOUNT, upon receipt of the item in its original condition and packaging with all components and accessories included, AFTER BOTH Buyer and Seller cancel the transaction from aliexpress. OR, you may choose to have a replacement. 4.  We will bear all the shipping cost if the product(s) is (are) not as advertised. 
+  
+ 1. 12 months Manufacturer`s limited Warranty for defective items (excluding items damaged and/or misused after receipt). Accessories come with a 3-month warranty. 2. Defective items MUST BE reported and returned within the warranty period (and in the original packaging, if possible). You must tell us what the defect is and give us your order number. WE DO NOT REPAIR OR REPLACE ITEMS WITH AN EXPIRED WARRANTY. You agree to all of the above-listed policies upon ordering on aliexpress! 
+  
+ We maintain high standards of excellence and strive for 100% customer satisfaction! Feedback is very important We request that you contact us immediately BEFORE you give us neutral or negative feedback, so that we can satisfactorily address your concerns. It is impossible to address issues if we do not know about them!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedspreads</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF6 / King size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_ERVP6NI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF6 / Queen B size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_CBLKNDJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF6 / Queen A size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_QEHVCHY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF6 / 230x250cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_AOALKMG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF6 / 220x240cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_PFGW9O8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF6 / 200x230cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_7AHASCC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF5 / King size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_ZJHRSX9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF5 / Queen B size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_BBKMQTI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF5 / Queen A size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_10JNEVF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF5 / 230x250cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_4JB6JCG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF5 / 220x240cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_F455YV9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF5 / 200x230cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_1VGPUMI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF4 / King size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_C7AG5PI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF4 / Queen B size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_B9YDGCP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF4 / Queen A size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_C0KI0O9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF4 / 230x250cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_GGGGGLW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF4 / 220x240cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_OKZONVW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF4 / 200x230cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_WCC0XKA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF3 / King size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_PVXW5HF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF3 / Queen B size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_SOXYCMJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF3 / Queen A size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_XRBNTM3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF3 / 230x250cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_KMRHEKP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF3 / 220x240cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_KZCDBHK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF3 / 200x230cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_EUOGKSD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF2 / King size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_MZHRDDK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF2 / Queen B size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_0RAL0MY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF2 / Queen A size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_A2P4OKV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF2 / 230x250cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_LAZLWZW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF2 / 220x240cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_IIZHMBD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF2 / 200x230cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_REVCVC8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF1 / King size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_6J1JY5Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF1 / Queen B size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_2K8DLBN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF1 / Queen A size 4pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_P4XZPC4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF1 / 230x250cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_IOOOIJC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF1 / 220x240cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_HEW7I6M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818257244324</id>
+      <title>EHJF1 / 200x230cm 3pcs</title>
+      <s:price currency="USD">207.99</s:price>
+      <s:sku>36331_7IN2H4R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5818240925860</id>
+    <published>2020-10-28T08:21:05-04:00</published>
+    <updated>2020-10-28T08:21:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/embroidered-summer-comforter-bedding-sets-100-cotton-quilted-quilt-with-two-pillowcase-queen-size-3pieces-bedding-set-67938"/>
+    <title>Embroidered Summer Comforter Bedding Sets 100% Cotton Quilted Quilt With Two Pillowcase Queen Size 3pieces Bedding Set</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/7978009ff21e2f907d706054007676a6.jpg?v=1603887876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            498.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 
+ 
+ 
+ Korean Style Embroidered Summer Comforter Sets 100% Cotton Quilted Quilt With Two Pillowcase Queen Size 3pieces Bedding Set  
+ 
+ 1 piece Bedspread: 243*223cm(96*88inches) 
+ 
+ 
+ 2 pieces Pillowcases:48*68cm(19*27inches) 
+ 
+     Material: 100%Cotton high-density fabric, super cozy and soft!     Romantic and chic design,simple but elegant, great match with any home decoration!     You get what you paid for! Luxurious and elegant, durable quality!     Quilt set for spring and summer, bedspread and flat sheet for winter, sofa cover for all year round, keeping warm and clean at the same time 
+    
+    
+    
+ Details Show 
+  
+  
+  
+ </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedspreads</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818240925860</id>
+      <title>Design same as pic / 243X223cm (96x88inch</title>
+      <s:price currency="USD">498.42</s:price>
+      <s:sku>36328_WFFFAGL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5816177852580</id>
+    <published>2020-10-27T12:21:13-04:00</published>
+    <updated>2020-10-27T12:21:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/premium-egyptian-cotton-silky-soft-duvet-cover-set-39129"/>
+    <title>Premium Egyptian Cotton Silky Soft Duvet Cover Set</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/fad99ea3807b0385df176cce9d0d688e.jpg?v=1603819169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            110.00 - 309.32
+            <a href="https://www.go-e-mall.com/products/premium-egyptian-cotton-silky-soft-duvet-cover-set-39129">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material: Egyptian Cotton fabricSheet style: Flat bed sheet or Fitted bed sheetDuvet cover set: Duvet cover + sheet+ pillowcasesFlat sheet styleFull size 180X210cm 4pcs1 piece Duvet Cover: 180*210cm(71*83inches)1 piece Bedsheet:245*250(96*98inches)2 pieces Pillowcases:48*74cm(19*30inches)Normal Queen size 200X230cm 4pcs1 piece Duvet Cover: 200*230cm(79*91inches)1 piece Bedsheet:245*250(96*98inches)2 pieces Pillowcases:48*74cm(19*30inches) Normal King size 220X240cm 4pcs1 piece Duvet Cover: 220*240cm(87*94inches)1 piece Bedsheet:245*270(96*106inches)2 pieces Pillowcases:48*74cm(19*30inches) US Queen size 230X230cm 4pcs1 piece Duvet Cover: 230*230cm(91*91inches)1 piece Bedsheet:245*270(96*106inches)2 pieces Pillowcases:48*74cm(19*30inches) US King size 230X264cm 4pcs1 piece Duvet Cover: 230*264cm(91*104inches)1 piece Bedsheet:270*270(106*106inches)2 pieces Pillowcases:48*74cm(19*30inches) Family set 5pcs2 piece Duvet Cover: 160*210cm(63*83inches)1 piece Bedsheet:245*250(96*98inches)2 pieces Pillowcases:48*74cm(19*30inches) Full size 180X210cm 6pcs1 piece Duvet Cover: 180*210cm(71*83inches)1 piece Bedsheet:245*250(96*98inches)4 pieces Pillowcases:48*74cm(19*30inches) Normal Queen size 200X230cm 6pcs1 piece Duvet Cover: 200*230cm(79*91inches)1 piece Bedsheet:245*250(96*98inches)4 pieces Pillowcases:48*74cm(19*30inches) Normal King size 220X240cm 6pcs1 piece Duvet Cover: 220*240cm(87*94inches)1 piece Bedsheet:245*270(96*106inches)4 pieces Pillowcases:48*74cm(19*30inches) US Queen size 230X230cm 6pcs1 piece Duvet Cover: 230*230cm(91*91inches)1 piece Bedsheet:245*270(96*106inches)4 pieces Pillowcases:48*74cm(19*30inches) US Queen size 230X230cm 7pcs1 piece Duvet Cover: 230*230cm(91*91inches)1 piece Bedsheet:245*270(96*106inches)1 piece fitted sheet size 180X200cm 4 pieces Pillowcases:48*74cm(19*30inches)  US King size 230X264cm 6pcs1 piece Duvet Cover: 230*264cm(91*104inches)1 piece Bedsheet:270*270(106*106inches)4 pieces Pillowcases:48*74cm(19*30inches) US King size 230X264cm 7pcs1 piece Duvet Cover: 230*264cm(91*104inches)1 piece Bedsheet:270*270(106*106inches)1 piece fitted sheet size 200X200cm 4 pieces Pillowcases:48*74cm(19*30inches) Family set 7pcs2 piece Duvet Cover: 160*210cm(63*83inches)1 piece Bedsheet:245*250(96*98inches)4 pieces Pillowcases:48*74cm(19*30inches) 180X210cm set &amp; fitted sheet size 150X200cm 200X230cm set&amp;fitted sheet size 160X200cm 220X240cm set fitted sheet size 180X200cm 230X230cm set fitted sheet size 180X200cm 230X264cm fitted sheet size 200X200cm Family size set fitted sheet size 180X200cm  1 cm = 0.3937008 inches Fitted sheet with elastic rubberFlat sheet without elastic rubber
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bedding</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 8 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">295.53</s:price>
+      <s:sku>30571_THDV1JF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 8 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>30571_URHEQ13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 7 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">295.53</s:price>
+      <s:sku>30571_QGSEWQK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 7 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>30571_LO9IVYJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 9 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">295.53</s:price>
+      <s:sku>30571_LCZZMSF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 9 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">279.37</s:price>
+      <s:sku>30571_IQGRRS4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 6 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">309.32</s:price>
+      <s:sku>30571_BBHFWXP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 6 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">279.37</s:price>
+      <s:sku>30571_FQJM0V7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 5 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">309.32</s:price>
+      <s:sku>30571_ABCWAN4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 5 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">279.37</s:price>
+      <s:sku>30571_7PMAGHG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 4 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">309.32</s:price>
+      <s:sku>30571_7CSWWIA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 4 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">279.37</s:price>
+      <s:sku>30571_LY4KIGX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 3 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">309.32</s:price>
+      <s:sku>30571_GW5YBVG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 3 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">279.37</s:price>
+      <s:sku>30571_UXWHQEL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 2 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">309.32</s:price>
+      <s:sku>30571_1TGZYEU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 2 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">279.37</s:price>
+      <s:sku>30571_QWK7LLB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 1 / 220X240cm 4pcs set</title>
+      <s:price currency="USD">309.32</s:price>
+      <s:sku>30571_8RGJQ9X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5816177852580</id>
+      <title>Color 1 / 200X230cm 4pcs set</title>
+      <s:price currency="USD">279.37</s:price>
+      <s:sku>30571_LUCWBDD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

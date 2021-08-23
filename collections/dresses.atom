@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/dresses.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2020-09-06T19:40:10-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5643765317796</id>
+    <published>2020-09-06T19:40:10-04:00</published>
+    <updated>2020-09-06T19:40:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/autumn-women-plus-size-4xl-dress-full-sleeve-sexy-v-neck-pure-color-dress-elegant-party-vestido-robe-loose-fitness-dresses-01363"/>
+    <title>Autumn Women Plus Size 4XL Dress Full Sleeve Sexy V neck Pure Color Dress Elegant Party Vestido Robe Loose Fitness dresses</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/124d717ac21d9f0e520d2bd290df7cc9.jpg?v=1599435971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643765317796</id>
+      <title>Pink / 170</title>
+      <s:price currency="USD">17.22</s:price>
+      <s:sku>28107_LQBK2XJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643765317796</id>
+      <title>Green / 170</title>
+      <s:price currency="USD">17.22</s:price>
+      <s:sku>28107_8RRA9U0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643765317796</id>
+      <title>Black / 170</title>
+      <s:price currency="USD">17.22</s:price>
+      <s:sku>28107_WNA3TJM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5643741036708</id>
+    <published>2020-09-06T19:33:41-04:00</published>
+    <updated>2020-09-06T19:33:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/women-casual-dress-elegant-print-short-sleeve-sashes-a-line-party-dresses-summer-2020-fashion-boho-beach-holiday-v-neck-vestidos-26635"/>
+    <title>Women Casual Dress Elegant Print Short Sleeve Sashes A line Party Dresses Summer 2020 Fashion Boho Beach Holiday V-neck Vestidos</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/b2a52349e77cae5d3d7046f71ae132d2.png?v=1599437414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Yellow / XL</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_W6DJF2H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Yellow / L</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_OHG9RGO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Yellow / M</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_AJDPCVT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Yellow / S</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_S7HKSQP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_ZF0EWFE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Red / L</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_DRVSSTV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Red / M</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_DJHUCS7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Red / S</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_X4SHFPR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Orange / XL</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_VMSTB4G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Orange / L</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_CSQQRBI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Orange / M</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_XDBPYKA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Orange / S</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_DTRPMNW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Khaki / XL</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_E2FT4CS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Khaki / L</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_KGQ2DQX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Khaki / M</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_LQBT2TS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Khaki / S</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_0EBLB16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Beige / XL</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_NZA2M5L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Beige / L</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_WKTUIVD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Beige / M</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_ULWVHDE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643741036708</id>
+      <title>Beige / S</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>24720_0UUVUK8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5643736481956</id>
+    <published>2020-09-06T19:32:39-04:00</published>
+    <updated>2020-09-06T19:32:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/s-flavor-stand-collar-simple-plaid-dress-2020-autumn-winter-elegant-women-3-4-sleeve-knee-length-dress-casual-a-line-dress-91612"/>
+    <title>S.FLAVOR Stand Collar Simple Plaid Dress 2020 Autumn Winter Elegant Women 3/4 Sleeve Knee Length Dress Casual A Line Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/f1a1fb20eeafdf4a1c31686bd5a2c449.png?v=1599438012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643736481956</id>
+      <title>blue / XL</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>24618_JMULFTE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643736481956</id>
+      <title>blue / L</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>24618_15XTXIF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643736481956</id>
+      <title>blue / M</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>24618_YSQKVOZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643736481956</id>
+      <title>blue / S</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>24618_MR8DTFS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643736481956</id>
+      <title>black / XL</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>24618_H8LYGBH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643736481956</id>
+      <title>black / L</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>24618_IXL410H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643736481956</id>
+      <title>black / M</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>24618_HYNQI5F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5643736481956</id>
+      <title>black / S</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>24618_Y4M4ICQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5642609721508</id>
+    <published>2020-09-06T10:37:48-04:00</published>
+    <updated>2020-09-06T10:37:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/darlingaga-casual-solid-ribbed-summer-dress-female-drawstring-ruched-tank-dresses-mini-sundress-sleeveless-2020-new-dresses-slim-62810"/>
+    <title>Darlingaga Casual Solid Ribbed Summer Dress Female Drawstring Ruched Tank Dresses Mini Sundress Sleeveless 2020 New Dresses Slim</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/cf5ef2f185a6ca567b131a0bc18eb732.jpg?v=1599426854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Green / L</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_PBR1AEN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Green / M</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_YLZ8NJZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Green / S</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_VW9PADM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_HS4LTUM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_HEPLI6W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_ADGZHCN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Black / L</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_1GPMZVU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Black / M</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_6R61U96</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Black / S</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_FOMT86R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Apricot / L</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_ROPE17N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Apricot / M</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_5CNSBUM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642609721508</id>
+      <title>Apricot / S</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22204_2M99XHI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5642579050660</id>
+    <published>2020-09-06T10:20:11-04:00</published>
+    <updated>2020-09-06T10:20:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/darlingaga-colorful-butterfly-print-summer-dress-mesh-patchwork-harajuku-festival-woman-dress-mini-sundress-slim-clothes-dresses-01056"/>
+    <title>Darlingaga Colorful Butterfly Print Summer Dress Mesh Patchwork Harajuku Festival Woman Dress Mini Sundress Slim Clothes Dresses</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/cptcqToqN2wbxS0.jpg?v=1599426937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642579050660</id>
+      <title>Mesh Dress / L</title>
+      <s:price currency="USD">19.79</s:price>
+      <s:sku>22044_2YKX7GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642579050660</id>
+      <title>Mesh Dress / M</title>
+      <s:price currency="USD">19.79</s:price>
+      <s:sku>22044_EEXGZFK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642579050660</id>
+      <title>Mesh Dress / S</title>
+      <s:price currency="USD">19.79</s:price>
+      <s:sku>22044_NRDCADE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5642576527524</id>
+    <published>2020-09-06T10:18:17-04:00</published>
+    <updated>2020-09-06T10:18:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/darlingaga-fashion-tie-dye-strap-bodycon-sexy-dress-backless-drawstring-summer-dress-female-clothes-ruched-sundress-mini-dresses-39606"/>
+    <title>Darlingaga Fashion Tie Dye Strap Bodycon Sexy Dress Backless Drawstring Summer Dress Female Clothes Ruched Sundress Mini Dresses</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d0fe3a4712f347bc96c82dbe994c9612.jpg?v=1599427019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642576527524</id>
+      <title>Tie Dye / L</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22041_UGDW8RW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642576527524</id>
+      <title>Tie Dye / M</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22041_FJCIQTH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5642576527524</id>
+      <title>Tie Dye / S</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>22041_HT69PPN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425463001252</id>
+    <published>2020-07-08T11:17:18-04:00</published>
+    <updated>2020-07-08T11:17:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/wendy-dress-54502"/>
+    <title>Wendy Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/7e2536b5b4d125990a4586c6935b02c3.jpg?v=1594682225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425463001252</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.25</s:price>
+      <s:sku>6068_UR3OXFX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425461985444</id>
+    <published>2020-07-08T11:16:53-04:00</published>
+    <updated>2020-07-08T11:16:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/paulia-strapless-mini-dress-84457"/>
+    <title>Paulia Strapless Mini Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d806d2407eeae02cf2168f2b152dbca7.jpg?v=1594262662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425461985444</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>7081_L28486R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425460674724</id>
+    <published>2020-07-08T11:16:28-04:00</published>
+    <updated>2020-07-08T11:16:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/fleurs-du-mal-dress-76928"/>
+    <title>Fleurs du Mal Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/cc1ef4da549b44198d99003218622902.jpg?v=1596393792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425460674724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.62</s:price>
+      <s:sku>7046_UXWZ4TX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425458479268</id>
+    <published>2020-07-08T11:15:41-04:00</published>
+    <updated>2020-07-08T11:15:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/frill-sleeve-button-front-mini-dress-53156"/>
+    <title>Frill Sleeve Button Front Mini Dress/</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/78a72d59cdf8f33f93ad6be5cd579a21.jpg?v=1594263426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>Green / XL</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_I03P1EF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>Green / L</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_6GAKTR7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>Green / M</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_UZK2N1Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>Green / S</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_KDMY2LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_OW6HBG8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>Black / L</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_C5CZLXB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>Black / M</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_CZLCJCO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>Black / S</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_IAU9Q88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>White / XL</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_WV551HH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>White / L</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_0DIX41F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>White / M</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_VNA9JPM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425458479268</id>
+      <title>White / S</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6759_WA6VQSA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425452908708</id>
+    <published>2020-07-08T11:14:00-04:00</published>
+    <updated>2020-07-08T11:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/veronica-leopard-mini-dress-11001"/>
+    <title>Veronica Leopard Mini Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/3b6a6815312c75d9633b5d2a2ef55134.jpg?v=1594263842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425452908708</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.65</s:price>
+      <s:sku>6958_VSMTCYU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425451827364</id>
+    <published>2020-07-08T11:13:34-04:00</published>
+    <updated>2020-07-08T11:13:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/karli-glitter-mini-dress-79812"/>
+    <title>Karli Glitter Mini Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/8e50c9a78ab3783fe13dbf8798001308.jpg?v=1594263969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425451827364</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.65</s:price>
+      <s:sku>7204_2H4C1DB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425449107620</id>
+    <published>2020-07-08T11:12:39-04:00</published>
+    <updated>2020-07-08T11:12:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/leiko-plaid-mini-dress-53203"/>
+    <title>Leiko Plaid Mini Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/5c168c3412159f64b74c640109d3b157.jpg?v=1594272010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425449107620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.03</s:price>
+      <s:sku>7303_W0H4P69</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425445732516</id>
+    <published>2020-07-08T11:11:32-04:00</published>
+    <updated>2020-07-08T11:11:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/riverdale-pocketed-tencel-dress-31081"/>
+    <title>Riverdale Pocketed Tencel Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/7e2b44520607411d0d301a3548eca06a.jpg?v=1594272369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425445732516</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.85</s:price>
+      <s:sku>6415_V0L0B12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425443209380</id>
+    <published>2020-07-08T11:10:39-04:00</published>
+    <updated>2020-07-08T11:10:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/summer-boho-dress-05686"/>
+    <title>Summer Boho Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/771fca2468ad43df2061ff105877c987.jpg?v=1594681401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425443209380</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.10</s:price>
+      <s:sku>4495_PAZL5BU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425262854308</id>
+    <published>2020-07-08T09:48:14-04:00</published>
+    <updated>2020-07-08T09:48:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/abito-midi-slim-verde-smeraldo-12718"/>
+    <title>Abito Midi Slim Verde Smeraldo</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/7e19df5fc7f6fda333ce70bbabf2e3f3.jpg?v=1594287608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425262854308</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.59</s:price>
+      <s:sku>6416_SD28I0X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425253941412</id>
+    <published>2020-07-08T09:45:56-04:00</published>
+    <updated>2020-07-08T09:45:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/high-waist-chiffon-summer-dress-14592"/>
+    <title>High Waist Chiffon Summer Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/a3b21c720510eb2079b5565002a2fe40.jpg?v=1594216115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425253941412</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>5805_ISGRI2A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425247092900</id>
+    <published>2020-07-08T09:44:37-04:00</published>
+    <updated>2020-07-08T09:44:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/beach-style-mini-dress-52483"/>
+    <title>Beach Style Mini Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/4ee7040057ac31cbf09d66f98e94a803.jpg?v=1594288095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Features:1 ! It is made of high quality materials, the fabric is very comfortable and durable for daily use2. Very cool to wear, new look, new you3 Special design makes you more sexy and attractive4. As is the new love, the declaration of love.Product Information:Gender: womenMaterial: Polyester MaterialDecoration: NoneSleeve Length:Length:Necklace: round neckSTYLE: Casual, fashionableOccasion: C Daily AsualHand wash and machine wash is finePackage includes: 1 PC dress </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425247092900</id>
+      <title>XXL</title>
+      <s:price currency="USD">11.05</s:price>
+      <s:sku>Q99XFIT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425247092900</id>
+      <title>XL</title>
+      <s:price currency="USD">11.05</s:price>
+      <s:sku>UUY8MHA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425247092900</id>
+      <title>L</title>
+      <s:price currency="USD">11.05</s:price>
+      <s:sku>3IECZC8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425247092900</id>
+      <title>M</title>
+      <s:price currency="USD">11.05</s:price>
+      <s:sku>CBADXDL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425247092900</id>
+      <title>S</title>
+      <s:price currency="USD">11.05</s:price>
+      <s:sku>C38XILP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425243717796</id>
+    <published>2020-07-08T09:43:33-04:00</published>
+    <updated>2020-07-08T09:43:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kimono-flower-dress-34070"/>
+    <title>Kimono Flower Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d49a56cc5498ed98ad37c68e8d3d90ca.jpg?v=1594288455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425243717796</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>6233_N0BPJYS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425240211620</id>
+    <published>2020-07-08T09:42:54-04:00</published>
+    <updated>2020-07-08T09:42:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/short-v-neck-summer-dresses-37399"/>
+    <title>Short V-neck Summer Dresses</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/1ba585475a5b5dfab869e3c64e2a3e40.jpg?v=1594680901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material :  CottonDecoration :  ButtonWaist :  EmpireSilhouette :  Line ASleeve Length (cm) :  ShortPattern Type :  SolidSleeve Style :  RegularSeason :  SummerStyle :  Urban clothingGender :  WomenNeckline :  V- neckDress Length :  Mini, above the knee</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425240211620</id>
+      <title>White / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>6SU06J4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425240211620</id>
+      <title>White / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>PXSFJLM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425240211620</id>
+      <title>White / S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>1E88FLW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425240211620</id>
+      <title>Gray Green / L</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>AUJ54NU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425240211620</id>
+      <title>Gray Green / M</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>BWLO5YL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425240211620</id>
+      <title>Gray Green / S</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>HNYR9QX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425225629860</id>
+    <published>2020-07-08T09:39:54-04:00</published>
+    <updated>2020-07-08T09:39:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/womens-long-short-sleeve-bohemian-printed-maxi-long-dress-97076"/>
+    <title>Womens Long Short Sleeve Bohemian Printed Maxi Long Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/c998443fc7a9d87ddaf917104297688f.jpg?v=1594289183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>null</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Pink / 3XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_LEFYR1Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Pink / 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_N8Y8XCP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Pink / XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_VNBD70V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_W12HTEU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_43ZCHPX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_A557MPV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Green / 3XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_PS5PNUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Green / 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_22SJVMU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Green / XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_0F6IN72</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Green / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_SXVQC4J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Green / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_JO63RJI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Green / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_PBGZ2SA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Blue / 3XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_MIRKLW0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Blue / 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_F4JBYMO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_QAF6HT9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_608YU6S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_ZAH6ARJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_E6MPFFU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_9ZDLMH7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_EH8Q8QB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>White / XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_OLDSTSQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>White / L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_F308J4U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>White / M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_YL1EHY3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425225629860</id>
+      <title>White / S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>5756_LS3T869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425220059300</id>
+    <published>2020-07-08T09:38:27-04:00</published>
+    <updated>2020-07-08T09:38:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/sexy-backless-v-neck-beach-dress-44821"/>
+    <title>Sexy Backless V-neck Beach Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/65662c5b5b9378b5ccd3b637d40ad790.jpg?v=1594289894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Item Type: DressesMaterial: chiffon + polyesterNeck: Round NeckSpring summer seasonColor: MulticolorDress Length: MiniPattern: tassels, printStyle: Active, Casual, Leisure, ModernSleeve Length: sleevelessSize: SML XLS: United Kingdom 4 EU32 US0M: United Kingdom 6 EU 34 2L: United Kingdom 8 EU 36 4XL: United Kingdom 10 OF 10 EU38 US6  Package Content: 1 Women's Dress Notes:1 The actual color of the item may differ slightly from the images shown on the website due to many factors such as the brightness of your monitor and the brightness of the light.2. Allow a slight deviation for the measurement data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425220059300</id>
+      <title>XL</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>W9DH9MK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425220059300</id>
+      <title>L</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>JEY5228</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425220059300</id>
+      <title>M</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>625Y858</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425220059300</id>
+      <title>S</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>AVO0TH6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425217372324</id>
+    <published>2020-07-08T09:37:35-04:00</published>
+    <updated>2020-07-08T09:37:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/sexy-summer-long-sleeveless-dress-25435"/>
+    <title>Sexy Summer Long Sleeveless Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/05b2de5d002c938f60adf7d7260dcf0b.jpg?v=1594215545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material :  PolyesterMaterial :  ChiffonSeason :  SummerStyle :  Sexy &amp; clubDecoration :  NoneSilhouette :  Fitted and flaredSleeve Length (cm) :  SleevelessPattern Type :  StripedSleeve Style :  Air ShoulderWaist :  EmpireNeckline :  Without strapDress Length:  Floor LengthGender :  Women</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425217372324</id>
+      <title>XXL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>OWOXQW9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425217372324</id>
+      <title>XL</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>NXYZOBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425217372324</id>
+      <title>L</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>87QZC9F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425217372324</id>
+      <title>M</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>3FB1RBS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425217372324</id>
+      <title>S</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>252UR63</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425210687652</id>
+    <published>2020-07-08T09:35:22-04:00</published>
+    <updated>2020-07-08T09:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/sexy-chiffon-v-neck-dress-98975"/>
+    <title>Sexy  Chiffon V Neck Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d7b829558147ff4f4ec557b6c65cef9e.jpg?v=1594290259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gender :  WomenMaterial :  PolyesterMaterial :  LanonStyle :  CasualSilhouette :  Line APattern Type :  SolidSleeve Length (cm) :  SleevelessDecoration :  NoneDress Length :  Mini, above the kneeSleeve Style :  RegularWaist :  NaturalNeckline :  V- neckSeason :  SummerModel Number :  387</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Sky Blue / 2XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7O0F7HP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Sky Blue / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>ARSM8QG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Sky Blue / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>QVJ71QN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Sky Blue / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>0Z8IQ0E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Sky Blue / S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>CQXKKX4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>IFIOVED</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>White / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>CK4F60I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>White / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7J4ZH8W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>White / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>0DULZCV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>White / S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>JJKR8FB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Red / 2XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>5J4SI9E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>C6USQB2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Red / L</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>BYYOYEC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Red / M</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>7FMG95U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425210687652</id>
+      <title>Red / S</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>4DF1W13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425209442468</id>
+    <published>2020-07-08T09:35:00-04:00</published>
+    <updated>2020-07-08T09:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/white-lace-midi-dress-27898"/>
+    <title>White Lace Midi Dress</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/cccc819cae4a9132d045deadec5c14bd.png?v=1594290616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.99 - 25.99
+            <a href="https://www.go-e-mall.com/products/white-lace-midi-dress-27898">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material :  PolyesterMaterial :  SpandexDecoration :  LaceWaist :  EmpireSilhouette :  PencilSleeve Length (cm) :  SleevelessPattern Type :  SolidSleeve Style :  Air ShoulderSeason :  SummerStyle :  CasualGender :  WomenNeckline :  Round NeckDress Length :  At knee heightDownload Measurement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dresses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425209442468</id>
+      <title>XL</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5706_3MEL7T9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425209442468</id>
+      <title>Large</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>5706_S8DK4AM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425209442468</id>
+      <title>Medium</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5706_6LQ1G33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425209442468</id>
+      <title>Small</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>5706_HC6LLB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/kitchen.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2021-04-28T09:05:10-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/6675943456932</id>
+    <published>2021-04-28T09:05:10-04:00</published>
+    <updated>2021-04-28T09:05:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/char-broil-charcoal-tabletop-grill-37241"/>
+    <title>Char-Broil Charcoal Tabletop Grill</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e3b99657e24c229a2124a60f55606220.jpg?v=1619615213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the high quality only Char-Broil can deliver in a tabletop grill. </p><p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/6675943456932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>272074_MOX2513106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5818491076772</id>
+    <published>2021-03-18T09:20:06-04:00</published>
+    <updated>2021-03-18T09:20:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/wooden-embossing-rolling-pin-05189"/>
+    <title>Wooden Embossing Rolling Pin</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/657abc450ee7b8befc92b3246ab142bb.jpg?v=1603896381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99 - 28.39
+            <a href="https://www.go-e-mall.com/products/wooden-embossing-rolling-pin-05189">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Certification: FDACertification: EECCertification: CE / EUCertification: CIQCertification: LFGBFeature: Eco-FriendlyDiameter (cm): 35cmType: Rolling Pins &amp; Pastry BoardsMaterial: WoodProduct Type: Rolling Pins
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>M</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>35368_5JCX2YE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>K</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_FQACP6C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>D</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_V7STKYJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>C</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>35368_V3SNCNG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>B</title>
+      <s:price currency="USD">28.39</s:price>
+      <s:sku>35368_UIZNQTW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5818491076772</id>
+      <title>A</title>
+      <s:price currency="USD">28.39</s:price>
+      <s:sku>35368_HSADPEV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5802791534756</id>
+    <published>2020-10-22T09:17:07-04:00</published>
+    <updated>2020-10-22T09:17:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/paper-towel-tissue-storage-rack-kitchen-film-cling-4-in-1-multifunctional-paper-dispenser-wall-mounted-paper-towl-roll-holder-34494"/>
+    <title>Paper Towel Tissue Storage Rack Kitchen Film Cling 4 In 1 Multifunctional Paper Dispenser Wall Mounted Paper Towl Roll Holder</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/9f50530cc4ccdf5fb535cc3a75d1d6f5.jpg?v=1603373803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Function: kitchen storageMaterial: ABSSize: 390 * 100 * 240mmWeight: 647gColor: white, khaki, gray bluePackaging: kraft paper box packagingGross weight: 7.8 / 9.8KG1. Function: this product can be stored cling film, tin foil, paper towels and more.2. Built-in 2 kinds of cutting knife: Triangle knife and circular rolling knife3. Installation: comes with 4 expansion screws and 4 plastic, according to personal preference, paste or nail.4. Space saver: it can be mounted on the wall,window,refrigerator,cabinet in kitchen room.5. Easy to install: screws and glue tape. This product with hanging holes, so you can hang it on the nails of wall.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802791534756</id>
+      <title>blue</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>28667_KBT9EF8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802791534756</id>
+      <title>khaki</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>28667_CXKITTM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5802791534756</id>
+      <title>white</title>
+      <s:price currency="USD">50.99</s:price>
+      <s:sku>28667_XJUMG3X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5800931688612</id>
+    <published>2020-10-21T12:45:35-04:00</published>
+    <updated>2020-10-21T12:45:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/wine-bottle-opening-kit-25479"/>
+    <title>wine bottle opening kit</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/39c5f9c8e37b4feb09ff2c2448867867.jpg?v=1603299407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.99 - 39.99
+            <a href="https://www.go-e-mall.com/products/wine-bottle-opening-kit-25479">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Luxury wine opener accessories gift tools set with waiters corkscrew opener 5 piece wine bottle opening kitProduct DescriptionThis 5-piece wine tool kit has all the wine tools you need to start a party! Includes corkscrew opener, leaf cutter, wine stopper, drip ring and wine pourer. This is a must have set to better enjoy your wine!Stay organized and easy to store-with all the tools needed to open any wine bottle, our 5-piece wine opener set is organized and easy to store. The bottle-shaped box of the novelty is equipped with magnets, so you can easily open and close the case effortlessly.Quality drip-ring construction, pourer and stopper are made with high quality stainless steel; the corkscrew opener is reinforced with aluminum alloy and our original handle for an ergonomic grip so you can easily open any wine bottle.The perfect gift-set of 5-piece wine opener comes in a beautiful and elegant bottle shape so it is a perfect gift item for family and friends, special occasions and events. Great for wine lovers, it will look great on any kitchen countertop or stored in a wine rack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5800931688612</id>
+      <title>5pcs</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28690_I434TOK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5800931688612</id>
+      <title>3pcs</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>28690_3T57JS9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5800929689764</id>
+    <published>2020-10-21T12:44:17-04:00</published>
+    <updated>2020-10-21T12:44:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/70ml-mini-coffee-machine-portable-coffee-maker-pressure-espresso-manual-handheld-espresso-coffee-maker-for-home-travel-hot-16477"/>
+    <title>70ml Mini Coffee Machine Portable Coffee Maker Pressure Espresso Manual Handheld Espresso Coffee Maker for Home Travel Hot</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/91d90a3f8168d493586d5ef3600122d7.jpg?v=1603299631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Name: Mini Portable Manual Coffee MachineProduct Size: 19.6 x 5.8 x 5.5cm/7.71 x 2.28 x 2.16inWhether electric or not: noMaterial: food grade plasticAmount of powder: 7gWater capacity: 70mlFeatures:Make pretty good espresso in a relatively short time if you only have ground coffee and hot water ready. Portable design, simple and fast to use, hand operated coffee machine, you can prepare amazing espresso anywhere. Instruction:Put a spoon of ground coffee in the container, squeeze the ground coffee with a spoon.Put it in the cup, close the lid, 90 degrees water at the bottom of the container.Tighten the lid, press several times, drip coffee slowly.According to personal preference,Press 13 times (medium purity coffee)Press 18 times (Italian espresso)Press 28 times (double Italian espresso)
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5800929689764</id>
+      <title>Default Title</title>
+      <s:price currency="USD">72.99</s:price>
+      <s:sku>28579_TIXJ0MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650447859876</id>
+    <published>2020-09-08T15:17:03-04:00</published>
+    <updated>2020-09-08T15:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/3l-5l-8l-10l-15l-outdoor-collapsible-foldable-water-bags-container-camping-hiking-portable-survival-water-storage-carrier-bag-34125"/>
+    <title>3L 5L 8L 10L 15L Outdoor Collapsible Foldable Water Bags Container Camping Hiking Portable Survival Water Storage Carrier Bag</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/309135c53e6e7e27dc375b1a98175288.jpg?v=1599596800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99 - 10.99
+            <a href="https://www.go-e-mall.com/products/3l-5l-8l-10l-15l-outdoor-collapsible-foldable-water-bags-container-camping-hiking-portable-survival-water-storage-carrier-bag-34125">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lightweight and foldable design for easy carry.Ideal for outdoor water container or storage.Easy on / off to the water flow.Made of food grade pe plastic, this water bucket is lightweight, portable, non-toxic, anti-aging, safe and durableWhen not in use, you can easily compress and fold the water bucket to take up less space, which also makes it easy to carry alongDescription:The outlet design can help you adjust the water volume, making it convenient to use.A helper when you are going for an outing, driving, camping, fishing etc.Specifications:Material: PEColor: whiteSize: 165*210mm;220*240mm,235*270mm,250*280mm,310*280mmCapacity: 3L,5L,8L,10L,15L
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>15L</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>27718_J3XCLZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>10L</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>27718_8TYQYST</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>8L</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>27718_QZ8NYIR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>5L</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>27718_JCQZVWW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650447859876</id>
+      <title>3L</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>27718_WPXJIDY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650045927588</id>
+    <published>2020-09-08T11:29:10-04:00</published>
+    <updated>2020-09-08T11:29:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/self-cleaning-broom-and-dustpan-51530"/>
+    <title>Self Cleaning Broom and Dustpan</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/3fbe0c20b2a38c4190304e90bfc4a43c.jpg?v=1599579394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650045927588</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>4458_BSHQE9B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5650045304996</id>
+    <published>2020-09-08T11:28:32-04:00</published>
+    <updated>2020-09-08T11:28:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/magic-cleaning-sponge-09632"/>
+    <title>Magic Cleaning Sponge</title>
+    <s:type>Kitchen/Bathroom Cleaner</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/a4a16415d6b1ce8c648755d07aab8705.jpg?v=1599579634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Kitchen/Bathroom Cleaner<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy to clean the Kitchen utensilsIdeal for brushed bowl, Stainless etcIt is a good helper for your life.Product: Nano Emery Sponge Kitchen Dish washing Brush Pot Rust Magic WipeMaterial: Alumina Diamond + SpongeSize: 10x7x2.5CM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5650045304996</id>
+      <title>brown</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>5368_G4QFKCZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5646779973796</id>
+    <published>2020-09-07T14:42:58-04:00</published>
+    <updated>2020-09-07T14:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/wall-mount-paper-towel-holder-kitchen-organizer-preservative-film-dispenser-sauce-bottle-storage-rack-wall-roll-paper-storage-37151"/>
+    <title>Wall-Mount Paper Towel Holder Kitchen Organizer Preservative Film Dispenser Sauce Bottle Storage Rack Wall Roll Paper Storage</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/f30891173c71943b7b09d66f11b8a618.jpg?v=1599504860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your kitchen essentials organized and in one place. This wall mount paper towel holder with spice rack makes your kitchen efficient and convenient in unimaginable ways. The holder has two dispensers for your foil, plastic wrap, or wax paper!Each dispenser has a sliding cutter to dispense and trim your paper quickly and easily. The top of the holder is flat, so you can keep frequently-used spices close at hand. with blades and smooth handle to ensure clean cut for quick dispensing and food prep/storage. Ergonomic design, convenient for use.Features:Built in dispensers for plastic wrap and aluminum foil with space on top for spices.Easy one hand operation provides easy access to your kitchen necessities.The bottom of the bracket bar can be disassembled, suitable for 28cm length of the paper towel.Two kinds of cutter button; round cutter for tin paper or oil-absorbing paper, triangular cutter for plastic wrap.Removable paper towel support holder rod, very practical.Specifications:Condition: 100% Brand NewMaterial: ABSColor: White, Gray Blue, Khaki (Optional)Size: Approx. 39 x 10 x 24cm / 15.35 x 3.94 x 9.45inchPackage Weight: Approx. 792g
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646779973796</id>
+      <title>Khaki</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28448_MDYF82B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646779973796</id>
+      <title>Blue</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28448_BQWQSME</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646779973796</id>
+      <title>White</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28448_N4A8K4L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5646779121828</id>
+    <published>2020-09-07T14:41:51-04:00</published>
+    <updated>2020-09-07T14:41:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kitchen-gadgets-vegetables-slicing-cutting-tools-multi-purpose-tomato-slicer-stainless-steel-serrated-chopper-accessories-81220"/>
+    <title>Kitchen Gadgets Vegetables Slicing Cutting Tools Multi-purpose Tomato Slicer Stainless Steel Serrated Chopper Accessories</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/fe165de22ba13cef81076b2d48fe744a.jpg?v=1599505105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cut Slices of A Veggie Quickly and Easily in Just One Glide!Make the most out of your vegetables with the incredible Multi-Purpose Vegetable Slicer!There's no hassle and no more mess! With our functional and helpful vegetable cutter, you have everything in one handy set! As simple as space-saving as it gets! Whether you're looking to make a stir-fry or a vegetable medley, it will only take you seconds to Julienne your veggies.Simply place the vegetables you want to be cut into the slicer and glide it -- simple and easy as ABC!SAVE YOU MORE TIME:Don't want to spend all day cooking? Save time during the early morning rush hour, or just make your life easier in the kitchen. This slicer is perfect for everybody, there is no better time to cook healthy. Skip takeaways and cook some healthy delicious greens in minutes!EAT HEALTHIER:Get perfect slier every single time that does not only tastes good and fresh but also looks appealing! Perfect to impress the family and friends when they come over!SAVE MONEY:Eating healthy and organic food out all the time and can end up costing a fortune, now you can make your own at home for half the price.RAZOR SHARP &amp; INTERCHANGEABLE BLADES:Comes up with 4 interchangeable blades that let you cut 8 slices in just one swiping action! Shred various fruits and vegetables smoothly!SPECIFICATIONS:Material: Stainless SteelType:Vegetable SlicerSize:35.5*8.5CM</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5646779121828</id>
+      <title>1</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>28442_OYMSBJK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5551643590820</id>
+    <published>2020-08-12T09:10:50-04:00</published>
+    <updated>2020-08-12T09:10:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/new-3d-grenade-shape-ice-cube-mold-ice-cream-maker-party-drinks-silicone-trays-molds-kitchen-bar-tool-a-great-mens-gift-75024"/>
+    <title>New 3D Grenade Shape Ice Cube Mold Ice Cream Maker Party Drinks Silicone Trays Molds Kitchen Bar Tool, A Great Mens Gift</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/b9638ff3f7952063831e87f3c8705d0e.jpg?v=1597238096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5551643590820</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>5637_47E9IJK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548964282532</id>
+    <published>2020-08-11T19:17:15-04:00</published>
+    <updated>2020-08-11T19:17:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/stainless-steel-kitchen-storage-cutlery-rack-51616"/>
+    <title>Stainless steel kitchen storage cutlery rack</title>
+    <s:type>Kitchen Drawer</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/27d86f413341d74c9ddfee355a8342f9.jpg?v=1597188027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Kitchen Drawer<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Type: Storage Boxes &amp; BinsCapacity: 50LStyle: Traditional ChineseTechnics: GlossyFeature: Eco-Friendly,Shape: SquareProduct: storage holderLoad: 10KG</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548964282532</id>
+      <title>White</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>ESCYWGE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548964282532</id>
+      <title>Gray</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>038YALV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548957696164</id>
+    <published>2020-08-11T19:16:26-04:00</published>
+    <updated>2020-08-11T19:16:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/go-swing-topless-can-opener-cutters-bar-tool-safety-easy-manual-can-opener-openers-cutters-home-kitchen-tools-4pcs-set-cutters-43370"/>
+    <title>Go Swing Topless Can Opener  Cutters Bar Tool Safety Easy Manual Can Opener Openers Cutters Home Kitchen Tools 4pcs/set Cutters</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/3197414ede9864a7cda42a35ae7f978c.jpg?v=1597188417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. Function: Our bare can opener is a bar tool designed to remove the top of almost all cans, and our matching cutters can replace bottle opener accessories.
+2. Our corkscrew matching tools can match corresponding correlative can openers, and can also improve your hands-on ability.
+3. It is very easy to replace the can opener accessories, and the common tools at home can be completed.
+4. For you to buy a set of matching tools at the same time you buy the can opener, so that you can prepare for unexpected needs.
+5. Our can opener is very light and portable, which is convenient for you to carry with you. It can be used for camping, gathering, and the matching tools of the can opener can help you solve the trouble of using the can opener in the wild. 
+	
+Specifications:Specification:
+Type: Cutter for can openerPackage Included:A set of cutters for can opener (including 4 cutters)
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548957696164</id>
+      <title>1pcs</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>21749_YS6P88I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548947669156</id>
+    <published>2020-08-11T19:14:59-04:00</published>
+    <updated>2020-08-11T19:14:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kitchen-plastic-chopping-board-29511"/>
+    <title>Kitchen Plastic Chopping Board</title>
+    <s:type>Kitchen Utensils</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/797d8b01b267c9c433f24e1c111a4750.png?v=1597189005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Kitchen Utensils<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product Descriptions1. Safe Material: Made of PP+TRP, matte + silica gel, it is safe and secure.2. Drainable and Separable: silica gel drain basin with even leaking hole.3. Thickened Board: The cutting board is easy to clean, 1cm thickened.4. Lengthen and Thickened: 50cm*28.5cm, The cutting board is large in size. It can be used to cut fruit and vegetables with flat surface.5. Easy to Clean: The cutting board is drainable and easy to clean. The cutting board can be cut. Thickened plate is made of safe material, and it is separable.Features:Easy to Clean: The cutting board is drainable and easy to clean. The cutting board can be cut. Thickened plate is made of safe material, and it is separable.silica gel drain basin with even leaking hole.Packaging included1 * cutting board</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548947669156</id>
+      <title>Green</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>3995_LIH8ATO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548947669156</id>
+      <title>White</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>3995_Z7PY6MQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548940492964</id>
+    <published>2020-08-11T19:13:54-04:00</published>
+    <updated>2020-08-11T19:13:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/new-kitchen-reheatza-microwave-grill-pan-microwave-crisper-plate-with-lid-microwave-cooking-grilling-oven-pans-57927"/>
+    <title>New Kitchen Reheatza Microwave Grill Pan Microwave Crisper Plate with Lid Microwave Cooking/Grilling Oven Pans</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/be1728d87f6b85d05900d5c5a11a5c19.jpg?v=1597189124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548940492964</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>4650_DR1DA1G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548933021860</id>
+    <published>2020-08-11T19:12:38-04:00</published>
+    <updated>2020-08-11T19:12:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/drying-rack-for-kitchen-bathroom-63267"/>
+    <title>Drying rack for kitchen bathroom</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/7709040e98a5b186061e204bb2f85c64.jpg?v=1597189733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Suction cup diameter: 4.5 cmClassification: non-folding shelfNo. of levels: individualApplicable space: KitchenType: storage racks and shelves, bathroom shelvesSize: 11 * 3.7 * 6.5 cmMaterial: de Plastic PlasticType: PPUse:Scouring Pad Tools InstallationType: Wall MountTools Type: Kitchen ToolsFeature: Eco-friendlyPacking List1 pcs x storage shelf</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548933021860</id>
+      <title>Gray</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>WSTRKVR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548933021860</id>
+      <title>Apricot</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>R5YTPYW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548933021860</id>
+      <title>Sky Blue</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>I4RK7IG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548933021860</id>
+      <title>Dark Blue</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>QXR26KB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548926140580</id>
+    <published>2020-08-11T19:11:46-04:00</published>
+    <updated>2020-08-11T19:11:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kitchen-storage-hooks-64266"/>
+    <title>Kitchen Storage Hooks</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/67e0068d6939aace923e823146d813ef.jpg?v=1597189841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548926140580</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.80</s:price>
+      <s:sku>4276_9YSNNBG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548921127076</id>
+    <published>2020-08-11T19:11:09-04:00</published>
+    <updated>2020-08-11T19:11:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kitchen-telescopic-drainer-rack-20719"/>
+    <title>Kitchen Telescopic Drainer Rack</title>
+    <s:type>Kitchen Tools</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/14d8dae8f9120c8bf85e4532337a1ce4.jpg?v=1597190084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Kitchen Tools<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% new high qualityKitchen cutlery storage box, multi-layer storage design, can store chopsticks, spoons, bottle openers and other kitchen tools, as well as seasonings to meet daily needsThe overall ventilation and drainage design. Make the dishes dry faster and use them healthierIdeal for kitchen, bathroom and storage room organization. Get more space in cabinets, pantry and even open spaceslarge capacity, large carrying capacity, can save space, not easy to fall, deformation, not easy to rust, breathable mildewThe rack is made of all stainless steel, which has better bearing capacity, beautiful appearanceApplicable places: home / kitchen, balcony, bathroom, bathroomMaterial: Stainless steel,plasticColor: as shownSize: (32-47) x9x23CM/(12.5-18.5)x3.5x9inPack Size:25 x 10 x 20cm（9.84x 3.94x 7.87in）Number of layers: 1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548921127076</id>
+      <title>Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>3973_P0C9UG5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548914213028</id>
+    <published>2020-08-11T19:10:20-04:00</published>
+    <updated>2020-08-11T19:10:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/pro-cut-stainless-steel-strong-bone-kitchen-scissors-70282"/>
+    <title>Pro Cut Stainless Steel Strong Bone Kitchen Scissors</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/081e05cba8dba24a5c5a2727b7af1058.jpg?v=1597190313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548914213028</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>4392_0W3QBGN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548910477476</id>
+    <published>2020-08-11T19:09:45-04:00</published>
+    <updated>2020-08-11T19:09:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/earthie-kitchen-herb-shredder-mill-67963"/>
+    <title>Earthie? Kitchen Herb Shredder Mill</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/50f4e7d3ed1226a09df958d2f2199555.jpg?v=1597190560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548910477476</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>4731_1WMU07U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548904087716</id>
+    <published>2020-08-11T19:08:49-04:00</published>
+    <updated>2020-08-11T19:08:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/multifunction-kitchen-slicer-6-blades-62614"/>
+    <title>Multifunction Kitchen Slicer - 6 Blades</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/16c24b4028b0926a00b7b45a8d6491a7.png?v=1597190797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548904087716</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>6541_136UCF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548898091172</id>
+    <published>2020-08-11T19:07:51-04:00</published>
+    <updated>2020-08-11T19:07:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/mobile-creative-kitchen-shelf-42066"/>
+    <title>Mobile Creative Kitchen Shelf</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/fb4cab9506ceee710218fed9cf47748e.jpg?v=1597190913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99 - 29.99
+            <a href="https://www.go-e-mall.com/products/mobile-creative-kitchen-shelf-42066">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Help to organize your different items for saving space.Features：*Perfect combination of premium materials and fine workmanship.*High quality, solid structure and strong hardness.*With three/four layers, roomy space for holding your items.* Removable cart, convenient to use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548898091172</id>
+      <title>3 racks</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>9674_PZSIJGL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548898091172</id>
+      <title>2 racks</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>9674_GIR81QF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548898091172</id>
+      <title>1 rack</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>U0J9PF8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5548885803172</id>
+    <published>2020-08-11T19:05:55-04:00</published>
+    <updated>2020-08-11T19:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/silicone-non-stick-fantastic-egg-pancake-maker-ring-kitchen-baking-omelet-moulds-flip-cooker-egg-ring-mold-49538"/>
+    <title>Silicone Non Stick Fantastic Egg Pancake Maker Ring Kitchen Baking Omelet Moulds Flip cooker Egg Ring Mold</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/5eaf81a37dcb0bb60fe448d850d6df9b.jpg?v=1597191514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.97 - 9.99
+            <a href="https://www.go-e-mall.com/products/silicone-non-stick-fantastic-egg-pancake-maker-ring-kitchen-baking-omelet-moulds-flip-cooker-egg-ring-mold-49538">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>	Features：
+	Safty material: this pancake maker made of food grade silicone, non-toxic, non-stick, odorless and reusable.
+	Perfect Design: two extend holder to facilitate you to take food to avoid hot. Non-stick surface
+	Multi-function: Perfect for egg muffins,   fried or poached eggs,  pancakes, egg omelettes,  burgers 
+	Easily prepare perfect pancakes with the Nonstick Pancake, Best results when egg rings lay flat on cooking surface Nonstick surface
+	 
+	
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548885803172</id>
+      <title>MULTI SHAPES</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>12638_CNSMQF6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548885803172</id>
+      <title>7-ROUND</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku>12638_A9P6MXQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548885803172</id>
+      <title>ROUND</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku>12638_40YXUR2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548885803172</id>
+      <title>HEART</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku>12638_XIEHFYM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548885803172</id>
+      <title>SQUARE</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku>12638_FMWRO1X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5548885803172</id>
+      <title>FLOWER</title>
+      <s:price currency="USD">8.97</s:price>
+      <s:sku>12638_VAAI2E5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5513092104356</id>
+    <published>2020-08-02T13:46:30-04:00</published>
+    <updated>2020-08-02T13:46:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/silicone-thumb-knife-finger-protector-vegetable-harvesting-knife-plant-blade-scissors-separator-cutting-rings-garden-gloves-63398"/>
+    <title>Silicone Thumb Knife Finger Protector Vegetable Harvesting Knife Plant Blade Scissors Separator Cutting Rings Garden Gloves</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/64f90fc81d91c45729b307fe9b48812a.jpg?v=1596396613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material: Silicone + Stainless Steel.
+	Size: Thumb length 53.2MM, inner diameter 22.7CM, thickness 0.52MM, blade width 19.8MM
+	Features: 
+	1. Special silicone, high flexibility, good elasticity, tight finger bag, not easy to fall off.
+	2. Put on this product, do farm work, not only can protect your nails in all directions, but also much faster than picking by hand.
+	3. tartness blade, can pick a variety of fruits and vegetables, high efficiency and comprehensive protection.
+	 
+	
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513092104356</id>
+      <title>B</title>
+      <s:price currency="USD">6.28</s:price>
+      <s:sku>23070_XRZRJCI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513092104356</id>
+      <title>A</title>
+      <s:price currency="USD">6.28</s:price>
+      <s:sku>23070_WH4QU69</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5488709206180</id>
+    <published>2020-07-27T09:00:17-04:00</published>
+    <updated>2020-07-27T09:00:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/multifunction-smash-machine-coffee-bean-seasonings-electric-milling-machine-grinder-hg99-71851"/>
+    <title>Multifunction Smash Machine Coffee Bean Seasonings Electric Milling Machine Grinder HG99</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/71192444eda24192a0d639fd398bedee.jpg?v=1595855306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. Easy Use: Simply press the ON/OFF button to begin grinding and release to stop.2. Transparent Cover: Through the transparent cover, you can observe the grindering process and get coarse or fine powder.3. Stainless Steel: Food grade stainless steel cutter head for fast and uniform grinding. Works great to control your coffee bean from coarse to fine in seconds.4. Multiple Use: Multifunctional grinder, applicable for cereal, beans, seasoning. DIY your favorite coffee or other food, the best life assistant.5. Low Noise: Specially designed grinder takes minimum space, low noise motor allows your family to peacefully sleeping while you prepare their morning cup.Notice:1. Actual color may be slightly different from the image due to different monitor and light effect. Please allow 1-3cm deviation due to manual measurement.Specification:Type: Multifunctional Electric bean grinderRated Power : 150WRated Frequency : 50HzSize: 110x165mmColor: as picture shows
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kitchen</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488709206180</id>
+      <title>au</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23019_OTMFHYT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488709206180</id>
+      <title>uk plug</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23019_TMACHXG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488709206180</id>
+      <title>eu plug</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23019_YJEROVO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488709206180</id>
+      <title>us plug</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>23019_KEOHN9W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

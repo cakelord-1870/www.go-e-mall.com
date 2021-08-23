@@ -1,0 +1,4689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.go-e-mall.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.go-e-mall.com/collections/men-1.atom"/>
+  <title>GO-E-MALL</title>
+  <updated>2020-08-02T16:04:02-04:00</updated>
+  <author>
+    <name>GO-E-MALL</name>
+  </author>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5513296576676</id>
+    <published>2020-08-02T16:04:02-04:00</published>
+    <updated>2020-08-02T16:04:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/new-winter-anime-senpai-design-print-fleece-mens-hoodies-sweatshirts-men-women-streetwear-funny-black-hoody-man-winter-clothes-38646"/>
+    <title>New Winter Anime Senpai  Design Print Fleece Men&apos;s Hoodies Sweatshirts Men Women Streetwear Funny Black Hoody Man Winter Clothes</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/4e4d8ee3a3277251fecb24c2f1bc4cd4.jpg?v=1596417132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>18gray / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_P7YPVO3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>18gray / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_J6RCDEG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>18gray / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_PLLSRKC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>18gray / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_YWLRFDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>18gray / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_RI0MNG3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>17Dark gray / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_NKJTCUW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>17Dark gray / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_JLWEITN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>17Dark gray / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_FMGRKUV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>17Dark gray / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_36PEPLE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>17Dark gray / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_E7JEDAH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>16Pink / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_BYLV8OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>16Pink / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_0WC0HN6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>16Pink / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_ITOOMWB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>16Pink / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_PF5OK1E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>16Pink / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_PPLQV2N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>15Royal blue / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_RKY9UGV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>15Royal blue / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_KSQOTUU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>15Royal blue / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_YP21URI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>15Royal blue / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_SN26MTY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>15Royal blue / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_ZZUGMTV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>12yellow / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_KUQWSRI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>12yellow / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_ASNDZWI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>12yellow / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_JJPQGEW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>12yellow / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_HBMAPKY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>12yellow / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_K8SF4AC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>11white / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_IRFOTBT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>11white / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_IJ8MGPE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>11white / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_BA5M354</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>11white / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_VEXQXQ8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>11white / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_VSJMVHF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>9Dark gray / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_JAQMLYX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>9Dark gray / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_AF31D1Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>9Dark gray / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_AAOCFN0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>9Dark gray / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_V3KWPHU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>9Dark gray / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_PYXUPOT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>7yellow / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_2GMNSLK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>7yellow / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_VMYBD79</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>7yellow / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_CBPYMOS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>7yellow / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_W81OWGU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>7yellow / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_XVGOCP6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>6Pink / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_8PKO6RJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>6Pink / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_S305QGY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>6Pink / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_WFJG3I3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>6Pink / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_YKCIKXG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>6Pink / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_UKYRDKW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>4gray / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_EDBHZSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>4gray / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_OMYW0P7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>4gray / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_D7DCX45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>4gray / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_0T1L5WK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>4gray / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_JHD3DTY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>3Royal blue / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_GOF4DTO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>3Royal blue / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_N4AVFTK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>3Royal blue / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_P8TSMRZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>3Royal blue / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_POIIRHB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>3Royal blue / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_AQOVN7V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>2black / XXL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_KP4NJ8S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>2black / XL</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_NME5PEH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>2black / L</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_DKKS5JJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>2black / M</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_PAB5WPP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5513296576676</id>
+      <title>2black / S</title>
+      <s:price currency="USD">22.37</s:price>
+      <s:sku>18274_WPFJ1FF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5512394145956</id>
+    <published>2020-08-02T09:27:35-04:00</published>
+    <updated>2020-08-02T09:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/2-in-1-running-shorts-with-built-in-pocket-lining-82245"/>
+    <title>2 in 1 Running Shorts with Built-in Pocket Lining</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/1b1e5f3b4f54402466ec45d458e1dce4.png?v=1596376209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material :  PolyesterSex :  MenType of sport :  WorkAdaptation :  Fits smaller than usual. please consult this sizing shop infoType of item :  shortsPatternType :  SolidApplication :  Suit for gym, basketball, running etcBack hanging :  You can hang your shirt or towel at the back</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Shorts (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Gray / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_16ASWI3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Army Green / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_FZNWP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>White / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_4TEMIFK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_HE0UHIK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Camouflage / XXLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_F5NSWXI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Camouflage / XLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_44V2T84</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Camouflage / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_ZT4CZXE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Camouflage / Medlum</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_Y0H7SPD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Gray / Medlum</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_AS0PNJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Gray / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_1NSQ43O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Gray / XLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_3LXLUFW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Gray / XXLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_KZSC961</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>White / XXLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_3WMB8EV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>White / XLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_XS2C8B8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>White / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_IVHGYL9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>White / Medium</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_5QZWMPT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Army Green / Medium</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_4B6EUQ7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Army Green / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_HW8ANPH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Army Green / XLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_98UFLC1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Army Green / XXLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_WSEJXWH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Black / XXLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_YX4VVG8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Black / XLarge</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_MD6C309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_21M570L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512394145956</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>19740_8LWPHFG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5512387297444</id>
+    <published>2020-08-02T09:24:00-04:00</published>
+    <updated>2020-08-02T09:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/spring-summer-anime-naruto-hoodies-men-women-cool-uchiha-hatake-uzumaki-clan-badge-streetwear-sudaderas-hoody-sweatshirt-42681"/>
+    <title>Spring Summer Anime Naruto Hoodies Men Women Cool Uchiha Hatake Uzumaki Clan Badge Streetwear Sudaderas Hoody Sweatshirt</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d9d6a2a9ca5a8f19b22450927c6d8311.png?v=1596378019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Please note that for this product we can only provide without the logo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coats &amp; Jackets (M.)</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color8 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_B8ELBRT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color7 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_5SI9EG5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color5 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_BXZAKGA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color4 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_PSQFXOA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color2 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_W0XVTBM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color1 / XXL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_B3OLXCW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color8 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_UFDUZ5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color7 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_GGMGYNN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color5 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_QBRYK79</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color4 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_V8KDC1Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color2 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_LUNUSM3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color1 / XL</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_ZL6N6XG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color8 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_C0DXHRV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color7 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_5U4JNF6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color5 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_KZ02JPU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color4 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_QI5LSSG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color2 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_6CAREQK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color1 / L</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_260O0QI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color8 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_4KICSNB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color7 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_IJNXGMM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color5 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_R6JZ8WA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color4 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_6U2AYZN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color2 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_QUO5KEU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color1 / M</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_T0WZ4C9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color8 / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_G7PAP71</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color7 / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_DL1PLJQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color5 / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_WDDUZHI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color4 / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_MORE84Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color2 / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_BUPJDFV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5512387297444</id>
+      <title>color1 / S</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>13647_08IPZSV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5493827240100</id>
+    <published>2020-07-28T16:00:36-04:00</published>
+    <updated>2020-07-28T16:00:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/augur-new-fashion-mens-vintage-handbag-genuine-leather-shoulder-bag-messenger-laptop-briefcase-satchel-bag-fit-14-inch-laptop-36743"/>
+    <title>AUGUR New Fashion Men&apos;s Vintage Handbag Genuine Leather Shoulder Bag Messenger Laptop Briefcase Satchel Bag Fit 14 inch Laptop</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/ad69ac1ba1dc24fbfc11477791318181.jpg?v=1595970033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Brand NewMaterial:Canvas and Genuine LeatherWeight: 1kg5 Colors available:Include:1HandbagSize:36cm x 10cm x 28cm  1 Inch= 2.54CM; 1 CM=0.39 Inch
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags &amp; Wallets (M.)</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5493827240100</id>
+      <title>Blue / (30cm&lt;Max Length&lt;50cm)</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>15232_MUXBMFU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5493827240100</id>
+      <title>Army Green / (30cm&lt;Max Length&lt;50cm)</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>15232_Z7GVGOS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5493827240100</id>
+      <title>Green / (30cm&lt;Max Length&lt;50cm)</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>15232_R7WVRX0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5493827240100</id>
+      <title>Coffee / (30cm&lt;Max Length&lt;50cm)</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>15232_HFSF7WK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5493827240100</id>
+      <title>Black / (30cm&lt;Max Length&lt;50cm)</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>15232_UADGQTY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5493827240100</id>
+      <title>Khaki / (30cm&lt;Max Length&lt;50cm)</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>15232_HLJF5AW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5488747053220</id>
+    <published>2020-07-27T09:08:06-04:00</published>
+    <updated>2020-07-27T09:08:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/casual-shoes-black-brown-leather-lace-up-dress-handsome-shoes-23119"/>
+    <title>Casual Shoes Black/Brown Leather Lace Up Dress Handsome Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d201488d6f033646eff6ef06edcdbcbb.jpg?v=1595855931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brand Name: M-anxiuUpper Material: PUToe Shape: Pointed ToeOutsole Material: RubberInsole Material: PULining Material: PUShoes Type: BasicClosure Type: Hook &amp; LoopSeason: Spring/AutumnFit: Fits true to size, take your normal sizePattern Type: SolidDepartment Name: AdultNote Our size is not standard US size, and it is only equal to foot length! Size Chart:US5.5 =EU37=235mm=9.25in(bare feet length)US6.0=EU38=240mm=9.45inUS6.5=EU39=245mm=9.65inUS7.0=EU40=250mm=9.84inUS8.0=EU41=255mm=10.04inUS8.5=EU42=260mm=10.24inUS9.5=EU43=265mm=10.43inUS10.0=EU44=270mm=10.63inUS11.0=EU45=275mm=10.83inUS12.0=EU46=280mm=11.02inUS12.5=EU47=285mm=11.22inUS13.0=EU48=290mm=11.42in</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress Shoes</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_G3QS61Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_RFA8845</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_0DLCP3E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_NYU7N8L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_JMQ59C6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Brown / 12</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_5ZO9JUM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Brown / 9.5</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_PSLCNHZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Brown / 7</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_W71BC50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Brown / 6.5</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>11504_TJ2RSPU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5488747053220</id>
+      <title>Brown / 6</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>973LE16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5483803607204</id>
+    <published>2020-07-25T20:41:28-04:00</published>
+    <updated>2020-07-25T20:41:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/46-mens-running-shoes-2020-spring-new-male-sneaker-soft-mesh-footwear-breatheable-fashion-black-shoes-sport-footwear-winter-men-71278"/>
+    <title>46 Mens Running Shoes 2020 Spring New Male Sneaker Soft Mesh Footwear Breatheable Fashion Black Shoes Sport Footwear Winter Men</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/c3bb0dfc271096db49ea16b97ed574dd.jpg?v=1597234966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Sneakers (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Green / 46</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_SJNQX8X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Green / 45</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_U5OZKMA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Green / 44</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_SXXPI5S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Green / 43</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_7NWLSIN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Green / 42</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_EOMRF9A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Green / 41</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_OM9SD56</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Green / 40</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_ZUADV71</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Green / 39</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_ANL5PZT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Brown / 46</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_GI5X9KE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Brown / 45</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_WWGXRZ3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Brown / 44</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_XTX7KUR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Brown / 43</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_FUGMR0K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Brown / 42</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_C6JROEM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Brown / 41</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_VIS2ASR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Brown / 40</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_RNMZRFB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Brown / 39</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_RU6OUBB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Black / 46</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_FK99YXI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Black / 45</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_BXBTAIH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Black / 44</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_QTSNAGO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Black / 43</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_O6AQKYE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Black / 42</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_PPWRLIB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Black / 41</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_VW6SFU8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Black / 40</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_AMTFX5D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5483803607204</id>
+      <title>Black / 39</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>14034_AYUOH46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5463870931108</id>
+    <published>2020-07-17T11:02:26-04:00</published>
+    <updated>2020-07-17T11:02:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/men-beard-straightener-ceramic-hair-straighteners-multifunctional-hair-brush-curling-iron-straightening-comb-quick-hair-styler-03398"/>
+    <title>Men Beard Straightener Ceramic Hair Straighteners Multifunctional Hair Brush Curling Iron Straightening Comb Quick Hair Styler</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/993c17c4b6eff5b06b9f0dffec87fbb3.jpg?v=1595006071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>· Thermal conductor diameter: 16MM-20MM· Thermal material: tourmaline ceramic· Power: 25W-39W· Best Costume time: 3-5 minutes· Applicable hair: dry hairTemperature control: 6 segmentAppearance: Plastic• Maximum temperature: 200 ℃   The lowest temperature: 130 ℃· Type: Multifunction· Service: one year warranty· Heat generation: PTC· Voltage: 110V-220Power cord length: about 2 meters, 360 degrees rotation.     The Nexgadget hair straightener brush gives quick professional result of silky straight hair in minutes that you dreamed of, allows you get ready quickly for going out in rush morning hours, instead of wrestling with the blow dryers day after day. This hair brush for straightening hair leaves your hair silky, straight and smooth from the very first stroke. It's heat up to 293℉ (145℃) in 30 seconds, max 392℉ (200℃) , auto keep constant temperature at 293℉(145℃), your hair will be basically settled in 8-10 seconds. Temperature setting guide: Customized set 266℉ (130℃) for the first time, or a soft thin hair;Customized set 293℉ (145℃) for common slight curly hair;Customized set320℉ (160℃)/ 338℉ (170℃) for blonde, dyeing or colored hair; Customized set374℉ (190℃)/ 356℉ (392℃) for very thick, curly and hard to straighten; </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5463870931108</id>
+      <title>with box / UK</title>
+      <s:price currency="USD">21.85</s:price>
+      <s:sku>17539_W7I7BH8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5463870931108</id>
+      <title>with box / EU</title>
+      <s:price currency="USD">21.85</s:price>
+      <s:sku>17539_VYEMVRF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5463870931108</id>
+      <title>with box / US</title>
+      <s:price currency="USD">21.85</s:price>
+      <s:sku>17539_NAVG38E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425994465444</id>
+    <published>2020-07-08T15:26:17-04:00</published>
+    <updated>2020-07-08T15:26:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/mens-waterproof-multifunction-travel-bag-15146"/>
+    <title>Men&apos;s Waterproof Multifunction Travel Bag</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/acf8cba5d14aadf4438ae6cf75f6b3e6.jpg?v=1594238658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. Due to different measurement method, measurement errors within 3 cm are inevitable and acceptable;2. The colors on the computer or mobile monitor may vary slightly from the actual colors of the product dependingIn its configuration.3. Bag patterns may have a little different due to different production time and different production batches.The internal material may be different. We will deliver the product randomly.4. It is normal that leather smells at first. Put the outer bag for a few days that the smell dissipateHandbag Type :  Shoulder BagsType of bags :  Shoulder and bagsMain material :  OxfordShape :  CubeExterior :  Silt pocketGender :  MenNumber of Handles / Straps :  ThreeStyle :  CasualClosure Type :  ZipperInside :  Inside CompartmentInside :  Inside zip pocketInside :  Inside slot pocketInside :  Cell phone pocketHardness :  SoftPattern Type :  SolidModel Number :  BL9209x36Lining Material :  PolyesterDecoration :  FurDecoration :  LetterOccasion :  VersatileItem Type :  BagSIZE Backpack :  53 * 29 * 27cmApplicable gender :  Neutral / male and femaleMaterial :  High quality waterproof OxfordFeatures :  Waterproof, large capacity, breathable, anti-theft, shockproofstyle :  Fashion, Korean styleMultifunctional backpack :  Large Capacity Travel DuffleNew fitness bag :  Travel luggage HandbagMen's Backpacks, Backpack Women :  Handbag / Shoulder Bag / Crossbody Bags / Messenger Bag / Totecolor :  Light gray, black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags &amp; Wallets (M.)</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425994465444</id>
+      <title>Light Gray</title>
+      <s:price currency="USD">36.26</s:price>
+      <s:sku>KXBQTDE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425994465444</id>
+      <title>Black</title>
+      <s:price currency="USD">36.26</s:price>
+      <s:sku>3AFKRMH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425989615780</id>
+    <published>2020-07-08T15:22:56-04:00</published>
+    <updated>2020-07-08T15:22:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/sling-bag-with-usb-charging-port-69821"/>
+    <title>Sling Bag with USB Charging Port</title>
+    <s:type>Sling Bag</s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/4abdb09ce3fde6d49f50a06ce75f6452.jpg?v=1594238778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong>Sling Bag<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fabric liningZip closureMATERIAL: The sling bag is made of sturdy and durable polyester, water-resistant.SIZE: 6.3*2.7*12.6 inch(L*W*H), with a long crossbody adjustable strap, smooth zipper, perfect ideal for outdoor sports (hiking, camping, climbing, cycling, etc) and travel use.Chest bag for men/women with external USB Interface: You can easily and conveniently charge your phone, tablet and other devices without opening up the backpack.STRUCTURE: Three zippered main pockets, a small zippered pockets, a front anti-theft pocket. Roomy compartment to organize your cellphone, tablet, wallet, keys, ID card, credit card, and other small personal belongings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bags &amp; Wallets (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425989615780</id>
+      <title>Blue</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>DENAUBD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425989615780</id>
+      <title>Grey</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>DA0C0JJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425989615780</id>
+      <title>Black</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>PUMA715</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425912217764</id>
+    <published>2020-07-08T14:37:23-04:00</published>
+    <updated>2020-07-08T14:37:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/men-shoes-size-39-46-adult-men-sneakers-summer-breathable-krasovki-shoes-super-light-casual-shoes-male-tenis-masculino-sneakers-54942"/>
+    <title>Men Shoes Size 39-46 Adult Men Sneakers Summer Breathable Krasovki Shoes Super Light Casual Shoes Male Tenis Masculino Sneakers</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/f2ea13082ab830c25a117cf29b6e4ba7.jpg?v=1594242252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Shoes</s:tag>
+    <s:tag>Sneakers (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 12.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_ADLYQPV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 11.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_SWUPHKZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 11</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_WXEBS2W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 10.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_HDFSFRV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 9</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_K5K0SQ6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 8.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_WIONT97</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 8</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_NUKMDDB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 7.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_PEE5THK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_8V146N6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 6.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_3BUUWJS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Black / 6</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_EGYMU7L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 12.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_VVWWXYS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 11.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_BSPYKHZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 11</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_PSVHZCY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 10.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_YQVFH0F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 9</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_K8LMUYI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 8.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_AN84BJW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 8</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_J0W8L03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 7.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_JMP34WR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_7ZQWS22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 6.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_QYYUA2F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Red / 6</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_2NPWONH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 12.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_IM87KZD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 11.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_QIKSOYN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 11</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_0RFGJ91</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 10.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_7YRUJZ8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 9</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_60OZYFX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 8.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_AJKQJCO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 8</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_PTUDPBI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 7.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_64WZYIX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_IFFIF5Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 6.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_FGATXIF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Grey Green / 6</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_LHNQRX1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 12.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_YL2V7FZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 11.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_YANC4H3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 11</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_FJPHNPZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 10.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_5PZYG0I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 9</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_YNFMH7R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 8.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_O1UZLXV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 8</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_ODNARGT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 7.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_AJDKJYH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_14KAXNO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 6.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_O5FBFXB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Gray Blue / 6</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_LI0YZQ7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 12.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_DF3MMKO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 11.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_JDOAGAU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 11</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_EBB3FZJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 10.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_HZ0OPXF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 9</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_STI3GWF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 8.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_1QICRN9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 8</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_9RHPMFL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 7.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_WPM0FYX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_HKXGDWZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 6.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_INCDI3I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>White / 6</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_8KYFNGW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 12.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_RTG3SFK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 11.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_AQGUW62</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 11</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_5XBMHR8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 10.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_L5C7JZE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 9</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_Q8GAWUT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 8.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_ENJE4NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 8</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_RQRPOK4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 7.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_EB6AS1W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_KE3CZ5U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 6.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_WDKBFAK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Red / 6</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_VKMAGZA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 12.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_TRYGBWY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 11.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_7ITEANU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 11</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_S9DCAGT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 10.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_OEYRHWL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 9</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_8ZN0Z04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 8.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_XRDLMOR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 8</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_DLKRVTU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 7.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_RNMHNHP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_WOG7UT5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 6.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_00QFSSX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Blue / 6</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_6YLH0P8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 12.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_NSRUSVN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 11.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_KSUIMDO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 11</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_KQ6FA5G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 10.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_AFC1VOY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 9</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_F6YEEVP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_PSCOZQ5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_ZJEKYLQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 7.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_8NA5KRZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_F9XZ2PX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_ZMZ6WPU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425912217764</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku>19452_KUBTSOM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425787764900</id>
+    <published>2020-07-08T13:36:57-04:00</published>
+    <updated>2020-07-08T13:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/men-beard-growth-oil-kit-soften-hair-growth-nourishing-enhancer-beard-wax-balm-moustache-oil-leave-in-conditioner-beard-care-60081"/>
+    <title>Men Beard Growth  Oil Kit Soften Hair Growth Nourishing Enhancer Beard Wax Balm Moustache Oil Leave-In Conditioner Beard Care</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/63a429421aed29f57cd540bf3a02df19.png?v=1594229899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.02 - 15.16
+            <a href="https://www.go-e-mall.com/products/men-beard-growth-oil-kit-soften-hair-growth-nourishing-enhancer-beard-wax-balm-moustache-oil-leave-in-conditioner-beard-care-60081">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beard oil is enriched with multiple natural nourishing ingredients that infiltrate into the hair follicle roots,repair &amp; activate the dormant hair follicles, in-crease nutrient absorption and accelerate hair growth.Protection of hair follicles. Formation of a healthy environment for hair growth.Working as a softener and conditioner at the same time, this great beard oil offers deep moisturizing, curing your brittle, weak and scratchy beard. Even after the first use your beard will be more manageable and way softer.
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>Health</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425787764900</id>
+      <title>Set</title>
+      <s:price currency="USD">15.16</s:price>
+      <s:sku>12961_B4RXGTK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425787764900</id>
+      <title>Beard Growth Oil</title>
+      <s:price currency="USD">10.02</s:price>
+      <s:sku>12961_MIASKFL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5425646534820</id>
+    <published>2020-07-08T12:37:15-04:00</published>
+    <updated>2020-07-08T12:37:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/twe-smartwatch-android-2-0-81268"/>
+    <title>TWE Smartwatch Android 2.0</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/e7ebb964a9638566b1136075c0165a3c_f48735c5-a9c9-46cd-a14b-03da28d55a8d.jpg?v=1594256881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Function:Bluetooth, SIM card, phone book, dialing, information, call history, stopwatch, Bluetooth music, photo, remote camera, settings Find the mobile phone, time and date, ringing vibration, pedometer, theme, clock type, sleep test, two-way anti-lost, QQ, WeChat, Facebook, Twitter, WhatsApp reminder GSM 850/900/1800/1900 MHz , Single Micro SIM CardBluetooth Dialer, Call Reminder, Bluetooth CallBluetooth SMS/IM Message Notified Language, French, German, polish, Russian, Turkish, Italian, Spanish, English, Portuguese.Etc Specification:CPU (processor): MTK6261 full-fit screenNetwork:2GAvailable memory: 124M+64MCamera: 1300,000Bluetooth version: 3.0Strap: silicone materialDisplay: 1.54” inch IPS HD LCDTouch screen: OGS capacitive touch screen / 2.5D arc TPBattery :450mah/Polymer BatteryResolution: 240*240TF Card: the maximum 16G TF card. Package include:1*smart watch1*charge cable1*user manul1*retail box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Watches (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425646534820</id>
+      <title>silver</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>19683_APCMWZV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5425646534820</id>
+      <title>black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>19683_X3MHGKS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5413097308324</id>
+    <published>2020-07-04T13:29:18-04:00</published>
+    <updated>2020-07-04T13:29:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/quick-dry-beach-short-31030"/>
+    <title>Quick Dry Beach Short</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/ofyu1p9bQdE1Smp.jpg?v=1594680318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Material: AcetateMaterial: PolyesterGender: MenSport Type: RunningFit: Fits true to size, take your normal sizeItem Type: Shorts</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Shorts (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Khaki Camouflage / XXXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_QERWR10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Khaki Camouflage / XXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_E7AF1KU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Khaki Camouflage / XL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_8XQY5LR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Khaki Camouflage / L</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_7VXJMNF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Khaki Camouflage / M</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_8GFNJF0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown / XXXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_2XND4KY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown / XXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_NBPVNXQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown / XL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_SVCN2AN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_GM8H15X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_NVCKST0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Army Green / XXXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_016X6BU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Army Green / XXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_ZCT91T9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Army Green / XL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_TEOREEF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Army Green / L</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_KJEXO8E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Army Green / M</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_6CEY6ZU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Light Gray / XXXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_TCYXBM9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Light Gray / XXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_ZLTRG3M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Light Gray / XL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_PGXUGLK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Light Gray / L</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_LSK719N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Light Gray / M</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_LELLBEF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Dark Gray / XXXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_NC3ZODK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Dark Gray / XXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_X1OV3K2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Dark Gray / XL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_48HX33P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Dark Gray / L</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_JWP5MPN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Dark Gray / M</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_Q7KS8V3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>White / XXXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_NJ29FT2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_X42INQT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>White / XL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_43Q7UYX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>White / L</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_2Y0LH2E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>White / M</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_KL65HDD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Black / XXXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_NN1BPQH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_OFQ8AXJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_MZMNQ5I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Black / L</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_X2PJ31R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Black / M</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>12344_I6C6ENO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown Camouflage / XXXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>SKMO289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown Camouflage / XXL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>K0ZDXWM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown Camouflage / XL</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>5SJ0ZP0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown Camouflage / L</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>WXDSPS5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5413097308324</id>
+      <title>Brown Camouflage / M</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>RRDT7DH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412990746788</id>
+    <published>2020-07-04T12:58:41-04:00</published>
+    <updated>2020-07-04T12:58:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/summer-mens-breathable-short-35650"/>
+    <title>Summer Mens Breathable Short</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/309ffcfaf9a77dbede67092c118d6a80.jpg?v=1594161976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pant Style: REGULARModel Number: MEN casual shortsWaist Type: MidClosure Type: DrawstringStyle: CasualMaterial: PolyesterLength: ShortsFit Type: skinnyDecoration: Fake ZippersPattern Type: PrintPant Style: REGULARModel Number: MEN casual shortsWaist Type: MidClosure Type: DrawstringStyle: CasualItem Type: Shorts(Shorts)Length: ShortsFit Type: skinnyGender: Men(Men)Pattern Type: PrintTrousers Length: ShortsSeasonal Fit: Spring, SummerApplicable Scenarios: Fitness Equipment, Foot Basketball, Cycling, Sports Trends, Other BallColour: Black, GreySize: M, L, Xl, Xxl</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Shorts (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>White / XXL</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>JC5AOY2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>White / XL</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>O2HCY7T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>White / L</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>OZLYHXX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>White / M</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>X2MHUUC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>Gray / XXL</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>SENYGY5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>B8JSQA1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>JKQF0MJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>7ET9JWQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>T4FG50F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>9B4EZ7S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>Black / L</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>L9XIPPX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412990746788</id>
+      <title>Black / M</title>
+      <s:price currency="USD">12.08</s:price>
+      <s:sku>ATOK92Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412836147364</id>
+    <published>2020-07-04T12:11:24-04:00</published>
+    <updated>2020-07-04T12:11:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/infrared-heating-vest-jacket-electric-thermal-clothing-96126"/>
+    <title>Infrared Heating Vest Jacket Electric Thermal Clothing</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/a1af515780e6c7e6a4f7ad3a7685b66d.jpg?v=1594443138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Product name: Heating vest Productfeatures: intelligent heatingFever area: 5 districtTemperature change: Third gear Third geartemperature: low 45 ° C MEDIUM RANGE 50 ° C high-Grade 55 ° CMaterial: Polyester materialColor: BlackSize: S, M, L, XL, XXLModel Number :  Heating VestMaterials Technology :  POWER DRYMaterial :  PolyesterFeature :  ThermalFit :  Fits the actual size, take your normal size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coats &amp; Jackets (M.)</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412836147364</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>GSN9B2R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412836147364</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>3K245H1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412836147364</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>1NAVCRV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412836147364</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>R9KUC61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412836147364</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>KEVSXDM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412826087588</id>
+    <published>2020-07-04T12:08:15-04:00</published>
+    <updated>2020-07-04T12:08:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/mens-jogger-autumn-pencil-harem-pants-75527"/>
+    <title>Mens Jogger Autumn Pencil Harem Pants</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/f825c1c6ee22b65ba54b54a9c8d2db78.jpg?v=1594342027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pant Style :  Sports PantsMaterial :  CottonMaterial :  PolyesterThickness :  Heavy WeightStyle :  MilitarySuitable type :  RegularFabric Type :  Cotton with loopsDecoration :  PocketsWaist Type :  MediumClosure Type :  Adjustment CordLength : Full  BodyFront Style :  Flat</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Joggers &amp; Sweatpants</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Navy Blue Line / 5XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>AD1TPZW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Navy Blue Line / 4XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>0WAODPT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Navy Blue Line / 3XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>BJAF7WV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Navy Blue Line / 2XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>J4RXCBF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Navy Blue Line / XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>8XPUV2Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Navy Blue Line / L</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>0S5GVLI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Navy Blue Line / M</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>RLX6P81</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray Line / 5XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>DY77AX9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray Line / 4XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>XPKGZQW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray Line / 3XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>KFUWH73</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray Line / 2XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>2T7BKKE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray Line / XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>R9V98NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray Line / L</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>VKT3187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray Line / M</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>7I13L81</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black Line / 5XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>GAG29LW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black Line / 4XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>4V9ADR8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black Line / 3XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>E6503YP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black Line / 2XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>9RGVPIC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black Line / XL</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>058ZJA7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black Line / L</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>JPQ90UW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black Line / M</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>RDRN91P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 36</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>Q0GVFOQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 34</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>UXGM0QY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 33</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>QRBTT2S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 32</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>BP752DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 31</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>J0MCLWW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 30</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>5981IIK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 29</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>S1VMQO8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 28</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>H0YBO80</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Gray / 27</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>DV4UMQ6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 36</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>LP626YG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 34</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>T950R84</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 33</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>WC4HBZK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 32</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>YPT539X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 31</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>FGCO79Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 30</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>KBM4C29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 29</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>5NAYWJD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 28</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>5UHU4BF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Black / 27</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>MWWPOX5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 36</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>MUX2Q6C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 34</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>HZ19CNK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 33</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>X0NI7RO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 32</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>CQ0JVFC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 31</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>2PVJVHE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 30</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>O7GMRZB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 29</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>PVUMKNX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 28</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>Q89SPYU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412826087588</id>
+      <title>Camouflage / 27</title>
+      <s:price currency="USD">17.74</s:price>
+      <s:sku>ATD4FO2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412823761060</id>
+    <published>2020-07-04T12:07:10-04:00</published>
+    <updated>2020-07-04T12:07:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/high-quality-heated-jackets-vest-down-cotton-mens-women-08201"/>
+    <title>High Quality Heated Jackets Vest Down Cotton Mens Women</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/7525832666899e520aecd314e16819d8_7fa33114-2858-45f0-a762-379bbd7dc1ba.jpg?v=1594449976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.54 - 50.66
+            <a href="https://www.go-e-mall.com/products/high-quality-heated-jackets-vest-down-cotton-mens-women-08201">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a intelligence vest for you.1. The core heating technology has reached the international CE, EMC, ROHS, IP certification, and all testing certificates are complete.2. Fabric 20D nylon plus waterproof treatmentProduction is a series of down cotton, not simple cotton4. Specifications and manufacturing requirements are in line with domestic brand standards5. Support OEM, support orders, can be made into your LOGO6. Send Chinese, English, Japanese and Korean manuals for each item.Each garment has four language washing marks, Chinese, English, Japanese, KoreanWith mobile power storge pocket, easy travel.1 minutes fast heat, dispel cold and keep you warm.Set the temperature you want to respond to a variety of environments.A button to heating, three stall temperature control, intelligent heating.It can be washed by machine and can be washed by hand. Do not wring it by hand.General USB interface power supply, longer service life,anti water splashing and washable.The fashion is warm, comfortable and breathable, and it's a good partner for your winter going out.How To Use:1.Take out USB plug2.Plug in removable charger3.Switch on the removable charger4.Press the chest temperature control switch for two second5.Red light flashing,means heating automatic6.After red light flashes for 5 minutes,then automatic turn to white light,means medium temperature7.Manual adjustment has three level,red light means hign-temperature heating continuously.White light means medium heating continuously,blue light means low heating continuously8.Press the chest temperature control switch for two second,lights out and stop heatingTemperature Shift(Manual adjustment)Warm:45 ℃ (Red Light)Comfort:35 ℃ (White Light)Energy Saving:25 ℃ (Blue Light)Specifications:Style: Sleeveless VestMaterial: PolyesterColor: Black, BlueSize: M/L/XL/2XL/3XLPower Supply Interface: USBFunction: Keep warm, Anti water splashing and Prevent cold Package Included:1X Sleeveless Vest(Mobile Power Not Included)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coats &amp; Jackets (M.)</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Blue Vest / 4XL</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>4MFRKG8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Blue Vest / 3XL</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>HITOA92</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Blue Vest / 2XL</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>8ERMVYY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Blue Vest / XL</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>P73KLE3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Blue Vest / L</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>351ZV7J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Blue Vest / M</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>X5M1SGU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black Vest / 4XL</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>DGAGCEE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black Vest / 3XL</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>OKVPFZ8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black Vest / 2XL</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>RZCKGC0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black Vest / XL</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>LKKRC8P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black Vest / L</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>PIUM6FI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black Vest / M</title>
+      <s:price currency="USD">28.54</s:price>
+      <s:sku>U43K05M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Red / 4XL</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>C76IIJO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Red / 3XL</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>SXMHEVK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Red / 2XL</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>CKUEQ4V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>MIO92JK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Red / L</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>1GT17QT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>SEHHMOH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>7RSHK7O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>TVEE3XE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>1H90UXI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412823761060</id>
+      <title>Black / L</title>
+      <s:price currency="USD">50.66</s:price>
+      <s:sku>1MHYMCR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412806262948</id>
+    <published>2020-07-04T12:02:18-04:00</published>
+    <updated>2020-07-04T12:02:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/skmei-brand-mens-sports-watches-luxury-military-watches-for-men-60801"/>
+    <title>SKMEI Brand Mens Sports Watches Luxury Military Watches For Men</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/5c1f13ba88d9e9908d96c492a3058296.jpg?v=1594206740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Item Type :  Dual Screen Wrist WatchesItem Type :  Quartz Wrist WatchesStyle :  SportMovement :  Dual ScreenHousing material :  AcrylicBand Length :  24cmClasp Type :  BuckleWater submersible distance :  5 barFeature :  AlarmFeature :  BacklightFeature :  Water ResistantFeature :  Multiple time zoneFeature :  ChronographFeature :  Shock ResistantFeature :  StopwatchFeature :  Complete CalendarFeature :  Auto DateFeature :  LED displayDial Diameter :  49mmModel Number :  12511Boxes and cases material :  No packageDial Window Material Type :  HardlexCase Shape :  RoundBand Material Type :  PUBandwidth :  22mmCase Thickness :  15mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Watches (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412806262948</id>
+      <title>Red</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>BLQTNW4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412806262948</id>
+      <title>Gray</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>84DY5JA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412806262948</id>
+      <title>Orange</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>92FZMD4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412806262948</id>
+      <title>Gold</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>NWK8GDG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412806262948</id>
+      <title>Blue</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>UBP7QKO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412806262948</id>
+      <title>Black</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>RSSW81D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412800954532</id>
+    <published>2020-07-04T12:00:56-04:00</published>
+    <updated>2020-07-04T12:00:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/kingseven-brand-design-fashion-aluminum-magnesium-sunglasses-men-polarized-driving-eyewear-98554"/>
+    <title>KINGSEVEN Brand Design Fashion Aluminum Magnesium Sunglasses Men Polarized Driving Eyewear</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/9181a9d1d0fde8a881bed018befcea4c.jpg?v=1594419257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eyewear Type: SunglassesItem Type: EyewearStyle: RectangleGender: MenBrand Name: KINGSEVENLenses Optical Attribute: MirrorLenses Optical Attribute: UV400Lenses Optical Attribute: PolarizedLens Width: 68mmLens Height: 43mmFrame Material: AlloyLenses Material: PolycarbonateDepartment Name: Adult</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412800954532</id>
+      <title>Gun Gray</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>12125_9DGPS8O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412800954532</id>
+      <title>Black Gray</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>12125_53OJLRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412800954532</id>
+      <title>Gun Blue</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>12125_VW6BXEC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412800954532</id>
+      <title>Brown</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>12125_A6IJK4C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412800954532</id>
+      <title>Red Black</title>
+      <s:price currency="USD">15.68</s:price>
+      <s:sku>H4EABF3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412768809124</id>
+    <published>2020-07-04T11:52:54-04:00</published>
+    <updated>2020-07-04T11:52:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/rbrovo-2019-semi-rimless-brand-designer-sunglasses-women-men-polarized-uv400-classic-oculos-de-sol-gafas-retro-eyeglasses-16910"/>
+    <title>RBROVO 2019 Semi-Rimless Brand Designer Sunglasses Women/Men Polarized UV400 Classic Oculos De Sol Gafas Retro Eyeglasses</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/70ca9f1272232ad1713d5dcb83e9af9d.jpg?v=1594294211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Style: OvalDepartment Name: AdultGender: WomenFrame Material: AlloyLenses Optical Attribute: MirrorLenses Optical Attribute: PhotochromicLenses Optical Attribute: Anti-ReflectiveLenses Optical Attribute: UV400Lenses Material: AcrylicItem Type: EyewearLens Width: 48mmLens Height: 45mmEyewear Type: SunglassesSuitable for face shape: Round face,Long face,Square face,Oval shape faceProduct Certificate: CE,FDA,UV400Other Names: Sunglasses,Eyewear,EyeglassesSunglasses Style: Classic sunglassesPacking: Cloth Bag/Fiber ClothSize: One size fit all faceUsage Scope: Shopping,Party,Travel,T Show,DrivingVisible light transmittance: 99.9%Lens Color: As picture</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Silver T</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_OLF4OD3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold T</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_WUBBD80</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Silver</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_FDZER6M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Double Tea</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_8NIN3OT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Double Green</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_PZ662J4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Double Gray</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_7X0HK6K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Black Green</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_0L5FZC9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Black Double Gray</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_I9DWPLB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Ocean Red</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_CBXGQ1F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Ocean Purple</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_WBXQ0XU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Ocean Pink</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_NZ4Y131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Ocean Green</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_3SNGT5C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Ocean Blue</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_H2LTZ52</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Silver Silver</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_69FWQFV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Silver Pink</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_N6565UD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Green</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_GUI1DIA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Gray</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_JD3NR21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Gold</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_TP4Z82F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Deep Green</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_QTGUWH8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Blue</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_9WBXGRP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Black Yellow</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_T461YX9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Silver Green</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_CP3Z3E8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Black Red</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_QWSY0KQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Silver Gray</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_GYHGPCG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Silver Blue</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_PUZ61YR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Red</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_HD21RDN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Purple</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_TU8HL7J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Gold Pink</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_TOHA56H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412768809124</id>
+      <title>Black Gray</title>
+      <s:price currency="USD">6.93</s:price>
+      <s:sku>11985_Q8H0L0N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412750852260</id>
+    <published>2020-07-04T11:47:59-04:00</published>
+    <updated>2020-07-04T11:47:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/narrow-small-round-sunglasses-vintage-brand-designer-tiny-metal-frame-flat-lens-79963"/>
+    <title>Narrow Small Round Sunglasses Vintage Brand Designer Tiny Metal Frame Flat Lens</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/d19ead0b2118d95049a3b5e8761c9751.png?v=1594319645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Silver</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>AM2XGW2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Gold</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>ZR4KTMA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Silver Silver</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>FB5AGC6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Silver Pink</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>E5KJSSL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Silver Green</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>5Y7R5CC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Silver Blue</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>YE1QBUE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Gold Red</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>R2QAINY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Gold Black</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>0TMAGG3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412750852260</id>
+      <title>Black Black</title>
+      <s:price currency="USD">6.42</s:price>
+      <s:sku>EERQ0FN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412704157860</id>
+    <published>2020-07-04T11:34:30-04:00</published>
+    <updated>2020-07-04T11:34:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/raider-sport-shorts-53257"/>
+    <title>Raider Sport Shorts</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/707ef8fa09f441f2c64ea5b49fc6c39f.jpg?v=1594298055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pant Style :  RegularSuitable type :  RegularWaist Type :  MediumClosure Type :  Elastic WaistGender :  MenStyle :  CasualMaterial :  PolyesterNote: Please allow 0.5-1 inch difference due to manual measurement. (1 inch = 2.54 cm) the color of the actual objects may vary slightly from the above images due to different computer screen, thanks for your understanding.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Men</s:tag>
+    <s:tag>Shorts (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Gray2 / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_AEEF1X9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Black / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_PSA8Q0C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Gray / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_37R062X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton White / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_QIAXROS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Dark Gray / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_GBMXCLU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Wine Red / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_WFTI4W0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Khaki / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_HTYWQBR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Military Green / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_3KPSDX7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Gray / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_V51CYW2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Brown / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_YHH50SN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Navy Blue / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_QMCUCZG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Blue / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_TPL1Y3F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_WYABY3J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Gray2 / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_I3K1MIC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Black / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_AHB0G88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Gray / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_X56QZKU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton White / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_15IX26C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Dark Gray / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_QZXN6AC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Wine Red / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_H2NAT4U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Khaki / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_M0LJZAQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Military Green / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_602DCX6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_MVZFZDU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Brown / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_6GCPKTN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Navy Blue / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_8FQCKJN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_MWZRH0I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_E8X4L5E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Gray2 / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_Z5PM18J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Black / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_2JEIS3K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Gray / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_DT6EZN3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton White / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_OH01IYG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Dark Gray / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_JRMAR57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Wine Red / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_LAHIA40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Khaki / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_UB42TI1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Military Green / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_6KOBF98</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_G7CPKG9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Brown / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_1G2G4I9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Navy Blue / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_622H4SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_7HJU7DZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Black / L</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_ZVYYHDB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Gray2 / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_77LSVQK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Black / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_3C66AYL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Gray / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>11854_6Q7S9OU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton White / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>3WQ7QWC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Cotton Dark Gray / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>MP6L153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Wine Red / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>K1LAHR5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Khaki / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>IXT6F96</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Military Green / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>KXXFN4R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>2CW65L8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Brown / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>I3CMQ0N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Navy Blue / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>R9FERW3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>DCDMDSS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412704157860</id>
+      <title>Black / M</title>
+      <s:price currency="USD">17.49</s:price>
+      <s:sku>7P47UI4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412695376036</id>
+    <published>2020-07-04T11:31:47-04:00</published>
+    <updated>2020-07-04T11:31:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/car-shock-keychain-72265"/>
+    <title>Car Shock Keychain</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/443aef23ef9c38f549259f89d8b5be35.jpg?v=1594473378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Style : UnisexModeling : Car Gift KeychainMaterial: metalExquisite workmanship, excellent quality.Springs are free to stretchFull metal constructionEasy and convenient to useCar modification enthusiasts giftPackage Includes:1x Keychain </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jewelry (M.)</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412695376036</id>
+      <title>Gold</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>0ZT53NS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412695376036</id>
+      <title>Blue</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>W1VPBEE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412695376036</id>
+      <title>Green</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>6L59Z9D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412695376036</id>
+      <title>Red</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>IR6ZX55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412695376036</id>
+      <title>Black</title>
+      <s:price currency="USD">8.47</s:price>
+      <s:sku>0ZA36G3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412668571812</id>
+    <published>2020-07-04T11:16:47-04:00</published>
+    <updated>2020-07-04T11:16:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/brother-wang-brand-mens-business-dress-long-sleeved-shirt-09315"/>
+    <title>Brother Wang Brand Men&apos;s Business Dress Long-sleeved Shirt</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/5baf582a2af82ee07e26a142b27fa9d4.png?v=1594479379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Item Type: ShirtsGender: MenSleeve Length(cm): FullPattern Type: SolidShirts Type: Dress ShirtsCollar: Turn-down CollarFabric Type: BroadclothStyle: FormalMaterial: COTTONClosure Type: Single BreastedSleeve Style: REGULAR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress Shirts (M.)</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 48</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>3AVONM5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 47</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>5PXR62M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 46</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>BMD3FDK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 45</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>RAN1LHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 44</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>WDO4AFK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 43</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>3YGF0MK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 42</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>0WEZROE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 41</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>YQMDYCO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 40</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>MDZ1PQS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 39</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>1I2EZ3X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 38</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>L0KJOZP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Pink / 37</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>5LF4V50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 48</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>9TMKT7R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 47</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>BYFVI4Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 46</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>KYZF6EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 45</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>BWPZ7FI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 44</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>86N7QWS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 43</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>RW3XSUM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 42</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>PF3B15J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 41</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>5D4DY52</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 40</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>IUGP0ON</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 39</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>WO9O45E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 38</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>3Y5S7GQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>White / 37</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>BKAM2I9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 48</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>A0KDNIO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 47</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>UKMIUWX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 46</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>LRQGS6C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 45</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>GI5JOKE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 44</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>6RZ7NV1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 43</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>POWFF8A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 42</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>OB0J4P5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 41</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>9EF3KP4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 40</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>L1MWA1E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 39</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>NYVQJ71</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 38</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>58TV70I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Light Purple / 37</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>MYUDW6T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 48</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>E69D5YP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 47</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>LQCYR5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 46</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>HBYNZY3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 45</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>5VHTLG7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 44</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>Z1IGQL0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 43</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>X7WOF7B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 42</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>O6HQ0EU</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 41</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>VQCRFM3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 40</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>Q86RYD5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 38</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>94QMONM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Green / 37</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>XT2FFIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 48</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>GVVFQY0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 47</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>IG0M5G8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 46</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>YYLO61F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 45</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>SF26728</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 44</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>3FNESL4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 43</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>4CJU79Z</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 42</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>A2V0CHO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 41</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>JTSO6ZZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 40</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>HMG525J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 39</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>WIU5UAT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 38</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>SYPMMPY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412668571812</id>
+      <title>Black / 37</title>
+      <s:price currency="USD">16.71</s:price>
+      <s:sku>TT63MY1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.go-e-mall.com/products/5412663754916</id>
+    <published>2020-07-04T11:14:56-04:00</published>
+    <updated>2020-07-04T11:14:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.go-e-mall.com/products/m-anxiu-shining-rhinestone-decoration-fashion-loafer-shoes-75493"/>
+    <title>M-anxiu Shining Rhinestone Decoration Fashion Loafer Shoes</title>
+    <s:type></s:type>
+    <s:vendor>GO-E-MALL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0403/5002/3844/products/ade1a455469d66f3cc9085be7e606ac7.jpg?v=1594370422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GO-E-MALL<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> US6.0=EU38=240mm=9.45"(bare feet length)US6.5=EU39=245mm=9.65"US7.0=EU40=250mm=9.84"US8.0=EU41=255mm=10.04"US8.5=EU42=260mm=10.24"US9.5=EU43=265mm=10.43"US10.0=EU44=270mm=10.63"US11.0=EU45=275mm=10.83"US12.0=EU46=280mm=11.02"US12.5=EU47=285mm=11.2US13.0=EU48=290mm=11.42"Specification:Sole Material: RubberFunction: breathableApplicant: youth (18-40 years old)Occasion: daily, businessStyle: Casual Packaging includes:1 * pair of loafers without shoebox  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress Shoes</s:tag>
+    <s:tag>Men</s:tag>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 13</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>H7EDOXA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 12.5</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>VLF9SWB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>W66K17B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 11</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>YZRTVT4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>FZ86S82</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 9.5</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>Q334DB0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 8.5</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>058ARXV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>V93XWS8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 7</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>GWN4LCA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 6.5</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>4RJ8F7O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.go-e-mall.com/products/5412663754916</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">29.05</s:price>
+      <s:sku>RN47OJ8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
